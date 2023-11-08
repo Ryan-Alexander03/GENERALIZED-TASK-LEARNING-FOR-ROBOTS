@@ -1,19 +1,30 @@
 import json  
 import re
-import progressbar
-import os
 import template
 import formalSentence
 
-def simpleMethod(plan,name):
+def method(plan,fileName,param):
     highLvl = plan["high_pddl"]
     lowLvl = plan["low_actions"]
-    methods = []
-    
+    #methods = []
+    highLvlSubtaks=[]
     for highPlan in highLvl: 
         methodName = highPlan['discrete_action']['action']
+
         if methodName == "NoOp":
             break
+        
+        if methodName == "GotoLocation":
+            subtasks = []
+            args = highPlan['discrete_action']['args']
+            sub = {
+                        's_name':"Navigate",
+                        's_args':args
+                        }
+            subtasks.append(sub)
+            highLvlSubtaks.append(makeJSON(methodName,args,subtasks))
+            continue
+
         args = highPlan['discrete_action']['args']
         index = highPlan['high_idx']
         
@@ -48,15 +59,16 @@ def simpleMethod(plan,name):
                         's_name':action["api_action"]["action"],
                         }
                     subtasks.append(sub)
-        
+
+        highLvlSubtaks.append(makeJSON(methodName,args,subtasks))
             #outfile.write(makeJSON(methodName,args,subtasks))
-        methods.append(makeJSON(methodName,args,subtasks))
+    param['subtasks'] = highLvlSubtaks
 
     # for m in methods:
     #     print(m)
     
-    with open(name, "w") as outfile:
-        outfile.write(json.dumps(methods,indent=4))
+    with open(fileName, "w") as outfile:
+        outfile.write(json.dumps(param,indent=4))
     
 
 def makeJSON(name,args,subtasks):
@@ -93,13 +105,19 @@ if __name__ == '__main__':
     #                 simpleMethod(plan,name)
 
     temp = template.templating('traj_data.json')
-    print(temp)
+    #print(temp)
     formal = formalSentence.formalize(temp)
-    print(formal)
+    #print(formal)
     param = formalSentence.paramterise(formal)
-    print(param)
+    #print(param)
 
-        # simpleMethod(plan) 
+    with open('traj_data.json') as f:
+        file = json.load(f)
+        plan = file['plan']
+        taskName = file['task_type']
+        name = f"{taskName}.json"
+        method(plan,name,param) 
+
     # with open('traj_data.json') as f:
     #     #file = json.load(f)
     #     #f = open(json_path)
@@ -108,7 +126,4 @@ if __name__ == '__main__':
     #     #plan = file['plan']
     #     print(tasks)
     #     # simpleMethod(plan)
-    
-
-
     

@@ -107,7 +107,7 @@ def templating(json_path,file):
 
 
 if __name__ == '__main__':
-    LLM = Llama(model_path="/mnt/Drive2/research/llama.cpp/models/llama-2-13b-chat/ggml-model-q4_0.bin",n_ctx=4000) # context length of 4000, LLama 2's max
+    LLM = Llama(model_path="/mnt/Drive2/GENERALIZED-TASK-LEARNING-FOR-ROBOTS/llama.cpp/models/llama-2-13b-chat/ggml-model-q4_0.bin",n_ctx=4000) # context length of 4000, LLama 2's max
 
 
     #prevoius and suffix used for formating converstaion
