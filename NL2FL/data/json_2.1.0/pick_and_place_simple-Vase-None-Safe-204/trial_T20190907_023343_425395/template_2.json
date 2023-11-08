@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "around",
+   "Preposition": "walk",
+   "Landmark": "shelves"
+ }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "blue container",
+   "From": "second shelf"
+ }
+}, 
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "around",
+   "Preposition": "walk",
+   "Landmark": "safe"
+ }
+}, 
+{"sentence":
+{
+   "Action": "put",
+   "Object": "container",
+   "Into": "safe"
+ }
+} 
+]}

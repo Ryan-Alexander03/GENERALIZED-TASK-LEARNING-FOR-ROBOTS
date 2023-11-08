@@ -1,0 +1,99 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "to",
+        "Landmark": "black table"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "knife",
+        "From": "next to lettuce"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "to",
+        "Landmark": "refrigerator"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "open",
+        "Object": "refrigerator"
+      }, 
+{
+        "Action": "cut",
+        "Object": "yellow apple",
+        "Into": "three pieces"
+      }
+]}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around"
+      }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "knife",
+        "On": "pan on stove's top left burner"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "pan with knife in it",
+        "From": "stove"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left"
+      }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "pan with knife",
+        "On": "table below potato"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "open",
+        "Object": "refrigerator"
+      }, 
+{
+        "Action": "pick up",
+        "Object": "yellow apple piece to the left",
+        "From": "refrigerator"
+      }
+]}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around"
+      }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "apple slice",
+        "On": "pan to the left of knife on it"
+      }
+} 
+]}

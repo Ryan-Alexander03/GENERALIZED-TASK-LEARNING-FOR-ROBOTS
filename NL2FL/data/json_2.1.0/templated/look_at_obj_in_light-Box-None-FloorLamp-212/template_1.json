@@ -1,0 +1,31 @@
+{"sentences":[
+{"sentence":
+{
+         "Action": "turn",
+          "Direction": "right",
+           "Preposition": "face",
+           "Landmark": "small brown table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+          "Object": "box",
+           "Location": "small brown table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "carry",
+          "Object": "box",
+           "Location": "small brown table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "hold",
+          "Object": "box",
+           "Location": "small brown table"
+        }
+} 
+]}

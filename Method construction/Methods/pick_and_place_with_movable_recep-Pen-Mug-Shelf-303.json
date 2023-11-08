@@ -1,0 +1,199 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "sidetable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "pen"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Pen"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "mug"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "pen",
+            "mug"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Pen",
+                    "Mug"
+                ]
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "mug"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Mug"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "shelf"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "mug",
+            "shelf"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Mug",
+                    "Shelf"
+                ]
+            }
+        ]
+    }
+]

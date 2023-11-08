@@ -1,0 +1,220 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "sinkbasin"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "cup"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Cup"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "fridge"
+        ],
+        "subtasks": [
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "CoolObject",
+        "m_args": [
+            "cup"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Fridge"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Cup",
+                    "Fridge"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Fridge"
+            },
+            {
+                "s_name": "OpenObject",
+                "s_args": "Fridge"
+            },
+            {
+                "s_name": "PickupObject",
+                "s_args": "Cup"
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Fridge"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "cabinet"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "cup",
+            "cabinet"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Cabinet"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Cup",
+                    "Cabinet"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Cabinet"
+            }
+        ]
+    }
+]

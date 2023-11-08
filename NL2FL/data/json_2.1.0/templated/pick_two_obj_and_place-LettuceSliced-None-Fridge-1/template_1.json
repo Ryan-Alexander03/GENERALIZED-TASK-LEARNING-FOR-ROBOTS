@@ -1,0 +1,144 @@
+{"sentences":[
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "walk",
+"Location": "straight past the island"
+}, 
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "walk",
+"Location": "black stools near the island"
+}, 
+{
+"Action": "face",
+"Location": "island counter"
+}
+]}, 
+{"sentence":
+{
+"Action": "take",
+"Object": "lettuce closest to the hand on the island counter"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "right"
+}, 
+{
+"Action": "walk",
+"Location": "straight"
+}, 
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "walk",
+"Location": "towards the refrigerator"
+}
+]}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "refrigerator"
+}, 
+{
+"Action": "put",
+"Object": "lettuce on the top rack",
+"Location": "top rack"
+}, 
+{
+"Action": "close",
+"Object": "refrigerator"
+}
+]}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around"
+}, 
+{
+"Action": "go",
+"Location": "island"
+}
+]}, 
+{"sentence":
+{
+"Action": "take",
+"Object": "lettuce on the island counter"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around"
+}, 
+{
+"Action": "go",
+"Location": "refrigerator"
+}
+]}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "refrigerator"
+}, 
+{
+"Action": "put",
+"Object": "lettuce on the top rack on the right side above the tomato",
+"Location": "top rack on the right side above the tomato"
+}, 
+{
+"Action": "close",
+"Object": "refrigerator"
+}
+]}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "go",
+"Location": "counter to the right of the stove"
+}
+]}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "knife to the right of the pot on the counter"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around"
+}, 
+{
+"Action": "go",
+"Location": "refrigerator"
+}
+]}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "refrigerator"
+}, 
+{
+"Action": "cut",
+"Object": "both lettuce in the refrigerator"
+}, 
+{
+"Action": "close",
+"Object": "refrigerator"
+}
+]} 
+]}

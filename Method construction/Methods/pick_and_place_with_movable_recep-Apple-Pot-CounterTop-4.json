@@ -1,0 +1,128 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "stoveburner"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "pot"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Pot"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "countertop"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "pot",
+            "countertop"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Pot",
+                    "CounterTop"
+                ]
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "apple"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Apple"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "apple",
+            "pot"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Apple",
+                    "Pot"
+                ]
+            }
+        ]
+    }
+]

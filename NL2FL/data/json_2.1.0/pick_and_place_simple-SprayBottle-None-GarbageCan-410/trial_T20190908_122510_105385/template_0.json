@@ -1,0 +1,50 @@
+{"sentences":[
+{"sentence":[
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": null,
+    "Location": null
+}, 
+{
+    "Action": "walk",
+    "Direction": "towards",
+    "Preposition": "to",
+    "Location": "toilet"
+}, 
+y}
+]}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "spray bottle",
+    "Location": "on the back of the toilet"
+}
+}, 
+{"sentence":[
+{
+    "Action": "turn",
+    "Direction": "right",
+    "Preposition": null,
+    "Location": null
+}, 
+{
+    "Action": "take",
+    "Object": "two steps",
+    "Location": null
+}, 
+{
+    "Action": "turn",
+    "Direction": "left",
+    "Preposition": "to face",
+    "Location": "trash can"
+}
+]}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "spray bottle",
+    "Location": "in trash can"
+}
+} 
+]}

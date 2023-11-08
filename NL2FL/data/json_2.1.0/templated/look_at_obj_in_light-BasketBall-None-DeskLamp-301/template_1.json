@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "walk straight forward",
+        "Direction": "straight forward",
+        "Preposition": "face",
+        "Landmark": "basketball"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "basketball",
+        "Location": "off of the beanbag chair"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn right",
+        "Direction": "right",
+        "Preposition": "walk to",
+        "Landmark": "white dresser"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn on",
+        "Object": "light",
+        "Location": "on top of the dresser"
+     }
+} 
+]}

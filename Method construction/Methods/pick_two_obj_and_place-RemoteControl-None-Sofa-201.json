@@ -1,0 +1,273 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "armchair"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "remotecontrol"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "RemoteControl"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "sofa"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "remotecontrol",
+            "sofa"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "RemoteControl",
+                    "Sofa"
+                ]
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "coffeetable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "remotecontrol"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "RemoteControl"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "sofa"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "remotecontrol",
+            "sofa"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "RemoteControl",
+                    "Sofa"
+                ]
+            }
+        ]
+    }
+]

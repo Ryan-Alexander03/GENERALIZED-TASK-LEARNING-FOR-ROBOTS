@@ -1,0 +1,136 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+       "Direction": "right"
+      }, 
+{
+      "Action": "move",
+       "Direction": "forward"
+      }, 
+{
+      "Action": "turn",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "kitchen island"
+      }
+]}, 
+{"sentence":[
+{
+      "Action": "pick up",
+       "Object": "knife",
+       "From": "kitchen island"
+      }, 
+{
+      "Action": "pick up",
+       "Object": "loaf of bread",
+       "From": "right"
+      }
+]}, 
+{"sentence":[
+{
+      "Action": "go",
+       "To": "counter behind"
+      }, 
+{
+      "Action": "place",
+       "Adjective": "adjacent",
+       "Preposition": "to",
+       "Object": "fridge",
+       "Location": "adjacent"
+      }
+]}, 
+{"sentence":
+{
+      "Action": "slice",
+       "On": "counter",
+       "Object": "tomato"
+      }
+}, 
+{"sentence":
+{
+      "Action": "go",
+       "To": "fridge",
+       "Preposition": "to",
+       "Location": "left"
+      }
+}, 
+{"sentence":[
+{
+      "Action": "put",
+       "In": "fridge",
+       "Object": "knife"
+      }, 
+{
+      "Action": "put",
+       "On": "bottom shelf",
+       "Object": "knife"
+      }
+]}, 
+{"sentence":[
+{
+      "Action": "return",
+       "To": "counter"
+      }, 
+{
+      "Action": "place",
+       "Adjective": "adjacent",
+       "Preposition": "to",
+       "Object": "fridge",
+       "Location": "adjacent"
+      }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "slice",
+       "From": "counter"
+      }
+}, 
+{"sentence":
+{
+      "Action": "go",
+       "To": "fridge",
+       "Preposition": "to",
+       "Location": "left"
+      }
+}, 
+{"sentence":
+{
+      "Action": "chill",
+       "In": "fridge",
+       "Object": "tomato slice"
+      }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+       "Direction": "left"
+      }, 
+{
+      "Action": "move",
+       "Direction": "forward"
+      }, 
+{
+      "Action": "turn",
+       "Direction": "left"
+      }, 
+{
+      "Action": "move",
+       "Direction": "forward"
+      }, 
+{
+      "Action": "turn",
+       "Direction": "right",
+       "Preposition": "face",
+       "Landmark": "trash bin"
+      }
+]}, 
+{"sentence":
+{
+      "Action": "put",
+       "Into": "trash bin",
+       "Object": "tomato slice"
+      }
+} 
+]}

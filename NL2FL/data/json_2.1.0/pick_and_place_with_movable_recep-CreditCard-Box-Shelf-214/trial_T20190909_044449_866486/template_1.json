@@ -1,0 +1,71 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "walk",
+"Landmark": "table",
+"Location": "couch"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "blue credit card",
+"Location": "table"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "walk",
+"Location": "ahead"
+}, 
+{
+"Action": "then left",
+"Direction": "left",
+"Preposition": "passing",
+"Landmark": "coffee table",
+"Location": "table with the box"
+}
+]}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "credit card",
+"Location": "box",
+"Preposition": "on",
+"Landmark": "table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "box",
+"Location": ""
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "walk",
+"Landmark": "black shelf",
+"Location": "corner"
+}
+}, 
+{"sentence":[
+{
+"Action": "place",
+"Object": "box",
+"Location": "shelf"
+}, 
+{
+"Action": "to the left",
+"Direction": "left",
+"Preposition": "of",
+"Landmark": "newspaper"
+}
+]} 
+]}

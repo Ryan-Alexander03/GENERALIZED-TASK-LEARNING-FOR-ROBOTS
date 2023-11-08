@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "walk",
+      "Direction": "towards",
+      "Preposition": "the wall"
+     }, 
+{
+      "Action": "then turn",
+      "Direction": "left",
+      "Preposition": "towards",
+      "Landmark": "the desk"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "statue",
+      "From": "the desk"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "all the way around"
+     }, 
+{
+      "Action": "then turn",
+      "Direction": "right",
+      "Preposition": "towards",
+      "Landmark": "the wall"
+     }, 
+{
+      "Action": "then turn",
+      "Direction": "right",
+      "Preposition": "and walk towards",
+      "Landmark": "the window"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "hold",
+      "Object": "statue",
+      "In place": ""
+     }
+} 
+]}

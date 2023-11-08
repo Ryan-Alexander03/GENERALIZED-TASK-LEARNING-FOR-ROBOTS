@@ -1,0 +1,63 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "go",
+"Direction": "right",
+"Preposition": "stand in front of",
+"Landmark": "counter to the right of the sink"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "knife",
+"From": "the counter"
+}
+}, 
+{"sentence":
+{
+"Action": "take a step",
+"Direction": "left",
+"Preposition": "stand in front of",
+"Landmark": "sink"
+}
+}, 
+{"sentence":[
+{
+"Action": "put",
+"Object": "knife",
+"Into": "the sink"
+}, 
+{
+"Action": "turn",
+"On": "the water"
+}, 
+{
+"Action": "turn",
+"Off": "the water"
+}, 
+{
+"Action": "pick up",
+"Object": "knife"
+}
+]}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "left",
+"Preposition": "stand in front of",
+"Landmark": "counter to the left of the sink"
+}
+}, 
+{"sentence":
+{
+"Action": "open",
+"Object": "drawer"
+"Action": "put",
+"Object": "knife",
+"Into": "the drawer"
+"Action": "shut",
+"Object": "drawer"
+}
+} 
+]}

@@ -1,0 +1,84 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "go",
+      "Landmark": "sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "butter knife",
+      "From": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "slice",
+      "Object": "tomato",
+      "To": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "go",
+      "Landmark": "microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "knife",
+      "Into": "the microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "go",
+      "Landmark": "sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "slice of tomato",
+      "From": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "go",
+      "Landmark": "microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "heat",
+      "Object": "tomato",
+      "Into": "the microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "go",
+      "Landmark": "sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "tomato",
+      "Into": "the sink"
+    }
+} 
+]}

@@ -1,0 +1,79 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "walk",
+"Direction": "over",
+"Preposition": "behind",
+"Landmark": "oven"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "metal pot",
+"Location": "back left burner of the stove"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "towards",
+"Landmark": "sink"
+}, 
+{
+"Action": "hang a right",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "fridge"
+}
+]}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "fridge",
+"Preposition": "and put the metal pot inside",
+"Location": "door"
+}, 
+{
+"Action": "open",
+"Object": "fridge",
+"Preposition": "back up",
+"Location": "door"
+"Action": "take out",
+"Object": "now chilled metal pot"
+"Action": "close",
+"Object": "fridge"
+}
+]}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "and take a step",
+"Location": "forward"
+}, 
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "and walk",
+"Location": "forward"
+}, 
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "again to face",
+"Landmark": "counter"
+}
+]}, 
+{"sentence":
+{
+"Action": "open",
+"Object": "rightmost lower cabinet door below the counter",
+"Preposition": "and put the chilled metal pot inside",
+"Location": "door"
+"Action": "close",
+"Object": "cabinet door"
+}
+} 
+]}

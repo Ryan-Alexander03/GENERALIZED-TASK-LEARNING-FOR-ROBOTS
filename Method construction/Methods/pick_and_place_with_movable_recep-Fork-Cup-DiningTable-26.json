@@ -1,0 +1,207 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "diningtable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "fork"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Fork"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "cup"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "fork",
+            "cup"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Cabinet"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Fork",
+                    "Cup"
+                ]
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "cup"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Cup"
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Cabinet"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "diningtable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "cup",
+            "diningtable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Cup",
+                    "DiningTable"
+                ]
+            }
+        ]
+    }
+]

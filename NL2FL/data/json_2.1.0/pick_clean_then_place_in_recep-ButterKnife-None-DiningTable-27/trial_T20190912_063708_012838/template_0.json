@@ -1,0 +1,53 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "walk forward",
+            "Direction": "right",
+            "Preposition": "stand in front of",
+            "Landmark": "toaster"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "knife in front of the toaster"
+        }
+}, 
+{"sentence":
+{
+            "Action": "go",
+            "Direction": "left",
+            "Preposition": "to the sink"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "put",
+            "Object": "knife",
+            "Location": "the sink"
+        }, 
+{
+            "Action": "turn on",
+            "Preposition": "the water",
+            "Duration": "briefly"
+        }, 
+{
+            "Action": "pick up",
+            "Object": "knife again"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "turn around",
+            "Direction": "right",
+            "Preposition": "to the table"
+        }
+}, 
+{"sentence":
+{
+            "Action": "put down",
+            "Object": "knife",
+            "Location": "the table"
+        }
+} 
+]}

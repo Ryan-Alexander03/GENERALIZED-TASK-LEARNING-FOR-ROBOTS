@@ -1,0 +1,100 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "go forward",
+     "Direction": "to the left",
+     "Preposition": "on the other side of the room",
+     "Landmark": "large white table"
+   }
+}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "knife",
+     "From": "the table"
+   }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "to face",
+     "Landmark": "small black table"
+   }
+}, 
+{"sentence":
+{
+     "Action": "use",
+     "Object": "knife",
+     "To": "slice the pear"
+   }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "to the left of",
+     "Landmark": "section of counter"
+   }
+}, 
+{"sentence":[
+{
+     "Action": "stick",
+     "Object": "knife",
+     "To": "the counter"
+   }, 
+{
+     "Action": "stick",
+     "Object": "knife",
+     "Preposition": "directly in front of",
+     "Landmark": "salt shaker"
+   }
+]}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "to return",
+     "Landmark": "small black table"
+   }
+}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "slice of the pear"
+   }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "to go",
+     "Landmark": "sink"
+   }
+}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "pear",
+     "To": "the sink"
+     "Action": "run",
+     "Object": "faucet",
+     "Over": "the pear for a few seconds"
+   }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "to return",
+     "Landmark": "small black table"
+   }
+}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "pear slice",
+     "To": "the small black table"
+   }
+} 
+]}

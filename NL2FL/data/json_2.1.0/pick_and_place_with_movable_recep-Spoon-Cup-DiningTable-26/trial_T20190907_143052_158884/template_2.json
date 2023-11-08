@@ -1,0 +1,54 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "counter"
+    }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "spoon",
+       "Location": "in front of the coffee maker"
+     }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "to",
+      "Preposition": "with",
+      "Landmark": "fridge"
+    }
+}, 
+{"sentence":
+{
+       "Action": "open",
+       "Object": "fridge",
+       "Location": "on the top shelf to the right of the tomato"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "cup on the top shelf with the spoon in it",
+      "Location": "to the right of the tomato"
+     }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "to",
+      "Preposition": "with",
+      "Landmark": "table"
+    }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "cup with the spoon in it",
+       "Location": "on the right front corner of the table"
+     }
+} 
+]}

@@ -1,0 +1,20 @@
+{"sentences":[
+{"sentence":
+{"Action": "turn", "Direction": "left", "Preposition": "up", "Landmark": "fridge"}
+}, 
+{"sentence":
+{"Action": "open", "Object": "white mug", "From": "fridge"}
+}, 
+{"sentence":
+{"Action": "turn", "Direction": "right", "Preposition": "to", "Landmark": "microwave"}
+}, 
+{"sentence":
+{"Action": "heat", "Object": "mug", "From": "microwave"}
+}, 
+{"sentence":
+{"Action": "turn", "Direction": "left", "Preposition": "past", "Landmark": "wooden shelf"}
+}, 
+{"sentence":
+{"Action": "put", "Object": "mug", "On": "top shelf"}
+} 
+]}

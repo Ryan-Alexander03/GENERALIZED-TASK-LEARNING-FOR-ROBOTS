@@ -1,0 +1,60 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "over",
+        "Preposition": "to",
+        "Landmark": "the toilet"
+    }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "empty toilet paper roll",
+       "From": "the floor"
+    }
+}, 
+{"sentence":
+{
+       "Action": "bring",
+       "Object": "empty toilet paper roll",
+       "To": "the sink"
+    }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "empty toilet paper roll",
+       "On": "the counter between the sinks"
+    }
+}, 
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "over",
+        "Preposition": "to",
+        "Landmark": "the toilet"
+    }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "toilet paper",
+       "From": "the toilet tank lid"
+    }
+}, 
+{"sentence":
+{
+       "Action": "bring",
+       "Object": "toilet paper",
+       "To": "the counter"
+    }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "toilet paper",
+       "On": "the counter next to soap"
+    }
+} 
+]}

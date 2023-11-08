@@ -1,0 +1,86 @@
+{"sentences":[
+{"sentence":
+{
+         "Action": "move",
+          "Direction": "forward",
+          "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+          "Object": "knife",
+          "Location": "sink"
+        }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+          "Direction": "around",
+          "Landmark": "table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "slice",
+          "Object": "potato",
+          "Location": "table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+          "Direction": "around",
+          "Landmark": "shelf under the sink"
+        }
+}, 
+{"sentence":
+{
+         "Action": "place",
+          "Object": "knife",
+          "Location": "shelf"
+        }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+          "Direction": "around",
+          "Landmark": "table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+          "Object": "potato slice",
+          "Location": "table"
+        }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+          "Direction": "left",
+          "Landmark": "oven"
+        }
+}, 
+{"sentence":
+{
+         "Action": "cook",
+          "Object": "potato",
+          "Location": "oven"
+        }
+}, 
+{"sentence":
+{
+         "Action": "move",
+          "Direction": "right",
+          "Landmark": "fridge"
+        }
+}, 
+{"sentence":
+{
+         "Action": "place",
+          "Object": "potato",
+          "Location": "fridge"
+        }
+} 
+]}

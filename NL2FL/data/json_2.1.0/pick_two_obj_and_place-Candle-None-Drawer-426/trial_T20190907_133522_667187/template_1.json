@@ -1,0 +1,80 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "cross",
+      "Direction": null,
+      "Preposition": null,
+      "Landmark": null
+    }, 
+{
+      "Action": "turn",
+      "Direction": "to the right",
+      "Preposition": "to",
+      "Landmark": "counter"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "candlestick",
+      "Location": "in the back of the soap dispenser"
+    }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "to the other end",
+      "Preposition": "to",
+      "Landmark": "counter"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "candlestick",
+      "Location": "in the bottom end drawer"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": null,
+      "Preposition": null,
+      "Landmark": null
+    }, 
+{
+      "Action": "walk",
+      "Direction": null,
+      "Preposition": null,
+      "Landmark": "toilet"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "candlestick",
+      "Location": "next to the soap dispenser"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": null,
+      "Preposition": null,
+      "Landmark": null
+    }, 
+{
+      "Action": "walk",
+      "Direction": "back to the counter",
+      "Preposition": null,
+      "Landmark": null
+    }
+]}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "candlestick",
+      "Location": "next to the first candlestick in the drawer"
+    }
+} 
+]}

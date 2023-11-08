@@ -1,0 +1,64 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "across",
+        "Preposition": "in front of",
+        "Landmark": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "bar of soap",
+        "From": "right from inside",
+        "Preposition": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "carry to face",
+        "Landmark": "trash bin in the corner next to the toilet"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "bar of soap",
+        "Into": "trash bin"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "again",
+        "Preposition": "return to",
+        "Landmark": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "bar of soap",
+        "From": "counter to the left of",
+        "Preposition": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "again",
+        "Preposition": "move back to",
+        "Landmark": "trash bin"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "bar of soap",
+        "Into": "trash bin"
+      }
+} 
+]}

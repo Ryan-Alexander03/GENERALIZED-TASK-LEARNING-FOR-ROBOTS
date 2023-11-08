@@ -1,0 +1,196 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "sidetable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "keychain"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "KeyChain"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "drawer"
+        ],
+        "subtasks": [
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "keychain",
+            "drawer"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Drawer"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "KeyChain",
+                    "Drawer"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Drawer"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "desk"
+        ],
+        "subtasks": [
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "LookDown"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "keychain"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "KeyChain"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "drawer"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "RotateLeft"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "keychain",
+            "drawer"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Drawer"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "KeyChain",
+                    "Drawer"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Drawer"
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "past",
+      "Landmark": "bed"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "across",
+      "Preposition": "from",
+      "Landmark": "dresser"
+     }
+]}, 
+{"sentence":[
+{
+      "Action": "pick up",
+      "Object": "pen"
+     }, 
+{
+      "Action": "pick up",
+      "Object": "pen",
+      "From": "in front of the plant"
+     }, 
+{
+      "Action": "pick up",
+      "Object": "pen",
+      "From": "on the right side of the dresser"
+     }
+]}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "past",
+      "Landmark": "bed"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "night stand on the left side of the bed"
+     }, 
+l}
+]}, 
+{"sentence":[
+{
+      "Action": "place",
+      "Object": "pen",
+      "Into": "in front of the lamp"
+     }, 
+{
+      "Action": "place",
+      "Object": "pen",
+      "Near": "near the edge of the night stand"
+     }
+]}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "just past",
+      "Landmark": "bed"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "end of the bed"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "second dresser on your right"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "pen on the dresser",
+      "From": "to the right of the bowl"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "towards",
+      "Landmark": "door"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "end of the bed"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "back to",
+      "Landmark": "night stand"
+     }
+]}, 
+{"sentence":[
+{
+      "Action": "place",
+      "Object": "pen",
+      "Into": "behind the other pen"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "on",
+      "Preposition": "on",
+      "Landmark": "night stand"
+     }
+]} 
+]}

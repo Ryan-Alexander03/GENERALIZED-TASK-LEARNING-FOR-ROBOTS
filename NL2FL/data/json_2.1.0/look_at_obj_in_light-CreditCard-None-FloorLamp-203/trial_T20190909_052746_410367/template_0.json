@@ -1,0 +1,31 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "walk",
+      "Direction": "to",
+      "Preposition": "the",
+      "Landmark": "coffee table"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "credit card",
+      "From": "the table"
+    }
+}, 
+{"sentence":
+{
+      "Action": "take",
+      "Direction": "to",
+      "Preposition": "the",
+      "Landmark": "lamp"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn on",
+      "Object": "lamp"
+    }
+} 
+]}

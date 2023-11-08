@@ -1,0 +1,34 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "right",
+            "Preposition": "past",
+            "Landmark": "right side of the couch"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "watch",
+            "From": "black table"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "turn",
+            "Direction": "around"
+        }, 
+{
+            "Action": "turn",
+            "Direction": "right"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "turn on",
+            "Preposition": "on",
+            "Landmark": "lamp"
+        }
+} 
+]}

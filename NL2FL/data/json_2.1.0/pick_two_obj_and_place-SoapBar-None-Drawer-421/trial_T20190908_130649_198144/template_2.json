@@ -1,0 +1,60 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "go",
+       "Direction": "right",
+       "Preposition": "to",
+       "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "bar of soap"
+     }
+}, 
+{"sentence":
+{
+       "Action": "go",
+       "Direction": "to",
+       "Preposition": "in",
+       "Landmark": "sink drawer"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "bar of soap",
+       "Into": "drawer"
+     }
+}, 
+{"sentence":
+{
+       "Action": "go",
+       "Direction": "left",
+       "Preposition": "to",
+       "Landmark": "ink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "bar of soap"
+     }
+}, 
+{"sentence":
+{
+       "Action": "go",
+       "Direction": "to",
+       "Preposition": "in",
+       "Landmark": "sink drawer"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "bar of soap",
+       "Into": "drawer"
+     }
+} 
+]}

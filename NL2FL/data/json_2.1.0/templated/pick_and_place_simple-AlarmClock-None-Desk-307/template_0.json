@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "take a step",
+      "Direction": "left",
+      "Preposition": "in front of",
+      "Landmark": "alarm clock"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "alarm clock"
+    }
+}, 
+{"sentence":
+{
+      "Action": "take two steps",
+      "Direction": "right",
+      "Preposition": "in front of",
+      "Landmark": "book with a phone to the left of it"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "alarm clock",
+      "Preposition": "on",
+      "Landmark": "left CD"
+    }
+} 
+]}

@@ -1,0 +1,96 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "walk forward",
+       "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "knife",
+       "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "walk forward",
+       "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "cut",
+       "Object": "tomato",
+       "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "walk",
+       "Direction": "around",
+       "Preposition": "face",
+       "Landmark": "microwave"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "knife",
+       "Location": "microwave"
+     }
+}, 
+{"sentence":
+{
+       "Action": "walk",
+       "Direction": "around",
+       "Preposition": "face",
+       "Landmark": "sliced tomato on the counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "slice of tomato",
+       "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "step",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "wash",
+       "Object": "tomato slice",
+       "Location": "sink"
+      "followed by":
+       "Action": "remove",
+       "Object": "tomato slice",
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "walk",
+       "Direction": "around",
+       "Preposition": "face",
+       "Landmark": "microwave"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "tomato",
+       "Location": "microwave"
+     }
+} 
+]}

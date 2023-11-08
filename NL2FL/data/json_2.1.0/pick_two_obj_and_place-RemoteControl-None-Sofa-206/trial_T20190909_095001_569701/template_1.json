@@ -1,0 +1,57 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "white coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "remote",
+"Location": "in front of laptop"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "blue couch",
+"Landmark": "coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "remote",
+"Location": "couch"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "coffee table",
+"Landmark": "face"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "remote",
+"Location": "right side of coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "blue couch"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "remote",
+"Location": "right of first remote",
+"Preposition": "to the right"
+}
+} 
+]}

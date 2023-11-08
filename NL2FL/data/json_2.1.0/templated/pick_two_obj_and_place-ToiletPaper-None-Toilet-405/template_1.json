@@ -1,0 +1,68 @@
+{"sentences":[
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "left"
+      }, 
+{
+         "Action": "go",
+         "To": "sink"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "right"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "take",
+         "Object": "roll of toilet paper",
+         "From": "cabinet above the sink"
+      }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "around"
+      }
+}, 
+{"sentence":
+{
+         "Action": "put",
+         "On": "back of the toilet"
+      }
+}, 
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "left"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "right"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "empty toilet paper roll",
+         "From": "counter"
+      }
+}, 
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "right"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "around"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "left"
+      }
+} 
+]}

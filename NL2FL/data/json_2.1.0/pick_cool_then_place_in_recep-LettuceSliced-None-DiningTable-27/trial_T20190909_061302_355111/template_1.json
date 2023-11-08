@@ -1,0 +1,124 @@
+{"sentences":[
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "left"
+       }, 
+{
+        "Action": "go",
+        "Direction": "forward"
+       }, 
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "to",
+        "Landmark": "white table"
+       }, 
+{
+        "Action": "go",
+        "To": "table"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "take",
+        "Object": "knife in front of the bread",
+        "From": "table"
+       }
+}, 
+{"sentence":
+{
+        "Action": "cut",
+        "Object": "lettuce to the left of the glass",
+        "From": "table"
+       }
+}, 
+{"sentence":[
+{
+        "Action": "go",
+        "Direction": "left"
+       }, 
+{
+        "Action": "face",
+        "Landmark": "table"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "knife on the cut lettuce",
+        "To": "table"
+       }
+}, 
+{"sentence":[
+{
+        "Action": "go",
+        "Direction": "right"
+       }, 
+{
+        "Action": "face",
+        "Landmark": "table"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "take",
+        "Object": "slice of lettuce",
+        "From": "table"
+       }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "left"
+       }, 
+{
+        "Action": "go",
+        "Direction": "forward",
+        "To": "wall"
+       }, 
+{
+        "Action": "turn",
+        "Direction": "left"
+       }, 
+{
+        "Action": "go",
+        "To": "fridge",
+        "Direction": "forward"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "chill",
+        "Object": "slice of lettuce",
+        "From": "fridge"
+       }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "left"
+       }, 
+{
+        "Action": "go",
+        "Direction": "forward"
+       }, 
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "to",
+        "Landmark": "white table"
+       }, 
+{
+        "Action": "go",
+        "To": "table"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "lettuce behind the fork",
+        "To": "table"
+       }
+} 
+]}

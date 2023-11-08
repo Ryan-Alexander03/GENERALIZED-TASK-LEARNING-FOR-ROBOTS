@@ -1,0 +1,29 @@
+{"sentences":[
+{"sentence":
+{
+   "Action": "take a step",
+   "Direction": "left",
+   "Landmark": "alarm clock"
+ }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "alarm clock"
+ }
+}, 
+{"sentence":
+{
+   "Action": "take two steps",
+   "Direction": "right",
+   "Landmark": "book with a phone to the left of it"
+ }
+}, 
+{"sentence":
+{
+   "Action": "put",
+   "Object": "alarm clock",
+   "Location": "left CD"
+ }
+} 
+]}

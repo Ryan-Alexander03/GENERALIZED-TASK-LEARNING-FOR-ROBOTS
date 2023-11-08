@@ -1,0 +1,62 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "to the right",
+"Preposition": "walk",
+"Landmark": "white coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "remote",
+"Location": "in front of the laptop"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "to the left",
+"Preposition": "over to",
+"Landmark": "blue couch"
+}
+}, 
+{"sentence":
+{
+"Action": "put down",
+"Object": "remote",
+"Location": "on the blue couch"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "to the right",
+"Preposition": "back over to",
+"Landmark": "coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "remote",
+"Location": "right side of the coffee table"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "to the left",
+"Preposition": "back over to",
+"Landmark": "blue couch"
+}
+}, 
+{"sentence":
+{
+"Action": "put down",
+"Object": "remote",
+"Location": "to the right of the first remote on the couch"
+}
+} 
+]}

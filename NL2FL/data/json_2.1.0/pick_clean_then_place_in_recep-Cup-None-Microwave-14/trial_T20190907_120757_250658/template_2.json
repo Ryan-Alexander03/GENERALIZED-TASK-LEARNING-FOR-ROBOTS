@@ -1,0 +1,76 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "go straight",
+"Direction": "left",
+"Preposition": "face",
+"Landmark": "microwave"
+}
+}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "microwave"
+}, 
+{
+"Action": "remove",
+"Object": "green cup",
+"Location": "inside microwave"
+}, 
+{
+"Action": "close",
+"Object": "microwave"
+}
+]}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "face",
+"Landmark": "sink"
+}
+}, 
+{"sentence":[
+{
+"Action": "place",
+"Object": "cup",
+"Location": "sink"
+}, 
+{
+"Action": "run",
+"Object": "water"
+}, 
+{
+"Action": "turn off",
+"Object": "water"
+}, 
+{
+"Action": "pick up",
+"Object": "cup",
+"Location": "sink"
+}
+]}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "face",
+"Landmark": "microwave"
+}
+}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "microwave"
+}, 
+{
+"Action": "place",
+"Object": "cup of water",
+"Location": "inside microwave"
+}, 
+{
+"Action": "shut",
+"Object": "microwave"
+}
+]} 
+]}

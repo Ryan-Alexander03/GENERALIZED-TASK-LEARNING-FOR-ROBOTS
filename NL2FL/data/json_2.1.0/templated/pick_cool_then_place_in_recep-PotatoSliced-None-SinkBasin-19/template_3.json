@@ -1,0 +1,104 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "head",
+       "Landmark": "counter"
+      }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "bread knife",
+       "Location": {
+        "Preposition": "on",
+        "Landmark": "counter"
+       }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "then",
+       "Landmark": {
+        "Preposition": "head",
+        "Landmark": "left side"
+       }
+}, 
+{"sentence":
+{
+       "Action": "slice",
+       "Object": "potato",
+       "Location": {
+        "Preposition": "on",
+        "Landmark": "round table"
+       }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "head",
+       "Landmark": "fridge"
+      }
+}, 
+{"sentence":
+{
+       "Action": "open",
+       "Object": "fridge",
+       "Preposition": null,
+       "Landmark": null
+      }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": null,
+       "Landmark": null
+      }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "slice potato",
+       "Location": {
+        "Preposition": "on",
+        "Landmark": "table"
+       }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "head",
+       "Landmark": "fridge"
+      }
+}, 
+{"sentence":
+{
+       "Action": "open",
+       "Object": "fridge",
+       "Preposition": null,
+       "Landmark": null
+      }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "head",
+       "Landmark": "sink"
+      }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "slice potato",
+       "Location": {
+        "Preposition": "in",
+        "Landmark": "sink"
+       }
+} 
+]}

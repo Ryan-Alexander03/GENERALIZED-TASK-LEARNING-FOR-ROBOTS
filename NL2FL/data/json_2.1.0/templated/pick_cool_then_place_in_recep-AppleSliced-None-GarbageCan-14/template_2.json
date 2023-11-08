@@ -1,0 +1,102 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "walk",
+      "Landmark": "counter by the coffee maker and toaster"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "knife",
+      "From": "the counter"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "walk",
+      "Landmark": "microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "open",
+      "Object": "microwave",
+      "From": "the microwave"
+      "Action2": "cut",
+      "Object2": "apple",
+      "From2": "the microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "walk",
+      "Landmark": "refrigerator"
+    }
+}, 
+{"sentence":
+{
+      "Action": "open",
+      "Object": "refrigerator",
+      "From": "the refrigerator"
+      "Action2": "put",
+      "Object2": "knife",
+      "From2": "the refrigerator"
+    }
+}, 
+{"sentence":
+{
+      "Action": "walk",
+      "Direction": "back",
+      "Preposition": "to",
+      "Landmark": "microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "take",
+      "Object": "piece of the apple",
+      "From": "the microwave"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "walk",
+      "Landmark": "refrigerator"
+    }
+}, 
+{"sentence":
+{
+      "Action": "set",
+      "Object": "apple",
+      "From": "the counter"
+      "Action2": "take",
+      "Object2": "apple",
+      "From2": "the refrigerator"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "walk",
+      "Landmark": "trash can"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "apple",
+      "From": "the counter"
+      "To": "the trash can"
+    }
+} 
+]}

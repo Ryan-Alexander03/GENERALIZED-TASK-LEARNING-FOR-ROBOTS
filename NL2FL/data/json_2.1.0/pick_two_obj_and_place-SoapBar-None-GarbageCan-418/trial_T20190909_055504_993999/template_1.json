@@ -1,0 +1,60 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "across the room",
+      "Preposition": "stand in front of",
+      "Landmark": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "bar of soap",
+      "From": "the right from inside the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn around",
+      "Preposition": "carry",
+      "Object": "the soap",
+      "To": "the trash bin in the corner next to the toilet"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "the bar of soap",
+      "In": "the trash bin"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn around",
+      "Preposition": "return",
+      "To": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "the bar of soap",
+      "From": "the counter to the left of the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Preposition": "move back",
+      "To": "the trash bin"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "the bar of soap",
+      "In": "the trash bin"
+    }
+} 
+]}

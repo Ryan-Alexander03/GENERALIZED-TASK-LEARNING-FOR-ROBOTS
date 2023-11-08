@@ -1,0 +1,69 @@
+{"sentences":[
+{"sentence":[
+{
+   "Action": "cross",
+   "Direction": "room"
+}, 
+{
+   "Action": "turn",
+   "Direction": "right",
+   "Preposition": "to",
+   "Landmark": "counter"
+}
+]}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "candlestick",
+   "From": "back of soap dispenser"
+}
+}, 
+{"sentence":
+{
+   "Action": "go",
+   "Direction": "other end",
+   "Landmark": "counter"
+}
+}, 
+{"sentence":
+{
+   "Action": "put",
+   "Object": "candlestick",
+   "Into": "bottom end drawer"
+}
+}, 
+{"sentence":[
+{
+   "Action": "turn",
+   "Direction": "around"
+}, 
+{
+   "Action": "walk",
+   "To": "toilet"
+}
+]}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "candlestick",
+   "From": "next to soap dispenser"
+}
+}, 
+{"sentence":[
+{
+   "Action": "turn",
+   "Direction": "around"
+}, 
+{
+   "Action": "walk",
+   "To": "counter"
+}
+]}, 
+{"sentence":
+{
+   "Action": "put",
+   "Object": "candlestick",
+   "Next to": "first candlestick in drawer"
+}
+} 
+]}

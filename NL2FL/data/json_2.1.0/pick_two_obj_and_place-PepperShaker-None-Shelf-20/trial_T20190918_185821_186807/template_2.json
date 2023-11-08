@@ -1,0 +1,66 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "to the right side",
+"Landmark": "kitchen island"
+}
+}, 
+{"sentence":
+{
+"Action": "grab",
+"Object": "salt shaker",
+"From": "kitchen island"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "to the brown shelves",
+"Preposition": "in the corner",
+"Landmark": "room"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "salt sheller",
+"On": "middle shelf"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "to the kitchen counters",
+"Landmark": "kitchen"
+}, 
+{
+"Action": "look",
+"At": "kitchen counter to your left"
+}
+]}, 
+{"sentence":
+{
+"Action": "take",
+"Object": "salt shaker",
+"From": "cupboard on the top right"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "back to",
+"Landmark": "wooden shelves in the corner of the kitchen"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "salt shaker",
+"On": "middle shelf next to the other salt shaker"
+}
+} 
+]}

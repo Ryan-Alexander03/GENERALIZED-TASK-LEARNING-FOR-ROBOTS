@@ -1,0 +1,64 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "move",
+       "Direction": "over",
+       "Preposition": "to",
+       "Landmark": "toilet"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "empty toilet paper roll",
+       "Location": "floor"
+     }
+}, 
+{"sentence":
+{
+        "Action": "bring",
+        "Object": "empty toilet paper roll",
+        "Preposition": "to",
+        "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "empty toilet paper roll",
+        "Preposition": "on",
+        "Landmark": "counter between the sinks"
+     }
+}, 
+{"sentence":
+{
+       "Action": "move",
+       "Direction": "over",
+       "Preposition": "to",
+       "Landmark": "toilet"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "toilet paper",
+        "Location": "toilet tank lid"
+     }
+}, 
+{"sentence":
+{
+        "Action": "bring",
+        "Object": "toilet paper",
+        "Preposition": "over",
+        "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "toilet paper",
+        "Preposition": "on",
+        "Landmark": "counter next to soap"
+     }
+} 
+]}

@@ -1,0 +1,43 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "across",
+      "Landmark": "room"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to face",
+      "Landmark": "table"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "cell phone",
+      "From": "the table"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "across",
+      "Landmark": "room"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "open",
+      "Object": "cupboard",
+      "Preposition": "to the left of",
+      "Landmark": "bed"
+     }
+} 
+]}

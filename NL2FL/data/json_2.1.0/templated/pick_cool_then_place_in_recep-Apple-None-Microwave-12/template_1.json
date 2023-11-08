@@ -1,0 +1,52 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "walk",
+        "Direction": "right",
+        "Preposition": "to",
+        "Landmark": "kitchen counter"
+       }
+}, 
+{"sentence":
+{
+        "Action": "grab",
+        "Object": "apple",
+        "Location": "counter"
+       }
+}, 
+{"sentence":
+{
+        "Action": "go",
+        "Direction": "left",
+        "Preposition": "to",
+        "Landmark": "fridge"
+       }
+}, 
+{"sentence":[
+{
+        "Action": "put",
+        "Object": "apple",
+        "Location": "fridge"
+       }, 
+{
+        "Action": "take out",
+        "Object": "apple",
+        "Location": "fridge"
+       }
+]}, 
+{"sentence":
+{
+        "Action": "walk",
+        "Direction": "behind",
+        "Preposition": "to",
+        "Landmark": "kitchen sink"
+       }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "apple",
+        "Location": "microwave above sink"
+       }
+} 
+]}

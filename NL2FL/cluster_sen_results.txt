@@ -1,0 +1,81 @@
+Llamma 
+Turn right and walk up to the kitchen counter, then look up at the upper cabinets.-1
+Open the left hand door of the rightmost cupboard in front of you and remove the glass bottle, then close the door.-1
+Turn around and begin walking across the room, stop at small black trash can just beyond the fridge and turn left to face it.-1
+Place the glass bottle into the small black trash can on the right side.-1
+Turn around and take a step, then turn right and begin walking across the room, hand a left and walk up the area of kitchen counter to the left of the stove.-1
+Pick up the glass bottle that is on the kitchen counter to the left of the stove.-1
+Turn right and walk around the kitchen island back to the small black trash can in the corner of the room.-1
+Place the second glass bottle into the trash can to the left the bottle that is already in there.-1
+Turn right and walk to the counter.-1
+Take the wine bottle out of the right top cabinet.-1
+Turn around and walk to the wall. Face the bin on the left.-1
+Put the bottle in the bin.-1
+Turn left and walk towards the counter to the left of the stove.-1
+Pick up the wine bottle.-1
+Turn right and walk following the counter past the fridge back to the bin.-1
+Put the bottle in the bin to the left and slightly in front of the previous bottle.-1
+Move to stand at the counter, directly to the right of the stove. -1
+Open the right cupboard and remove the bottle of wine. -1
+Carry the bottle until you are standing lined up to the space between the fridge and trash can. -1
+Place the bottle in the trash can. -1
+Move to the counter directly to the left of the stove. -1
+Pick up the wine bottle from the counter. -1
+Carry the bottle to the trash can beside the fridge. -1
+Place the bottle in the trash can.-1
+
+ 
+Sentence Transformer 
+Turn right and walk up to the kitchen counter, then look up at the upper cabinets.-1
+Open the left hand door of the rightmost cupboard in front of you and remove the glass bottle, then close the door.-1
+Turn around and begin walking across the room, stop at small black trash can just beyond the fridge and turn left to face it.-1
+Place the glass bottle into the small black trash can on the right side.-1
+Turn around and take a step, then turn right and begin walking across the room, hand a left and walk up the area of kitchen counter to the left of the stove.-1
+Pick up the glass bottle that is on the kitchen counter to the left of the stove.-1
+Turn right and walk around the kitchen island back to the small black trash can in the corner of the room.-1
+Place the second glass bottle into the trash can to the left the bottle that is already in there.-1
+Turn right and walk to the counter.-1
+Take the wine bottle out of the right top cabinet.-1
+Turn around and walk to the wall. Face the bin on the left.-1
+Put the bottle in the bin.-1
+Turn left and walk towards the counter to the left of the stove.-1
+Pick up the wine bottle.-1
+Turn right and walk following the counter past the fridge back to the bin.-1
+Put the bottle in the bin to the left and slightly in front of the previous bottle.-1
+Move to stand at the counter, directly to the right of the stove. -1
+Open the right cupboard and remove the bottle of wine. -1
+Carry the bottle until you are standing lined up to the space between the fridge and trash can. -1
+Place the bottle in the trash can. 0
+Move to the counter directly to the left of the stove. -1
+Pick up the wine bottle from the counter. -1
+Carry the bottle to the trash can beside the fridge. -1
+Place the bottle in the trash can.0
+
+ 
+Tfidf
+Turn right and walk up to the kitchen counter, then look up at the upper cabinets.-1
+Open the left hand door of the rightmost cupboard in front of you and remove the glass bottle, then close the door.-1
+Turn around and begin walking across the room, stop at small black trash can just beyond the fridge and turn left to face it.-1
+Place the glass bottle into the small black trash can on the right side.-1
+Turn around and take a step, then turn right and begin walking across the room, hand a left and walk up the area of kitchen counter to the left of the stove.-1
+Pick up the glass bottle that is on the kitchen counter to the left of the stove.-1
+Turn right and walk around the kitchen island back to the small black trash can in the corner of the room.-1
+Place the second glass bottle into the trash can to the left the bottle that is already in there.-1
+Turn right and walk to the counter.-1
+Take the wine bottle out of the right top cabinet.-1
+Turn around and walk to the wall. Face the bin on the left.-1
+Put the bottle in the bin.-1
+Turn left and walk towards the counter to the left of the stove.-1
+Pick up the wine bottle.-1
+Turn right and walk following the counter past the fridge back to the bin.-1
+Put the bottle in the bin to the left and slightly in front of the previous bottle.-1
+Move to stand at the counter, directly to the right of the stove. -1
+Open the right cupboard and remove the bottle of wine. -1
+Carry the bottle until you are standing lined up to the space between the fridge and trash can. -1
+Place the bottle in the trash can. 0
+Move to the counter directly to the left of the stove. -1
+Pick up the wine bottle from the counter. -1
+Carry the bottle to the trash can beside the fridge. -1
+Place the bottle in the trash can.0
+
+ 

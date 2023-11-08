@@ -1,0 +1,54 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "walk",
+       "Direction": "right",
+       "Preposition": "turn",
+       "Landmark": "table"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "fork",
+       "From": "the table"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "walk",
+       "Landmark": "coffee maker"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "fork",
+       "Into": "mug on the coffee maker"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "mug",
+       "From": "the coffee maker"
+     }
+}, 
+{"sentence":
+{
+       "Action": "step",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "mug, fork",
+       "Into": "the sink"
+     }
+} 
+]}

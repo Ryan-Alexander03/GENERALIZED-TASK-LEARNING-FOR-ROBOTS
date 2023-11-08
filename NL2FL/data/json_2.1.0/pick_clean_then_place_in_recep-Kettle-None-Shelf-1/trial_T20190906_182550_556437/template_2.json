@@ -1,0 +1,50 @@
+{"sentences":[
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "left",
+   "Preposition": "take a step",
+   "Landmark": "counter near the tea pot"
+}
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "tea pot",
+   "From": "counter"
+}
+}, 
+{"sentence":
+{
+   "Action": "turn around",
+   "Preposition": "walk",
+   "Landmark": "sink",
+   "Direction": "front"
+}
+}, 
+{"sentence":
+{
+   "Action": "put",
+   "Object": "tea pot",
+   "Into": "sink"
+   "Action2": "run the water",
+   "Object2": "tea pot",
+   "Preposition2": "wash"
+}
+}, 
+{"sentence":
+{
+   "Action": "walk",
+   "Preposition": "move slightly to the left",
+   "Landmark": "brown shelves"
+}
+}, 
+{"sentence":
+{
+   "Action": "place",
+   "Object": "tea pot",
+   "On": "middle shelf",
+   "Preposition": "right"
+}
+} 
+]}

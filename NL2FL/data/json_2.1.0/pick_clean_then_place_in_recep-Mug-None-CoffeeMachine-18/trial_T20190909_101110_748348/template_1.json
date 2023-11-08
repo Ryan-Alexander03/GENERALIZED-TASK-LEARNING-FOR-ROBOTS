@@ -1,0 +1,46 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "walk",
+     "Direction": "over",
+     "Preposition": "to",
+     "Landmark": "coffee maker"
+    }
+}, 
+{"sentence":
+{
+     "Action": "grab",
+     "Object": "cup"
+    }
+}, 
+{"sentence":
+{
+     "Action": "head",
+     "Direction": "to",
+     "Preposition": "the",
+     "Landmark": "sink"
+    }
+}, 
+{"sentence":
+{
+     "Action": "fill",
+     "Object": "cup",
+     "With": "water"
+    }
+}, 
+{"sentence":
+{
+     "Action": "head",
+     "Direction": "back",
+     "Preposition": "to",
+     "Landmark": "coffee maker"
+    }
+}, 
+{"sentence":
+{
+     "Action": "put",
+     "Object": "cup",
+     "In": "the coffee maker"
+    }
+} 
+]}

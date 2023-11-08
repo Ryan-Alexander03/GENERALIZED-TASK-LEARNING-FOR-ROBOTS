@@ -1,0 +1,85 @@
+{"sentences":[
+{"sentence":[
+{
+     "Action": "go straight",
+     "Direction": "left"
+     }, 
+{
+     "Action": "move forward"
+     }, 
+{
+     "Action": "turn right"
+     }, 
+{
+     "Action": "move forward"
+     }, 
+{
+     "Action": "turn right"
+     }, 
+{
+     "Action": "left",
+     "Location": "sink"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "take",
+     "Object": "glass",
+     "Location": "sink"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around"
+     }, 
+{
+     "Action": "go forward",
+     "Direction": "left",
+     "Landmark": "fridge"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "chill",
+     "Object": "glass",
+     "Location": "fridge"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around"
+     }, 
+{
+     "Action": "turn",
+     "Direction": "left"
+     }, 
+{
+     "Action": "turn",
+     "Direction": "right"
+     }, 
+{
+     "Action": "go straight",
+     "Object": "shelf",
+     "Location": "corner of the room"
+     }, 
+{
+     "Action": "face",
+     "Location": "window",
+     "Landmark": "trash can"
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "place",
+     "Object": "glass",
+     "Location": "middle shelf"
+     }, 
+{
+     "Action": "move",
+     "Object": "book",
+     "Direction": "left"
+     }
+]} 
+]}

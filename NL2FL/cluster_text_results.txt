@@ -1,0 +1,47 @@
+STANDARD DBSCAN 
+ 
+Llamma 
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: look Object: None Location: None Direction: face Preposition: the Landmark: lamp -1
+Action: turn Object: lamp Location: None Direction: None Preposition: on -1
+Action: move Direction: left Preposition: to Landmark: white dresser -1
+Action: pick up Object: alarm clock Location: on top of the dresser -1
+Action: carry Direction: left Preposition: to Object: alarm clock Location: the left side of the dresser -1
+Action: turn on Object: lamp Location: on top of the dresser -1
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: move Direction: left Preposition: face Landmark: lamp, sitting -1
+Action: turn Object: lamp Location:  -1
+
+ 
+Sentence Transformer 
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: look Object: None Location: None Direction: face Preposition: the Landmark: lamp -1
+Action: turn Object: lamp Location: None Direction: None Preposition: on -1
+Action: move Direction: left Preposition: to Landmark: white dresser -1
+Action: pick up Object: alarm clock Location: on top of the dresser -1
+Action: carry Direction: left Preposition: to Object: alarm clock Location: the left side of the dresser -1
+Action: turn on Object: lamp Location: on top of the dresser -1
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: move Direction: left Preposition: face Landmark: lamp, sitting -1
+Action: turn Object: lamp Location:  -1
+
+ 
+Tfidf
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: look Object: None Location: None Direction: face Preposition: the Landmark: lamp 2
+Action: turn Object: lamp Location: None Direction: None Preposition: on 2
+Action: move Direction: left Preposition: to Landmark: white dresser 0
+Action: pick up Object: alarm clock Location: on top of the dresser 1
+Action: carry Direction: left Preposition: to Object: alarm clock Location: the left side of the dresser -1
+Action: turn on Object: lamp Location: on top of the dresser 1
+Action: turn Direction: left Preposition: face Landmark: dresser 0
+Action: pick up Object: alarm clock Location: dresser 1
+Action: move Direction: left Preposition: face Landmark: lamp, sitting 0
+Action: turn Object: lamp Location:  -1
+
+ 

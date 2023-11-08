@@ -1,0 +1,58 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "to",
+            "Landmark": "white table"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "spatula",
+            "Location": "white table"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "step forward"
+        }, 
+{
+            "Action": "turn",
+            "Direction": "right",
+            "Preposition": "go",
+            "Landmark": "sink ahead"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "clean",
+            "Object": "spatula",
+            "Location": "sink"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "go",
+            "Landmark": null
+        }, 
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "go",
+            "Landmark": "white table"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "put",
+            "Object": "spatula",
+            "Location": "white table"
+        }
+} 
+]}

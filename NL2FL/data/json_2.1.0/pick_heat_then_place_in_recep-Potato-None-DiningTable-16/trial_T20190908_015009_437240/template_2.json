@@ -1,0 +1,48 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "move forward",
+        "Direction": "towards",
+        "Preposition": "the sink",
+        "Location": null
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "potato",
+        "Location": "by the sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "head for",
+        "Location": "the oven"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "the potato",
+        "Location": "in the oven",
+        "NextAction": "take it out"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "towards",
+        "Preposition": "the table",
+        "Location": null
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "the potato",
+        "Location": "on the table"
+      }
+} 
+]}

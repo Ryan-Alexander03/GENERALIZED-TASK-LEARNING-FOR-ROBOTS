@@ -1,0 +1,54 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "right",
+        "Preposition": "to the left of",
+        "Landmark": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "spatula",
+        "Location": "table"
+      }
+}, 
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "left",
+        "Preposition": null,
+        "Landmark": null
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "spatula",
+        "Location": "pan on the table"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "pan",
+        "Location": "table"
+      }
+}, 
+{"sentence":
+{
+        "Action": "move",
+        "Direction": "right",
+        "Preposition": "to the sink",
+        "Landmark": "sink"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "pan",
+        "Location": "sink"
+      }
+} 
+]}

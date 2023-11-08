@@ -1,0 +1,49 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "walk",
+      "Direction": "face",
+      "Preposition": "sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "white egg",
+      "From": "ledge in front of sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "walk",
+      "Direction": "face",
+      "Preposition": "microwave"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "cook",
+      "Object": "egg",
+      "Location": "microwave"
+    }, 
+{
+      "Action": "remove",
+      "Object": "egg",
+      "From": "microwave"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "walk",
+      "Direction": "face",
+      "Preposition": "sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "egg",
+      "Into": "sink basin"
+    }
+} 
+]}

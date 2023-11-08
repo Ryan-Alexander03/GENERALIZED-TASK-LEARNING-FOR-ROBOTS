@@ -1,0 +1,128 @@
+{"sentences":[
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "right"
+}, 
+{
+"Action": "move",
+"Direction": "forward"
+}, 
+{
+"Action": "turn",
+"Direction": "left",
+"Landmark": "kitchen island"
+}
+]}, 
+{"sentence":[
+{
+"Action": "pick up",
+"Object": "knife",
+"Location": "kitchen island"
+}, 
+{
+"Action": "move",
+"Direction": "right",
+"Landmark": "loaf of bread"
+}
+]}, 
+{"sentence":[
+{
+"Action": "go",
+"Location": "counter behind you"
+}, 
+{
+"Action": "move",
+"Direction": "adjacent",
+"Landmark": "fridge"
+}
+]}, 
+{"sentence":
+{
+"Action": "slice",
+"Object": "tomato",
+"Location": "counter"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "left",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":[
+{
+"Action": "put",
+"Object": "knife",
+"Location": "fridge"
+}, 
+{
+"Action": "put",
+"Object": "knife",
+"Location": "bottom shelf"
+}
+]}, 
+{"sentence":[
+{
+"Action": "return",
+"Location": "counter"
+}, 
+{
+"Action": "move",
+"Direction": "adjacent",
+"Landmark": "fridge"
+}
+]}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "slice of tomato",
+"Location": "counter"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "left",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":
+{
+"Action": "chill",
+"Object": "tomato slice",
+"Location": "fridge"
+}
+}, 
+{"sentence":[
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "move",
+"Direction": "forward"
+}, 
+{
+"Action": "turn",
+"Direction": "left"
+}, 
+{
+"Action": "move",
+"Direction": "forward"
+}, 
+{
+"Action": "turn",
+"Direction": "right",
+"Landmark": "trash bin"
+}
+]}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "tomato slice",
+"Location": "trash bin"
+}
+} 
+]}

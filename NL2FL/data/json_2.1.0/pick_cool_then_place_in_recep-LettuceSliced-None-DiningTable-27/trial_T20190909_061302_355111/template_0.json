@@ -1,0 +1,145 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": null
+      }, 
+{
+       "Action": "go",
+       "Direction": "forward",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "to",
+       "Landmark": "white table"
+      }, 
+{
+       "Action": "go",
+       "Direction": null,
+       "Preposition": "to",
+       "Landmark": "table"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "knife in front of the bread",
+       "Location": "table"
+      }
+}, 
+{"sentence":
+{
+       "Action": "cut",
+       "Object": "lettuce",
+       "Location": "left of the glass on the table"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "go",
+       "Direction": "left",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "pick",
+       "Object": "face the table"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "knife",
+       "Location": "cut lettuce on the table"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "go",
+       "Direction": "right",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "pick up",
+       "Object": "face the table"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "slice of lettuce",
+       "Location": "table"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "go",
+       "Direction": "forward",
+       "Preposition": null,
+       "Landmark": "wall"
+      }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "pick up",
+       "Object": "knife on",
+       "Location": "forward to the fridge"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "chill",
+       "Object": "slice of lettuce",
+       "Location": "fridge"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "go",
+       "Direction": "forward",
+       "Preposition": null,
+       "Landmark": null
+      }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "to",
+       "Landmark": "white table"
+      }, 
+{
+       "Action": "go",
+       "Direction": null,
+       "Preposition": null,
+       "Landmark": "table"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "lettuce",
+       "Location": "behind the fork on the table"
+      }
+} 
+]}

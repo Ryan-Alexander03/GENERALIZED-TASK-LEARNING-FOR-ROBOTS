@@ -1,0 +1,46 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "to",
+        "Landmark": "kitchen island"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "round potato",
+        "From": "the island"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "to",
+        "Landmark": "microwave"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "potato",
+        "Into": "the microwave"
+      }
+}, 
+{"sentence":
+{
+        "Action": "remove",
+        "Object": "potato",
+        "From": "the microwave"
+      }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "potato",
+        "Into": "the sink"
+      }
+} 
+]}

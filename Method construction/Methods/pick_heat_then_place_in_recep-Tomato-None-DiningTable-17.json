@@ -1,0 +1,194 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "countertop"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "tomato"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PickupObject",
+                "s_args": "Tomato"
+            }
+        ]
+    },
+    {
+        "m_name": "HeatObject",
+        "m_args": [
+            ""
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Tomato",
+                    "Microwave"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "ToggleObjectOn",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "ToggleObjectOff",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "OpenObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "PickupObject",
+                "s_args": "Tomato"
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Microwave"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "diningtable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "tomato",
+            "diningtable"
+        ],
+        "subtasks": [
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Tomato",
+                    "DiningTable"
+                ]
+            }
+        ]
+    }
+]

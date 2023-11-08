@@ -1,0 +1,31 @@
+{"sentences":[
+{"sentence":
+{
+         "Action": "move",
+         "Direction": "left",
+         "Preposition": "under",
+         "Landmark": "window"
+      }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "water pot",
+         "Location": "floor"
+      }
+}, 
+{"sentence":
+{
+         "Action": "move",
+         "Direction": "opposite",
+         "Preposition": "to",
+         "Landmark": "end table"
+      }
+}, 
+{"sentence":
+{
+         "Action": "turn on",
+         "Object": "lamp"
+      }
+} 
+]}

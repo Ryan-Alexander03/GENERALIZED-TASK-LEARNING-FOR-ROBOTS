@@ -1,0 +1,68 @@
+STANDARD DBSCAN 
+ 
+0.5 epsilon 
+ 
+Llamma 
+silhouette_score: 0.1723176750141061
+calinski_harabasz_score: 1.3231267739113572
+davies_bouldin_score: 1.184127672973938
+ 
+Sentence Transformer 
+silhouette_score: 0.20135270349253018
+calinski_harabasz_score: 2.6512874327961105
+davies_bouldin_score: 0.9386703083939457
+ 
+Tfidf
+silhouette_score: 0.26860378394763573
+calinski_harabasz_score: 2.4293145840441968
+davies_bouldin_score: 0.9052695194132534
+ 
+1 epsilon 
+ 
+Llamma 
+silhouette_score: 0.1723176750141061
+calinski_harabasz_score: 1.3231267739113572
+davies_bouldin_score: 1.184127672973938
+ 
+Sentence Transformer 
+silhouette_score: 0.20135270349253018
+calinski_harabasz_score: 2.6512874327961105
+davies_bouldin_score: 0.9386703083939457
+ 
+Tfidf
+silhouette_score: 0.25005383564413197
+calinski_harabasz_score: 3.2956895774667343
+davies_bouldin_score: 1.371438979369485
+ 
+2 epsilon
+ 
+Llamma 
+silhouette_score: 0.1723176750141061
+calinski_harabasz_score: 1.3231267739113572
+davies_bouldin_score: 1.184127672973938
+ 
+Sentence Transformer 
+silhouette_score: 0.31907132666726007
+calinski_harabasz_score: 4.682309482973689
+davies_bouldin_score: 0.9181166306619631
+ 
+LEVEN DISTANCE 
+ 
+0.5 epsilon 
+ 
+silhouette_score: -0.0814484126984127
+calinski_harabasz_score: 0.23161764705882354
+davies_bouldin_score: 7.5
+ 
+1 epsilon 
+ 
+silhouette_score: -0.0814484126984127
+calinski_harabasz_score: 0.23161764705882354
+davies_bouldin_score: 7.5
+ 
+2 epsilon 
+ 
+silhouette_score: -0.0814484126984127
+calinski_harabasz_score: 0.23161764705882354
+davies_bouldin_score: 7.5
+ 

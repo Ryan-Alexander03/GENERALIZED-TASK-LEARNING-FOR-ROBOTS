@@ -1,0 +1,163 @@
+{"sentences":[
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "right",
+         "Location": null
+       }, 
+{
+         "Action": "go",
+         "Distance": "halfway",
+         "Location": "across the room"
+       }, 
+{
+         "Action": "turn",
+         "Direction": "right",
+         "Location": "room"
+       }, 
+{
+         "Action": "go",
+         "Direction": "to the counter",
+         "Location": "counter"
+       }
+]}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "knife",
+         "Location": "corner of the counter on the left"
+       }
+}, 
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Location": null
+       }, 
+{
+         "Action": "go",
+         "Distance": "across the room",
+         "Location": "room"
+       }
+]}, 
+{"sentence":
+{
+         "Action": "cut",
+         "Object": "potato",
+         "Location": "counter"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "right",
+         "Location": "room"
+       }
+}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "knife",
+         "Location": "sink",
+         "Direction": "right",
+         "Landmark": "apple"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "left",
+         "Location": "room"
+       }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "slice of potato",
+         "Location": null
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "right",
+         "Location": "room"
+       }
+}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "slice of potato",
+         "Location": "sink",
+         "Direction": "in front of",
+         "Landmark": "apple"
+       }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "knife",
+         "Location": "sink"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Location": null
+       }
+}, 
+{"sentence":
+{
+         "Action": "cut",
+         "Object": "potato",
+         "Location": "second shelf in the fridge"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Location": null
+       }
+}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "knife",
+         "Location": "sink",
+         "Direction": "right",
+         "Landmark": "apple"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Location": null
+       }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "slice of potato",
+         "Location": "fridge"
+       }
+}, 
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Location": null
+       }
+}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "slice of potato",
+         "Location": "sink",
+         "Direction": "in front of",
+         "Landmark": "apple"
+       }
+} 
+]}

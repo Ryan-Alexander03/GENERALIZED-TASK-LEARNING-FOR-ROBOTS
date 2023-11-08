@@ -1,0 +1,94 @@
+{"sentences":[
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "right"
+      }, 
+{
+         "Action": "walk",
+         "Location": "straight"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "right"
+      }, 
+{
+         "Action": "walk",
+         "Location": "microwave"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "grab",
+         "Object": "white cup",
+         "Location": "microwave"
+      }
+}, 
+{"sentence":[
+{
+         "Action": "step",
+         "Direction": "back"
+      }, 
+{
+         "Action": "face",
+         "Location": "microwave, counter"
+      }
+]}, 
+{"sentence":[
+{
+         "Action": "open",
+         "Object": "microwave"
+      }, 
+{
+         "Action": "put",
+         "Object": "cup",
+         "Location": "microwave"
+      }, 
+{
+         "Action": "close",
+         "Location": "microwave"
+      }, 
+{
+         "Action": "heat",
+         "Object": "cup"
+      }, 
+{
+         "Action": "open",
+         "Object": "microwave"
+      }, 
+{
+         "Action": "take",
+         "Object": "cup",
+         "Location": "out"
+      }, 
+{
+         "Action": "close",
+         "Location": "microwave"
+      }
+]}, 
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "around"
+      }, 
+{
+         "Action": "walk",
+         "Location": "straight"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "left"
+      }, 
+{
+         "Action": "walk",
+         "Location": "shelf, end"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "cup",
+         "Location": "second shelf"
+      }
+} 
+]}

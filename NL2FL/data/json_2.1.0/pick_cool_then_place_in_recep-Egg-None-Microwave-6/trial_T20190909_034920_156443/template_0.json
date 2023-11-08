@@ -1,0 +1,52 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "make a left",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "egg",
+"Location": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "turn around",
+"Direction": "around",
+"Preposition": "to",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":[
+{
+"Action": "chill",
+"Object": "egg",
+"Location": "freezer"
+}, 
+{
+"Action": "remove",
+"Object": "egg",
+"Location": "freezer"
+}
+]}, 
+{"sentence":
+{
+"Action": "make a right",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "microwave"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "egg",
+"Location": "microwave"
+}
+} 
+]}

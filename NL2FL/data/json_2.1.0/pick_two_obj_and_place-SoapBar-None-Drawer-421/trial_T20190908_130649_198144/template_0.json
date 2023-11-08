@@ -1,0 +1,54 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "go",
+"Direction": "right",
+"Landmark": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "bar of soap"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "sink drawer"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "bar of soap",
+"Location": "drawer"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "left",
+"Landmark": "ink"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "bar of soap"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "sink drawer"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "bar of soap",
+"Location": "drawer"
+}
+} 
+]}

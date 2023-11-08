@@ -1,0 +1,2789 @@
+STANDARD DBSCAN 
+ 
+Llamma 
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk to Landmark: white dresser -1
+Action: turn on Object: light From: top of dresser -1
+Action: walk straight forward Direction: straight forward Preposition: face Landmark: basketball -1
+Action: pick up Object: basketball Location: off of the beanbag chair -1
+Action: turn right Direction: right Preposition: walk to Landmark: white dresser -1
+Action: turn on Object: light Location: on top of the dresser -1
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk Landmark: white dresser -1
+Action: turn Object: light From: top of the dresser -1
+Action: turn Direction: right Preposition: face Landmark: small brown table 2
+Action: pick up Object: box Location: small brown table -1
+Action: carry Object: box Location: small brown table -1
+Action: hold Object: box Location: small brown table -1
+Action: turn Direction: right Preposition: face Landmark: small brown table 2
+Action: pick up Object: box From: the small brown table -1
+Action: carry Object: box Preposition: to the left -1
+Action: hold Object: box -1
+Action: turn Direction: right Preposition: head Landmark: tv stand -1
+Action: pick up Object: keys From: the tv stand -1
+Action: move Direction: right Preposition: towards Landmark: lamp stand -1
+Action: turn on Object: lamp From: off -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box Location: night stand 4
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp 6
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box Location: night stand 4
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp Location: None -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box From: night stand -1
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: window -1
+Action: pick up Object: water pot Location: floor -1
+Action: move Direction: opposite Preposition: to Landmark: end table 7
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: plant 8
+Action: pick up Object: water pot From: floor 9
+Action: move Direction: opposite Preposition: on Landmark: end table -1
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: plant 8
+Action: pick up Object: water pot From: floor 9
+Action: move Direction: opposite Preposition: to Landmark: end table 7
+Action: turn on Object: lamp 6
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 10
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Preposition: in front of Landmark: book with a phone to the left of it -1
+Action: put Object: alarm clock Preposition: on Landmark: left CD -1
+Action: take a step Direction: left Landmark: alarm clock -1
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Landmark: book with a phone to the left of it -1
+Action: put Object: alarm clock Location: left CD 12
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 10
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Preposition: in front of Landmark: book -1
+Action: put Object: alarm clock Location: left CD 12
+Action: move Direction: to face Preposition: the box on the floor Landmark: to the left -1
+Action: pick up Object: the box on the floor -1
+Action: bring Object: the box To: the desk -1
+Action: put Object: the box On: the right side of the desk -1
+Action: turn Direction: right Preposition: to face Landmark: table -1
+Action: pick up Object: cell phone From: the table -1
+Action: turn Direction: right 13
+Action: open Object: cupboard Preposition: to the left of Landmark: bed -1
+Action: turn Direction: left Preposition: and then straight -1
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around 15
+Action: set Object: credit card To: the couch 16
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 17
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around Preposition: go Landmark: couch 18
+Action: set down Object: credit card To: the couch -1
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 17
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around Preposition: go Landmark: couch 18
+Action: set Object: credit card To: the couch 16
+Action: turn Direction: around Preposition: cross Landmark: the end of the black table where the keys are -1
+Action: pick up Object: keys From: the table -1
+Action: go Direction: right Preposition: left Landmark: the couch -1
+Action: put down Object: keys On: the couch -1
+Action: turn Direction: around Preposition: cross Landmark: black table where the keys are -1
+Action: pick up Object: keys From: table -1
+Action: go Direction: right, then left Preposition: turn to face Landmark: couch -1
+Action: put Object: keys On: couch -1
+Action: turn around Direction: around Preposition: to Landmark: black table 19
+Action: pick up Object: knife Location: next to lettuce -1
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 20
+Action: cut Object: yellow apple Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: stove -1
+Action: put Object: knife Location: standing up on pan, top left burner -1
+Action: pick up Object: pan with knife in it -1
+Action: turn left Direction: left Preposition: to Landmark: black table -1
+Action: put Object: pan with knife Location: below potato -1
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 20
+Action: pick up Object: yellow apple piece, left Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: black table 19
+Action: put Object: apple slice Location: on pan, to the left of knife -1
+Action: turn Direction: around Preposition: to Landmark: black table -1
+Action: pick up Object: knife From: next to lettuce -1
+Action: turn Direction: around Preposition: to Landmark: refrigerator -1
+Action: cut Object: yellow apple Into: three pieces -1
+Action: turn Direction: around 15
+Action: put Object: knife On: pan on stove's top left burner -1
+Action: pick up Object: pan with knife in it From: stove -1
+Action: turn Direction: left 21
+Action: put Object: pan with knife On: table below potato -1
+Action: turn Direction: around 15
+Action: pick up Object: yellow apple piece to the left From: refrigerator -1
+Action: turn Direction: around 15
+Action: put Object: apple slice On: pan to the left of knife on it -1
+Action: walk Distance: two steps Direction: left Location: table -1
+Action: grab Object: knife Preposition: between Location: very back -1
+Action: walk Distance: three steps Direction: right Location: fridge -1
+Action: open Object: fridge Preposition: on Location: wine glass in the back -1
+Action: close Location: fridge -1
+Action: turn Direction: right Distance: four steps Location: table -1
+Action: place Object: wine glass Preposition: on Location: table on the left side of the apple -1
+Action: walk Distance: two steps Direction: left Landmark: table -1
+Action: grab Object: knife in the very back Preposition: between the lettuce and egg -1
+Action: walk Distance: three steps Direction: right Landmark: fridge -1
+Action: open Object: fridge Preposition: on the wine glass in the back -1
+Action: close Object: fridge 22
+Action: turn Direction: right Distance: four steps Landmark: table -1
+Action: place Object: wine glass on the table on the left side of the apple Preposition: on the left side of the apple -1
+Action: walk Distance: two steps Direction: forward Location: None Next Action: turn Next Direction: left Next Location: table -1
+Action: grab Object: knife Location: very back Prepositions: ['between'] -1
+Action: walk Distance: three steps Direction: forward Next Action: turn Next Direction: right Next Location: fridge -1
+Action: open Object: fridge -1
+Action: close Object: fridge 22
+Action: turn Direction: right 13
+Action: place Object: wine glass Location: table, left side of apple -1
+Action: walk Direction: right Preposition: turn Landmark: table 23
+Action: pick up Object: fork Location: table 24
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 25
+Action: place Object: fork Location: mug on the coffee maker 26
+Action: pick up Object: mug Location: coffee maker 27
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: mug and fork Location: sink -1
+Action: walk Direction: right Preposition: turn Landmark: table 23
+Action: pick up Object: fork From: the table -1
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 25
+Action: place Object: fork Into: mug on the coffee maker -1
+Action: pick up Object: mug From: the coffee maker -1
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: mug, fork Into: the sink -1
+Action: walk Direction: right Preposition: then turn Landmark: table -1
+Action: pick up Object: fork Location: table 24
+Action: turn Direction: right Preposition: walk forward Landmark: coffee maker -1
+Action: place Object: fork Location: mug on the coffee maker 26
+Action: pick up Object: mug Location: coffee maker 27
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: ['mug', 'fork'] Location: sink -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator Location: counter -1
+Action: pick up Object: yellow-handled knife Location: counter -1
+Action: walk Direction: back Preposition: in front of Landmark: stove Location: kitchen -1
+Action: place Object: knife Location: bowl on stove -1
+Action: pick up Object: bowl with knife in it -1
+Action: walk Direction: over Preposition: with Landmark: tomato on white table Location: white table -1
+Action: set Object: bowl and knife Location: table next to tomato -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 29
+Action: pick up Object: yellow-handled knife From: the counter 30
+Action: walk To: the kitchen -1
+Action: place Object: knife Into: the bowl on the stove 31
+Action: pick up Object: bowl with the knife in it 32
+Action: walk To: the white table with the tomato on it -1
+Action: set Object: bowl and knife Next to: the tomato -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 29
+Action: pick up Object: yellow-handled knife From: the counter 30
+Action: walk To: the kitchen With: knife Preposition: in front of -1
+Action: place Object: knife Into: the bowl on the stove 31
+Action: pick up Object: bowl with the knife in it 32
+Action: walk With: the bowl and knife To: the white table with the tomato on it -1
+Action: set Object: bowl and knife On: the table next to the tomato -1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter to the right of the stove top -1
+Action: pick up Object: pot Location: counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: put Object: pot Location: sink basin -1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter -1
+Action: pick up Object: pot From: the counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: put Object: pot Into: the sink basin -1
+Action: take Direction: right Location: None -1
+Action: pick up Object: pen Location: in front of you, under the mug -1
+Action: put Object: pencil Location: in the mug that was above it -1
+Action: pick up Object: mug with the pencil in it Location: None -1
+Action: turn Direction: right Location: None -1
+Action: put Object: mug Preposition: to the right of Location: phone -1
+Action: move Direction: right Preposition: to the left of Location: the sink -1
+Action: pick up Object: spatula Location: the table -1
+Action: move Direction: left Preposition: to the left of Location: the table -1
+Action: place Object: spatula Preposition: in Location: the pan on the table -1
+Action: pick up Object: pan Location: the table -1
+Action: move Direction: right Preposition: to the sink Location: None -1
+Action: place Object: pan Preposition: in Location: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: the sink -1
+Action: pick up Object: spatula From: the table -1
+Action: move Direction: left Preposition: to the left of Landmark: the table -1
+Action: place Object: spatula Into: pan on the table -1
+Action: pick up Object: pan From: the table -1
+Action: move Direction: right Preposition: to the sink Landmark: the sink -1
+Action: place Object: pan Into: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: sink -1
+Action: pick up Object: spatula Location: table -1
+Action: move Direction: left Preposition: None Landmark: None -1
+Action: place Object: spatula Location: pan on the table -1
+Action: pick up Object: pan Location: table -1
+Action: move Direction: right Preposition: to the sink Landmark: sink -1
+Action: place Object: pan Location: sink -1
+Action: go forward Direction: to the large white table Preposition: on the other side of the room -1
+Action: pick up Object: knife that is on the table -1
+Action: turn Direction: right Preposition: face the small black table -1
+Action: use Object: knife to slice the pear From: the table -1
+Action: turn Direction: right Preposition: go to the section of counter that is on the left of the sink -1
+Action: stick Object: knife directly in front of the salt shaker -1
+Action: turn Direction: left Preposition: return to the small black table 34
+Action: pick up Object: slice of the pear -1
+Action: turn Direction: right Preposition: go to the sink -1
+Action: place Object: pear in the sink From: the counter -1
+Action: turn Direction: left Preposition: return to the small black table 34
+Action: place Object: pear slice back on the small table From: the sink -1
+Action: go forward Direction: left Preposition: to Landmark: large white table -1
+Action: pick up Object: knife From: table -1
+Action: turn Direction: right Preposition: to Landmark: small black table -1
+Action: use Object: knife From: table Preposition: to -1
+Action: turn Direction: right Preposition: to Landmark: section of counter -1
+Action: directly in front of Object: salt shaker -1
+Action: turn Direction: left Preposition: to Landmark: small black table 35
+Action: pick up Object: slice of pear -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: place Object: pear In: sink -1
+Action: turn Direction: left Preposition: to Landmark: small black table 35
+Action: place Object: pear slice On: small black table -1
+Action: walk Direction: behind you Preposition: to Landmark: kitchen counter -1
+Action: grab Object: middle sponge From: counter 36
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 37
+Action: take Object: sponge From: sink 38
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 39
+Action: put Object: sponge Into: bottom drawer 40
+Action: walk Direction: behind Preposition: to Landmark: kitchen counter -1
+Action: grab Object: middle sponge From: counter 36
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 37
+Action: take Object: sponge From: sink 38
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 39
+Action: put Object: sponge Into: bottom drawer 40
+Action: veer Direction: left Preposition: to Landmark: stove 41
+Action: pick up Object: leftmost kettle From: stove 42
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: rinse off Object: kettle From: sink -1
+Action: take a step Direction: right -1
+Action: near Preposition: corner Landmark: counter 43
+Action: veer Direction: left Preposition: to Landmark: stove 41
+Action: pick up Object: leftmost kettle From: stove 42
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: rinse Object: kettle From: sink -1
+Action: take Direction: right Preposition: step -1
+Action: near Preposition: corner Landmark: counter 43
+Action: veer Direction: left Preposition: None Landmark: stove -1
+Action: pick up Object: leftmost kettle Location: stove -1
+Action: turn Direction: right Preposition: None Landmark: sink -1
+Action: rinse Object: kettle Location: sink -1
+Action: take Direction: right Preposition: None Landmark: None -1
+Action: place Object: kettle Location: near the corner of the counter -1
+Action: turn Direction: around Preposition: to Landmark: stove 44
+Action: take Object: pan nearest to you Location: stove -1
+Action: turn Direction: to your right Preposition: to Landmark: sink 45
+Action: fill Object: pan Location: sink 46
+Action: turn Direction: around Preposition: to Landmark: table 47
+Action: place Object: pan Location: center of the table 48
+Action: turn Direction: around Preposition: to Landmark: stove 44
+Action: take Object: pan nearest to you From: the stove -1
+Action: turn Direction: to your right Preposition: to Landmark: sink 45
+Action: fill Object: pan in the sink With: water -1
+Action: turn Direction: around Preposition: to Landmark: table 47
+Action: place Object: pan on the center of the table -1
+Action: turn Direction: around Preposition: to Landmark: stove 44
+Action: take Object: pan Location: stove -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: fill Object: pan Location: sink 46
+Action: turn Direction: around Preposition: to Landmark: table 47
+Action: place Object: pan Location: center of the table 48
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 49
+Action: pick up Object: pink soap From: the counter 50
+Action: move Direction: right Preposition: face Landmark: sink to the right 51
+Action: turn Off: the water Object: soap -1
+Action: look Direction: slightly lower Landmark: cabinet below the sink -1
+Action: close Object: cabinet door -1
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 49
+Action: pick up Object: pink soap From: the counter 50
+Action: move Direction: right Preposition: face Landmark: sink to the right 51
+Action: turn off Off: the water -1
+Action: look Direction: slightly lower To: the cabinet below the sink -1
+Action: close Door: cabinet door -1
+Action: look down Object: gray bin From: next to the toilet -1
+Action: pick up Object: bar of soap From: inside the gray bin 52
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 53
+Action: rinse For: a few seconds Object: bar of soap Back To: pick it back up -1
+Action: turn Direction: around Preposition: to Landmark: left sink on the vanity counter -1
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 54
+Action: look down Direction: down Preposition: at Landmark: gray bin -1
+Action: pick up Object: bar of soap From: inside the gray bin 52
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 53
+Action: rinse For: a few seconds Object: bar of soap Back: pick it back up -1
+Action: turn Direction: around Preposition: to Landmark: left sink -1
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 54
+Action: turn Direction: around Preposition: to Landmark: left -1
+Action: pick up Object: bar of soap From: counter -1
+Action: move Direction: closer Preposition: to -1
+Action: rinse Object: soap From: basin -1
+Action: right Direction: drawer Preposition: on -1
+Action: Place Object: soap From: INSIDE -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 55
+Action: pick up Object: spatula Location: counter 56
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 57
+Action: wash Object: spatula Location: sink Action2: pick up 58
+Action: walk Direction: left Preposition: over Landmark: counter -1
+Action: put down Object: spatula Location: counter Preposition: to the right -1
+Action: walk Direction: forward and right Preposition: just left of Landmark: kitchen counter -1
+Action: pick up Object: spatula From: the counter 59
+Action: turn left Direction: left Preposition: walk to Landmark: kitchen sink -1
+Action: wash Object: spatula Location: under water in the sink -1
+Action: walk Direction: over to Preposition: just left of Landmark: counter -1
+Action: put down Object: spatula Location: just to the right of the sink -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 55
+Action: pick up Object: spatula From: the counter 59
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 57
+Action: wash Object: spatula From: the sink -1
+Action: walk Direction: over Preposition: left Landmark: counter 60
+Action: put down Object: spatula From: the hand -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 55
+Action: pick up Object: spatula Location: counter 56
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 57
+Action: wash Object: spatula Preposition: under water Location: sink Action2: pick up -1
+Action: walk Direction: over Preposition: left Landmark: counter 60
+Action: put down Object: spatula Preposition: just to the right Location: counter -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter Location: just left of the fridge -1
+Action: pick up Object: spatula Location: counter 56
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 57
+Action: wash Object: spatula Location: sink Action2: pick up 58
+Action: walk Direction: over Preposition: just left Landmark: counter -1
+Action: put down Object: spatula Location: counter Preposition: just to the right -1
+Action: turn Direction: right Preposition: twice Landmark: counter top 61
+Action: pick up Object: spoon From: counter top -1
+Action: turn Direction: left Preposition: twice Landmark: sink 62
+Action: put Object: spoon To: sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 63
+Action: turn Direction: right Location: counter top -1
+Action: pick up Object: spoon Location: counter top -1
+Action: turn Direction: left Location: sink -1
+Action: put Object: spoon Location: sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 63
+Action: turn Direction: right Preposition: twice Landmark: counter top 61
+Action: pick up Object: spoon From: the counter top 64
+Action: turn Direction: left Preposition: twice Landmark: sink 62
+Action: put Object: spoon Into: the sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 63
+Action: turn Direction: to the right Preposition: twice Landmark: counter top -1
+Action: pick up Object: spoon From: the counter top 64
+Action: turn Direction: to the left Preposition: twice Landmark: sink -1
+Action: put Object: spoon To: the sink -1
+Action: turn Direction: to the right -1
+Action: open Object: the drawer Preposition: it -1
+Action: walk Direction: right Preposition: to Landmark: kitchen counter -1
+Action: grab Object: apple Location: counter -1
+Action: go Direction: left Preposition: to Landmark: fridge -1
+Action: take out Object: apple Location: fridge -1
+Action: walk Direction: behind Preposition: to Landmark: kitchen sink -1
+Action: put Object: apple Location: microwave above sink -1
+Action: turn Direction: right Preposition: walk to Landmark: counter by the coffee maker and toaster -1
+Action: pick up Object: knife From: the counter -1
+Action: turn Direction: left Preposition: walk to Landmark: microwave -1
+Action: open Object: microwave From: the microwave -1
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 65
+Action: open Object: refrigerator From: the refrigerator -1
+Action: walk Direction: back Preposition: to Landmark: microwave 66
+Action: take Object: piece of apple From: out of the microwave -1
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 65
+Action: set Object: apple From: inside the refrigerator -1
+Action: turn Direction: around Preposition: walk across the room -1
+Action: put Object: apple From: out of the refrigerator -1
+Action: turn Direction: right Preposition: walk Landmark: counter -1
+Action: pick up Object: knife From: counter -1
+Action: turn Direction: left Preposition: walk Landmark: microwave 67
+Action: open Object: microwave From: microwave -1
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 68
+Action: open Object: refrigerator From: refrigerator -1
+Action: walk Direction: back Preposition: to Landmark: microwave 66
+Action: take Object: piece From: microwave -1
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 68
+Action: set Object: apple From: refrigerator -1
+Action: turn Direction: left Preposition: walk Landmark: wall -1
+Action: put Object: apple From: hand -1
+Action: turn Direction: left Preposition: move Landmark: white table 69
+Action: pick up Object: sharp knife Location: white table -1
+Action: use Object: knife Preposition: slice Location: head of lettuce -1
+Action: which Preposition: is Location: left -1
+Action: place Object: knife Preposition: on Location: top shelf of the fridge -1
+Action: turn Direction: right Preposition: move back Location: table -1
+Action: pick up Object: piece of lettuce Location: table -1
+Action: turn Direction: left Preposition: carry Location: slice of lettuce -1
+Action: remove Object: lettuce Preposition: after a couple seconds -1
+Action: turn Direction: right Preposition: carry Location: lettuce -1
+Action: place Object: cold lettuce slice Preposition: on Location: table in front of the rest of the head of lettuce -1
+Action: turn Direction: left Preposition: move Landmark: white table 69
+Action: pick up Object: sharp knife From: the white table -1
+Action: use Object: knife To: slice the head of lettuce -1
+Action: left Preposition: to 70
+Action: place Object: knife On: the top shelf of the fridge -1
+Action: turn Direction: right Preposition: move back -1
+Action: pick up Object: a piece of lettuce From: the table -1
+Action: turn Direction: left 21
+Action: remove Object: the lettuce After: a couple seconds -1
+Action: turn Direction: right 13
+Action: place Object: the cold lettuce slice On: the table in front of the rest of the head of lettuce -1
+Action: turn Direction: left Preposition: move Landmark: white table 69
+Action: pick up Object: sharp knife From: white table -1
+Action: use Object: knife Preposition: slice Landmark: head of lettuce -1
+Action: left Preposition: to 70
+Action: place Object: knife On: top shelf of the frige -1
+Action: turn Direction: right Preposition: move back Landmark: table -1
+Action: pick up Object: piece of lettuce From: table -1
+Action: turn Direction: left Preposition: carry Object: slice of lettuce To: fridge -1
+Action: remove Object: lettuce After: a couple of seconds -1
+Action: turn Direction: right Preposition: carry Object: lettuce To: table -1
+Action: place Object: cold lettuce slice On: table In Front Of: rest of the head of lettuce -1
+Action: walk Direction: around Preposition: to Landmark: coffee maker -1
+Action: pick up Object: coffee mug -1
+Action: turn Direction: around Preposition: to Landmark: fridge -1
+Action: take out Object: mug Location: fridge -1
+Action: go back to Landmark: coffee maker -1
+Action: put Object: mug Location: coffee maker -1
+Action: turn Direction: right Preposition: and Landmark: stove 71
+Action: pick up Object: black pan Location: fridge 72
+Action: walk Direction: back Location: fridge -1
+Action: remove Object: pan Location: stove -1
+Action: walk Direction: back Location: stove -1
+Action: place Object: pan Location: front left burner 73
+Action: turn Direction: right Preposition: and Location: stove -1
+Action: pick up Object: black pan Location: fridge 72
+Action: walk Location: fridge -1
+Action: remove Object: pan -1
+Action: walk Location: stove -1
+Action: place Object: pan Location: front left burner 73
+Action: turn Direction: right Preposition: and Landmark: stove 71
+Action: pick up Object: black pan From: fridge -1
+Action: walk To: fridge -1
+Action: remove -1
+Action: walk To: stove -1
+Action: place Object: pan On: front left burner -1
+Action: turn Direction: around Preposition: move Landmark: kitchen sink -1
+Action: pick up Object: sharp knife From: the counter in front of the sink -1
+Action: turn Direction: around Preposition: carry Landmark: round table -1
+Action: use Object: knife Preposition: slice Landmark: potato on the table -1
+Action: head Direction: right Preposition: to the fridge -1
+Action: place Object: knife Preposition: on the top shelf Landmark: next to the tomato -1
+Action: turn Direction: right Preposition: return Landmark: the sliced potato on the table -1
+Action: pick up Object: slice of potato From: the table -1
+Action: turn Direction: left Preposition: to carry Landmark: the fridge -1
+Action: open Object: the door Preposition: to remove Landmark: it after a few seconds -1
+Action: carry Object: the potato slice Preposition: to the kitchen sink -1
+Action: place Object: the slice of potato Preposition: in the sink -1
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 74
+Action: pick up Object: sharp knife From: counter in front of the sink 75
+Action: turn Direction: around Preposition: to Landmark: round table -1
+Action: use Object: knife To: slice the potato on the table 76
+Action: head Direction: right To: fridge -1
+Action: place Object: knife To: fridge on the top shelf next to the tomato -1
+Action: turn Direction: right 13
+Action: pick up Object: slice of potato From: table 77
+Action: turn Direction: left To: fridge -1
+Action: open Object: door -1
+Action: carry Object: potato slice To: kitchen sink 78
+Action: place Object: slice of potato Into: sink -1
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 74
+Action: pick up Object: sharp knife From: counter in front of the sink 75
+Action: turn Direction: around Preposition: to Landmark: round table Object: knife -1
+Action: use Object: knife To: slice the potato on the table 76
+Action: head Direction: right Preposition: to Landmark: fridge -1
+Action: place Object: knife In: fridge On: top shelf Next to: tomato -1
+Action: turn Direction: right Preposition: to Landmark: table Object: sliced potato -1
+Action: pick up Object: slice of potato From: table 77
+Action: turn Direction: left Preposition: to Landmark: fridge Object: potato slice -1
+Action: open Object: door To: remove -1
+Action: carry Object: potato slice To: kitchen sink 78
+Action: place Object: slice of potato In: sink -1
+Action: move Direction: right Preposition: side Landmark: sink 79
+Action: pick up Object: tomato 80
+Action: turn Direction: right Preposition: to Landmark: fridge 81
+Action: drop Object: tomato To: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 82
+Action: drop Object: tomato To: front of coffee maker -1
+Action: move Direction: right Preposition: side Landmark: sink 79
+Action: pick up Object: tomato 80
+Action: turn Direction: right Preposition: to Landmark: fridge 81
+Action: drop Object: tomato Into: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 82
+Action: move Direction: left -1
+Action: then turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: to the right Preposition: of Landmark: the loaf of bread -1
+Action: adjacent Preposition: to Landmark: the fridge 83
+Action: slice Object: the tomato From: the counter -1
+Action: go Direction: left Preposition: to 84
+Action: on Preposition: bottom Landmark: shelf -1
+Action: adjacent Preposition: to Landmark: the fridge 83
+Action: pick up Object: a slice of tomato From: the counter -1
+Action: go Direction: left Preposition: to 84
+Action: chill Object: the tomato slice Into: the fridge -1
+Action: then turn Direction: right Preposition: to face Landmark: the trash bin -1
+Action: put Object: the tomato slice Into: the trash bin -1
+Action: turn Direction: left Landmark: kitchen island -1
+Action: move Direction: right Landmark: loaf of bread -1
+Action: move Direction: adjacent Landmark: fridge 85
+Action: slice Object: tomato Location: counter -1
+Action: go Direction: left Landmark: fridge 86
+Action: put Object: knife Location: bottom shelf -1
+Action: move Direction: adjacent Landmark: fridge 85
+Action: pick up Object: slice of tomato Location: counter -1
+Action: go Direction: left Landmark: fridge 86
+Action: chill Object: tomato slice Location: fridge -1
+Action: turn Direction: right Landmark: trash bin -1
+Action: put Object: tomato slice Location: trash bin -1
+Action: turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: pick up Object: loaf of bread From: right -1
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 87
+Action: slice On: counter Object: tomato -1
+Action: go To: fridge Preposition: to Location: left 88
+Action: put On: bottom shelf Object: knife -1
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 87
+Action: pick up Object: slice From: counter -1
+Action: go To: fridge Preposition: to Location: left 88
+Action: chill In: fridge Object: tomato slice -1
+Action: turn Direction: right Preposition: face Landmark: trash bin -1
+Action: put Into: trash bin Object: tomato slice -1
+Action: walk Direction: face Preposition: sink 89
+Action: pick up Object: white egg From: ledge in front of sink 90
+Action: walk Direction: face Preposition: microwave -1
+Action: remove Object: egg From: microwave 91
+Action: walk Direction: face Preposition: sink 89
+Action: place Object: egg Into: sink basin 92
+Action: walk Direction: face Preposition: sink Location: None 93
+Action: pick up Object: white egg Location: ledge in front of sink -1
+Action: walk Direction: face Preposition: microwave Location: None -1
+Action: remove Object: egg Location: microwave -1
+Action: walk Direction: face Preposition: sink Location: None 93
+Action: place Object: egg Location: sink basin -1
+Action: walk Direction: to Preposition: face Landmark: sink 94
+Action: pick up Object: white egg From: ledge in front of sink 90
+Action: walk Direction: to Preposition: face Landmark: microwave -1
+Action: remove Object: egg From: microwave 91
+Action: walk Direction: to Preposition: face Landmark: sink 94
+Action: place Object: egg Into: sink basin 92
+Action: turn Direction: left Preposition: up Landmark: fridge 95
+Action: open Object: white mug From: the fridge -1
+Action: turn Direction: right Preposition: over Landmark: microwave -1
+Action: heat Object: mug From: the microwave -1
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 96
+Action: put Object: mug On: the top shelf -1
+Action: turn Direction: left Preposition: up Landmark: fridge 95
+Action: open Object: white mug From: fridge -1
+Action: turn Direction: right Preposition: to Landmark: microwave -1
+Action: heat Object: mug From: microwave -1
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 96
+Action: put Object: mug On: top shelf -1
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 97
+Action: pick up Object: potato From: kitchen counter -1
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 98
+Action: place Object: potato From: kitchen sink Into: microwave -1
+Action: turn Direction: around Preposition: over Landmark: fridge 99
+Action: place Object: potato From: kitchen sink Into: fridge Preposition: right -1
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 97
+Action: pick up Object: potato From: the kitchen counter -1
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 98
+Action: place Object: potato Into: the microwave above the kitchen sink -1
+Action: turn Direction: around Preposition: over Landmark: fridge 99
+Action: place Object: potato Into: the fridge to the right of the lettuce -1
+Action: move Direction: left Preposition: to Landmark: table -1
+Action: pick up Object: potato From: the table -1
+Action: turn Direction: around Preposition: head Landmark: microwave -1
+Action: cook Object: potato In: the microwave -1
+Action: turn Direction: around Preposition: head Landmark: sink -1
+Action: place Object: potato In: the sink -1
+Action: move Direction: forward Landmark: sink -1
+Action: pick up Object: knife Location: sink 100
+Action: turn Direction: around Landmark: table 101
+Action: slice Object: potato Location: table -1
+Action: turn Direction: around Landmark: shelf under the sink -1
+Action: place Object: knife Location: shelf -1
+Action: turn Direction: around Landmark: table 101
+Action: pick up Object: potato slice Location: table -1
+Action: turn Direction: left Landmark: oven -1
+Action: cook Object: potato Location: oven -1
+Action: move Direction: right Landmark: fridge -1
+Action: place Object: potato Location: fridge -1
+Action: turn Direction: left Preposition: walk Landmark: the small white table -1
+Action: pick up Object: tomato From: the table 102
+Action: turn Direction: left Preposition: walk Landmark: the microwave -1
+Action: close Object: microwave door 103
+Action: turn Direction: right Preposition: walk To: the end of the kitchen counter -1
+Action: put Object: heated tomato On: the counter in front and to the right of the plastic container -1
+Action: turn Direction: left Preposition: walk Landmark: small white table -1
+Action: pick up Object: tomato From: table -1
+Action: turn Direction: left Preposition: walk Landmark: microwave 67
+Action: close Object: door -1
+Action: turn Direction: right Preposition: walk Landmark: end of the kitchen counter -1
+Action: put Object: heated tomato Into: counter Location: in front and to the right of the plastic container -1
+Action: turn Direction: left Preposition: walk up to Landmark: small white table -1
+Action: pick up Object: tomato From: the table 102
+Action: turn Direction: left Preposition: walk over to Landmark: microwave -1
+Action: close Object: microwave door 103
+Action: turn Direction: right Preposition: walk across the room to Landmark: end of the kitchen counter -1
+Action: put Object: heated tomato Into: the counter in front and to the right of the plastic container -1
+Action: turn Direction: right Preposition: face Landmark: counter next to the sink in front of you -1
+Action: take Object: candle From: sink in front of you -1
+Action: turn Direction: left Preposition: face Landmark: cabinets to your right -1
+Action: place Object: candle To: cabinet under the sink in front of you Preposition: close -1
+Action: turn Direction: left Preposition: face Landmark: toilet to your right -1
+Action: take Object: candle From: top of the toilet in front of you -1
+Action: turn Direction: right Preposition: face Landmark: cabinet under the sink to your left -1
+Action: put Object: candle To: cabinet in front of you Preposition: close -1
+Action: turn Direction: right Preposition: face Landmark: counter -1
+Action: take Object: candle From: sink -1
+Action: turn Direction: left Preposition: face Landmark: cabinets -1
+Action: place Object: candle To: cabinet -1
+Action: turn Direction: left 21
+Action: take Object: candle From: toilet -1
+Action: turn Direction: right 13
+Action: put Object: candle To: cabinet -1
+Action: turn Direction: right Preposition: over Landmark: bath tub -1
+Action: grab Object: sponge From: the bath tub -1
+Action: turn Direction: around Preposition: over Landmark: towel cart -1
+Action: place Object: sponge On: top of the towel cart -1
+Action: turn Direction: right Preposition: over Landmark: the toilet -1
+Action: grab Object: sponge From: the top of the toilet -1
+Action: turn Direction: around Preposition: over Landmark: the towel cart -1
+Action: place Object: sponge On: top of the towel rack -1
+Action: turn Direction: right Preposition: over Location: bath tub -1
+Action: grab Object: sponge Location: bath tub -1
+Action: turn Direction: around Preposition: over Location: towel cart 104
+Action: place Object: sponge Location: towel cart -1
+Action: turn Direction: right Preposition: over Location: toilet -1
+Action: grab Object: sponge Location: top of the toilet -1
+Action: turn Direction: around Preposition: over Location: towel cart 104
+Action: place Object: sponge Preposition: next to Location: towel rack -1
+Action: face Preposition: the island counter -1
+Action: take Object: the lettuce closest to the hand From: the island counter -1
+Action: walk towards Object: the refrigerator -1
+Action: close Object: the refrigerator 105
+Action: go To: the island -1
+Action: take Object: the lettuce on the island counter -1
+Action: go To: the refrigerator 106
+Action: close Object: the refrigerator 105
+Action: go To: the counter to the right of the stove -1
+Action: pick up Object: the knife to the right of the pot on the counter -1
+Action: go To: the refrigerator 106
+Action: close Object: the refrigerator 105
+Action: face Location: island counter -1
+Action: take Object: lettuce closest to the hand on the island counter 107
+Action: walk Location: towards the refrigerator -1
+Action: close Object: refrigerator 108
+Action: go Location: island -1
+Action: take Object: lettuce on the island counter 109
+Action: go Location: refrigerator 110
+Action: close Object: refrigerator 108
+Action: go Location: counter to the right of the stove -1
+Action: pick up Object: knife to the right of the pot on the counter 111
+Action: go Location: refrigerator 110
+Action: close Object: refrigerator 108
+Action: face Preposition: the Landmark: island counter -1
+Action: take Object: the lettuce closest to the hand on the island counter -1
+Action: walk Preposition: towards Landmark: the refrigerator -1
+Action: close Object: the refrigerator 105
+Action: go Preposition: to Landmark: the island -1
+Action: take Object: the lettuce Preposition: on Location: the island counter -1
+Action: go Preposition: to Landmark: the refrigerator 112
+Action: close Object: the refrigerator 105
+Action: go Preposition: to Landmark: the counter to the right of the stove -1
+Action: pick up Object: the knife Preposition: to the right of Location: the pot on the counter -1
+Action: go Preposition: to Landmark: the refrigerator 112
+Action: close Object: the refrigerator 105
+Action: face Direction: None Preposition: counter Landmark: island counter -1
+Action: take Object: lettuce closest to the hand Location: island counter -1
+Action: walk Direction: None Preposition: towards Landmark: refrigerator -1
+Action: close Object: refrigerator Location: None 113
+Action: go Object: island Location: None -1
+Action: take Object: lettuce on the island counter Location: island counter -1
+Action: go Object: refrigerator Location: None 114
+Action: close Object: refrigerator Location: None 113
+Action: go Object: counter to the right of the stove Location: None -1
+Action: pick up Object: knife to the right of the pot on the counter Location: counter -1
+Action: go Object: refrigerator Location: None 114
+Action: close Object: refrigerator Location: None 113
+Action: face Direction: island counter -1
+Action: take Object: lettuce closest to the hand on the island counter 107
+Action: walk Preposition: towards Landmark: refrigerator -1
+Action: close Object: refrigerator 108
+Action: go Preposition: to Landmark: island -1
+Action: take Object: lettuce on the island counter 109
+Action: go Preposition: to Landmark: refrigerator 115
+Action: close Object: refrigerator 108
+Action: go Preposition: to Landmark: counter to the right of the stove -1
+Action: pick up Object: knife to the right of the pot on the counter 111
+Action: go Preposition: to Landmark: refrigerator 115
+Action: close Object: refrigerator 108
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 116
+Action: pick up Object: top pencil From: table 117
+Action: walk To: room Preposition: face Landmark: table -1
+Action: place Object: pencil On: table 118
+Action: turn Direction: right Preposition: walk across Landmark: cabinet -1
+Action: pick up Object: pencil laying From: cabinet -1
+Action: walk across To: room Preposition: face Landmark: table -1
+Action: place Object: pencil On: table 118
+Action: take Direction: two steps Preposition: turn left Location: cabinet -1
+Action: pick up Object: top pencil Location: table -1
+Action: walk Location: room Preposition: face Landmark: table 119
+Action: place Object: pencil Location: table 120
+Action: turn Direction: right Preposition: walk Landmark: cabinet -1
+Action: pick up Object: pencil Location: cabinet -1
+Action: walk Location: room Preposition: face Landmark: table 119
+Action: place Object: pencil Location: table 120
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 116
+Action: pick up Object: top pencil From: table 117
+Action: walk Preposition: across the room Landmark: table 121
+Action: place Object: pencil On: table 118
+Action: turn Direction: right Preposition: walk forward Landmark: cabinet -1
+Action: pick up Object: pencil From: cabinet -1
+Action: walk Preposition: across the room Landmark: table 121
+Action: place Object: pencil On: table 118
+Action: go Direction: to the counter Location: counter 122
+Action: pick up Object: knife Location: corner of the counter on the left 123
+Action: go Direction: across the room Location: room -1
+Action: cut Object: potato Location: counter 124
+Action: turn Direction: right Location: sink 125
+Action: put Object: knife Location: sink, to the right of the apple 126
+Action: turn Direction: left Location: counter -1
+Action: pick up Object: slice of potato Location: None 127
+Action: turn Direction: right Location: sink 125
+Action: put Object: slice of potato Location: sink, in front of the apple 128
+Action: pick up Object: knife Location: sink 100
+Action: turn Direction: around Location: fridge 129
+Action: cut Object: potato Location: second shelf in the fridge 130
+Action: turn Direction: around Location: sink 131
+Action: put Object: knife Location: sink, to the right of the apple 126
+Action: turn Direction: around Location: fridge 129
+Action: pick up Object: slice of potato Location: fridge 132
+Action: turn Direction: around Location: sink 131
+Action: put Object: slice of potato Location: sink, in front of the apple 128
+Action: go Direction: to the counter Location: counter 122
+Action: pick up Object: knife Location: corner of the counter on the left 123
+Action: go Distance: across the room Location: room -1
+Action: cut Object: potato Location: counter 124
+Action: turn Direction: right Location: room 133
+Action: put Object: knife Location: sink Direction: right Landmark: apple 134
+Action: turn Direction: left Location: room -1
+Action: pick up Object: slice of potato Location: None 127
+Action: turn Direction: right Location: room 133
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 135
+Action: pick up Object: knife Location: sink 100
+Action: turn Direction: around Location: None 136
+Action: cut Object: potato Location: second shelf in the fridge 130
+Action: turn Direction: around Location: None 136
+Action: put Object: knife Location: sink Direction: right Landmark: apple 134
+Action: turn Direction: around Location: None 136
+Action: pick up Object: slice of potato Location: fridge 132
+Action: turn Direction: around Location: None 136
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 135
+Action: go Direction: to the counter Preposition: towards Location: counter -1
+Action: pick up Object: knife Location: corner of the counter on the left 123
+Action: go Direction: across the room Preposition: towards Location: counter -1
+Action: cut Object: potato Location: counter 124
+Action: turn Direction: right Preposition: None Location: sink 137
+Action: put Object: knife Location: sink, to the right of the apple 126
+Action: turn Direction: left Preposition: None Location: counter -1
+Action: pick up Object: slice of potato Location: None 127
+Action: turn Direction: right Preposition: None Location: sink 137
+Action: put Object: slice of potato Location: sink, in front of the apple 128
+Action: pick up Object: knife Location: sink 100
+Action: turn Direction: None Preposition: around Location: fridge 138
+Action: cut Object: potato Location: second shelf in the fridge 130
+Action: turn Direction: None Preposition: around Location: sink 139
+Action: put Object: knife Location: sink, to the right of the apple 126
+Action: turn Direction: None Preposition: around Location: fridge 138
+Action: pick up Object: slice of potato Location: fridge 132
+Action: turn Direction: None Preposition: around Location: sink 139
+Action: put Object: slice of potato Location: sink, in front of the apple 128
+Action: move Direction: closest to Preposition: window Landmark: arm chair -1
+Action: pick up Object: remote From: arm chair 140
+Action: move Direction: center of the room Preposition: coffee table 141
+Action: place Object: remote On: coffee table 142
+Action: move Direction: ahead of you Preposition: TV stand -1
+Action: pick up Object: remote From: stand 143
+Action: move Direction: center of the room Preposition: coffee table 141
+Action: place Object: remote On: coffee table 142
+Action: move Direction: to the arm chair Preposition: closest to the window 144
+Action: pick up Object: remote From: arm chair 140
+Action: move Direction: to the coffee table Preposition: in the center of the room 145
+Action: place Object: remote On: coffee table 142
+Action: move Direction: to the TV stand Preposition: ahead of you 146
+Action: pick up Object: remote From: stand 143
+Action: move Direction: to the coffee table Preposition: in the center of the room 145
+Action: place Object: remote On: coffee table 142
+Action: move Direction: to the arm chair Preposition: closest to the window 144
+Action: pick up Object: remote From: the arm chair 147
+Action: move Direction: to the coffee table Preposition: in the center of the room 145
+Action: place Object: remote On: the coffee table 148
+Action: move Direction: to the TV stand Preposition: ahead of you 146
+Action: pick up Object: remote From: the stand 149
+Action: move Direction: to the coffee table Preposition: in the center of the room 145
+Action: place Object: remote On: the coffee table 148
+Action: move Direction: to the arm chair closest to the window Preposition: closest to the window -1
+Action: pick up Object: remote From: the arm chair 147
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 150
+Action: place Object: remote On: the coffee table 148
+Action: move Direction: to the TV stand ahead of you Preposition: ahead of you -1
+Action: pick up Object: remote From: the stand 149
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 150
+Action: place Object: remote On: the coffee table 148
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 151
+Action: pick up Object: remote From: the armchair -1
+Action: turn Direction: back Preposition: to face Landmark: foot rest -1
+Action: place Object: remote On: the purple foot rest -1
+Action: turn Direction: again Preposition: towards Landmark: coffee table 152
+Action: pick up Object: remote From: the coffee table -1
+Action: walk Direction: around Preposition: to Landmark: purple foot rest -1
+Action: place Object: remote Next to: the first remote On: the purple foot rest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 151
+Action: pick up Object: remote From: armchair -1
+Action: turn Direction: back Preposition: face Landmark: footrest -1
+Action: place Object: remote On: purple footrest -1
+Action: turn Direction: again Preposition: towards Landmark: coffee table 152
+Action: pick up Object: remote From: coffee table -1
+Action: walk Direction: around Preposition: to Landmark: purple footrest -1
+Action: place Object: remote Next to: first remote On: purple footrest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 151
+Action: pick up Object: remote Location: armchair 153
+Action: turn Direction: back Preposition: face Landmark: foot rest 154
+Action: place Object: remote Location: purple foot rest 155
+Action: turn Direction: again Preposition: towards Landmark: coffee table 152
+Action: pick up Object: remote Location: coffee table 156
+Action: walk Preposition: around Object: table Location: purple foot rest -1
+Action: place Object: remote Location: next to -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 151
+Action: pick up Object: remote Location: armchair 153
+Action: turn Direction: back Preposition: face Landmark: foot rest 154
+Action: place Object: remote Location: purple foot rest 155
+Action: turn Direction: again Preposition: towards Landmark: coffee table 152
+Action: pick up Object: remote Location: coffee table 156
+Action: walk Preposition: around Landmark: purple foot rest -1
+Action: place Object: remote Location: next to Preposition: on Landmark: first remote -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 151
+Action: pick up Object: remote Location: armchair 153
+Action: turn Preposition: back to Landmark: foot rest -1
+Action: place Object: remote Location: purple foot rest 155
+Action: turn Preposition: again towards Landmark: coffee table -1
+Action: pick up Object: remote Location: coffee table 156
+Action: walk Preposition: around the table to Landmark: purple foot rest -1
+Action: place Object: remote Location: first remote on the foot rest -1
+Action: turn Direction: left Preposition: face Landmark: sink 157
+Action: open Object: bottom right cabinet From: the wall 158
+Action: hold Object: soap From: the bottom right cabinet -1
+Action: place Object: soap From: hand 159
+Action: step Direction: left Preposition: of Landmark: bath tub -1
+Action: pick up Object: bar of soap From: the edge 160
+Action: hold Object: soap From: hand -1
+Action: place Object: soap From: hand 159
+Action: turn Direction: left Preposition: face Landmark: sink 157
+Action: open Object: bottom right cabinet From: the wall 158
+Action: hold Object: soap 161
+Action: place Object: soap From: hand 159
+Action: step Direction: left Preposition: to Landmark: bath tub -1
+Action: pick up Object: bar of soap From: the edge 160
+Action: hold Object: soap 161
+Action: turn Direction: right Preposition: to Landmark: other soap -1
+Action: look up 162
+Action: take Object: purple spray bottle From: cabinet above the toilet -1
+Action: go backwards Direction: while facing towards the blue bin -1
+Action: put Object: spray bottle To: left side of the toilet tank -1
+Action: look up 162
+Action: take Object: purple spray bottle From: cabinet above the toilet that is first from the right -1
+Action: turn Preposition: face Landmark: blue bin -1
+Action: put Object: spray bottle To: center of the toilet tank -1
+Action: look up 162
+Action: take Object: purple spray bottle Location: cabinet above the toilet -1
+Action: go Direction: backwards Preposition: while facing towards Landmark: blue bin -1
+Action: put Object: spray bottle Location: left side of the toilet tank -1
+Action: look Preposition: up -1
+Action: take Object: purple spray bottle Location: cabinet above first from the right -1
+Action: put Object: purple spray bottle Location: blue bin -1
+Action: put Object: spray bottle Location: center of the toilet tank -1
+Action: move Direction: over Preposition: to Landmark: the toilet 163
+Action: pick up Object: empty toilet paper roll From: the floor -1
+Action: bring Object: empty toilet paper roll To: the sink -1
+Action: put Object: empty toilet paper roll On: the counter between the sinks -1
+Action: move Direction: over Preposition: to Landmark: the toilet 163
+Action: pick up Object: toilet paper From: the toilet tank lid -1
+Action: bring Object: toilet paper To: the counter -1
+Action: put Object: toilet paper On: the counter next to soap -1
+Action: move Direction: over Preposition: to Landmark: toilet 164
+Action: pick up Object: empty toilet paper roll Location: floor -1
+Action: bring Object: empty toilet paper roll Preposition: to Landmark: sink -1
+Action: put Object: empty toilet paper roll Preposition: on Landmark: counter between the sinks -1
+Action: move Direction: over Preposition: to Landmark: toilet 164
+Action: pick up Object: toilet paper Location: toilet tank lid -1
+Action: bring Object: toilet paper Preposition: over Landmark: counter -1
+Action: put Object: toilet paper Preposition: on Landmark: counter next to soap -1
+Action: turn Direction: right Preposition: to Landmark: cabinet above the toilet -1
+Action: take Object: roll of toilet paper Location: cabinet above the sink -1
+Action: turn Direction: None Preposition: around Landmark: garbage can -1
+Action: put Object: roll of toilet paper Location: back of the toilet -1
+Action: turn Direction: right Preposition: to Landmark: counter -1
+Action: pick up Object: empty toilet paper roll Location: counter -1
+Action: turn Direction: None Preposition: around Landmark: counter -1
+Action: put Object: empty toilet paper roll Location: back of the toilet -1
+Action: turn Direction: right 13
+Action: take Object: roll of toilet paper From: cabinet above the sink -1
+Action: turn Direction: around 15
+Action: put On: back of the toilet -1
+Action: turn Direction: right 13
+Action: pick up Object: empty toilet paper roll From: counter -1
+Action: turn Direction: around 15
+Action: turn Direction: left 21
+
+ 
+Sentence Transformer 
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk to Landmark: white dresser -1
+Action: turn on Object: light From: top of dresser -1
+Action: walk straight forward Direction: straight forward Preposition: face Landmark: basketball -1
+Action: pick up Object: basketball Location: off of the beanbag chair -1
+Action: turn right Direction: right Preposition: walk to Landmark: white dresser -1
+Action: turn on Object: light Location: on top of the dresser -1
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk Landmark: white dresser -1
+Action: turn Object: light From: top of the dresser -1
+Action: turn Direction: right Preposition: face Landmark: small brown table 2
+Action: pick up Object: box Location: small brown table -1
+Action: carry Object: box Location: small brown table -1
+Action: hold Object: box Location: small brown table -1
+Action: turn Direction: right Preposition: face Landmark: small brown table 2
+Action: pick up Object: box From: the small brown table -1
+Action: carry Object: box Preposition: to the left -1
+Action: hold Object: box -1
+Action: turn Direction: right Preposition: head Landmark: tv stand -1
+Action: pick up Object: keys From: the tv stand -1
+Action: move Direction: right Preposition: towards Landmark: lamp stand -1
+Action: turn on Object: lamp From: off -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box Location: night stand 4
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp 6
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box Location: night stand 4
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp Location: None -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 3
+Action: pick up Object: tissue box From: night stand -1
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 5
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: window -1
+Action: pick up Object: water pot Location: floor -1
+Action: move Direction: opposite Preposition: to Landmark: end table 7
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: plant 8
+Action: pick up Object: water pot From: floor 9
+Action: move Direction: opposite Preposition: on Landmark: end table -1
+Action: turn on Object: lamp 6
+Action: move Direction: left Preposition: under Landmark: plant 8
+Action: pick up Object: water pot From: floor 9
+Action: move Direction: opposite Preposition: to Landmark: end table 7
+Action: turn on Object: lamp 6
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 10
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Preposition: in front of Landmark: book with a phone to the left of it -1
+Action: put Object: alarm clock Preposition: on Landmark: left CD -1
+Action: take a step Direction: left Landmark: alarm clock -1
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Landmark: book with a phone to the left of it -1
+Action: put Object: alarm clock Location: left CD 12
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 10
+Action: pick up Object: alarm clock 11
+Action: take two steps Direction: right Preposition: in front of Landmark: book -1
+Action: put Object: alarm clock Location: left CD 12
+Action: move Direction: to face Preposition: the box on the floor Landmark: to the left -1
+Action: pick up Object: the box on the floor -1
+Action: bring Object: the box To: the desk -1
+Action: put Object: the box On: the right side of the desk -1
+Action: turn Direction: right Preposition: to face Landmark: table -1
+Action: pick up Object: cell phone From: the table -1
+Action: turn Direction: right 13
+Action: open Object: cupboard Preposition: to the left of Landmark: bed -1
+Action: turn Direction: left Preposition: and then straight -1
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around 15
+Action: set Object: credit card To: the couch 16
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 17
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around Preposition: go Landmark: couch 18
+Action: set down Object: credit card To: the couch -1
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 17
+Action: pick up Object: credit card From: the end table 14
+Action: turn Direction: around Preposition: go Landmark: couch 18
+Action: set Object: credit card To: the couch 16
+Action: turn Direction: around Preposition: cross Landmark: the end of the black table where the keys are -1
+Action: pick up Object: keys From: the table -1
+Action: go Direction: right Preposition: left Landmark: the couch -1
+Action: put down Object: keys On: the couch -1
+Action: turn Direction: around Preposition: cross Landmark: black table where the keys are -1
+Action: pick up Object: keys From: table -1
+Action: go Direction: right, then left Preposition: turn to face Landmark: couch -1
+Action: put Object: keys On: couch -1
+Action: turn around Direction: around Preposition: to Landmark: black table 19
+Action: pick up Object: knife Location: next to lettuce -1
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 20
+Action: cut Object: yellow apple Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: stove -1
+Action: put Object: knife Location: standing up on pan, top left burner -1
+Action: pick up Object: pan with knife in it -1
+Action: turn left Direction: left Preposition: to Landmark: black table -1
+Action: put Object: pan with knife Location: below potato -1
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 20
+Action: pick up Object: yellow apple piece, left Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: black table 19
+Action: put Object: apple slice Location: on pan, to the left of knife -1
+Action: turn Direction: around Preposition: to Landmark: black table -1
+Action: pick up Object: knife From: next to lettuce -1
+Action: turn Direction: around Preposition: to Landmark: refrigerator -1
+Action: cut Object: yellow apple Into: three pieces -1
+Action: turn Direction: around 15
+Action: put Object: knife On: pan on stove's top left burner -1
+Action: pick up Object: pan with knife in it From: stove -1
+Action: turn Direction: left 21
+Action: put Object: pan with knife On: table below potato -1
+Action: turn Direction: around 15
+Action: pick up Object: yellow apple piece to the left From: refrigerator -1
+Action: turn Direction: around 15
+Action: put Object: apple slice On: pan to the left of knife on it -1
+Action: walk Distance: two steps Direction: left Location: table -1
+Action: grab Object: knife Preposition: between Location: very back -1
+Action: walk Distance: three steps Direction: right Location: fridge -1
+Action: open Object: fridge Preposition: on Location: wine glass in the back -1
+Action: close Location: fridge -1
+Action: turn Direction: right Distance: four steps Location: table -1
+Action: place Object: wine glass Preposition: on Location: table on the left side of the apple -1
+Action: walk Distance: two steps Direction: left Landmark: table -1
+Action: grab Object: knife in the very back Preposition: between the lettuce and egg -1
+Action: walk Distance: three steps Direction: right Landmark: fridge -1
+Action: open Object: fridge Preposition: on the wine glass in the back -1
+Action: close Object: fridge 22
+Action: turn Direction: right Distance: four steps Landmark: table -1
+Action: place Object: wine glass on the table on the left side of the apple Preposition: on the left side of the apple -1
+Action: walk Distance: two steps Direction: forward Location: None Next Action: turn Next Direction: left Next Location: table -1
+Action: grab Object: knife Location: very back Prepositions: ['between'] -1
+Action: walk Distance: three steps Direction: forward Next Action: turn Next Direction: right Next Location: fridge -1
+Action: open Object: fridge -1
+Action: close Object: fridge 22
+Action: turn Direction: right 13
+Action: place Object: wine glass Location: table, left side of apple -1
+Action: walk Direction: right Preposition: turn Landmark: table 23
+Action: pick up Object: fork Location: table 24
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 25
+Action: place Object: fork Location: mug on the coffee maker 26
+Action: pick up Object: mug Location: coffee maker 27
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: mug and fork Location: sink -1
+Action: walk Direction: right Preposition: turn Landmark: table 23
+Action: pick up Object: fork From: the table -1
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 25
+Action: place Object: fork Into: mug on the coffee maker -1
+Action: pick up Object: mug From: the coffee maker -1
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: mug, fork Into: the sink -1
+Action: walk Direction: right Preposition: then turn Landmark: table -1
+Action: pick up Object: fork Location: table 24
+Action: turn Direction: right Preposition: walk forward Landmark: coffee maker -1
+Action: place Object: fork Location: mug on the coffee maker 26
+Action: pick up Object: mug Location: coffee maker 27
+Action: step Direction: left Preposition: face Landmark: sink 28
+Action: place Object: ['mug', 'fork'] Location: sink -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator Location: counter -1
+Action: pick up Object: yellow-handled knife Location: counter -1
+Action: walk Direction: back Preposition: in front of Landmark: stove Location: kitchen -1
+Action: place Object: knife Location: bowl on stove -1
+Action: pick up Object: bowl with knife in it -1
+Action: walk Direction: over Preposition: with Landmark: tomato on white table Location: white table -1
+Action: set Object: bowl and knife Location: table next to tomato -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 29
+Action: pick up Object: yellow-handled knife From: the counter 30
+Action: walk To: the kitchen -1
+Action: place Object: knife Into: the bowl on the stove 31
+Action: pick up Object: bowl with the knife in it 32
+Action: walk To: the white table with the tomato on it -1
+Action: set Object: bowl and knife Next to: the tomato -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 29
+Action: pick up Object: yellow-handled knife From: the counter 30
+Action: walk To: the kitchen With: knife Preposition: in front of -1
+Action: place Object: knife Into: the bowl on the stove 31
+Action: pick up Object: bowl with the knife in it 32
+Action: walk With: the bowl and knife To: the white table with the tomato on it -1
+Action: set Object: bowl and knife On: the table next to the tomato -1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter to the right of the stove top -1
+Action: pick up Object: pot Location: counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: put Object: pot Location: sink basin -1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter -1
+Action: pick up Object: pot From: the counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: put Object: pot Into: the sink basin -1
+Action: take Direction: right Location: None -1
+Action: pick up Object: pen Location: in front of you, under the mug -1
+Action: put Object: pencil Location: in the mug that was above it -1
+Action: pick up Object: mug with the pencil in it Location: None -1
+Action: turn Direction: right Location: None -1
+Action: put Object: mug Preposition: to the right of Location: phone -1
+Action: move Direction: right Preposition: to the left of Location: the sink -1
+Action: pick up Object: spatula Location: the table -1
+Action: move Direction: left Preposition: to the left of Location: the table -1
+Action: place Object: spatula Preposition: in Location: the pan on the table -1
+Action: pick up Object: pan Location: the table -1
+Action: move Direction: right Preposition: to the sink Location: None -1
+Action: place Object: pan Preposition: in Location: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: the sink 34
+Action: pick up Object: spatula From: the table -1
+Action: move Direction: left Preposition: to the left of Landmark: the table -1
+Action: place Object: spatula Into: pan on the table -1
+Action: pick up Object: pan From: the table -1
+Action: move Direction: right Preposition: to the sink Landmark: the sink -1
+Action: place Object: pan Into: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: sink 34
+Action: pick up Object: spatula Location: table -1
+Action: move Direction: left Preposition: None Landmark: None -1
+Action: place Object: spatula Location: pan on the table -1
+Action: pick up Object: pan Location: table -1
+Action: move Direction: right Preposition: to the sink Landmark: sink -1
+Action: place Object: pan Location: sink -1
+Action: go forward Direction: to the large white table Preposition: on the other side of the room -1
+Action: pick up Object: knife that is on the table -1
+Action: turn Direction: right Preposition: face the small black table -1
+Action: use Object: knife to slice the pear From: the table -1
+Action: turn Direction: right Preposition: go to the section of counter that is on the left of the sink -1
+Action: stick Object: knife directly in front of the salt shaker -1
+Action: turn Direction: left Preposition: return to the small black table 35
+Action: pick up Object: slice of the pear -1
+Action: turn Direction: right Preposition: go to the sink -1
+Action: place Object: pear in the sink From: the counter -1
+Action: turn Direction: left Preposition: return to the small black table 35
+Action: place Object: pear slice back on the small table From: the sink -1
+Action: go forward Direction: left Preposition: to Landmark: large white table -1
+Action: pick up Object: knife From: table -1
+Action: turn Direction: right Preposition: to Landmark: small black table -1
+Action: use Object: knife From: table Preposition: to -1
+Action: turn Direction: right Preposition: to Landmark: section of counter -1
+Action: directly in front of Object: salt shaker -1
+Action: turn Direction: left Preposition: to Landmark: small black table 36
+Action: pick up Object: slice of pear -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: place Object: pear In: sink -1
+Action: turn Direction: left Preposition: to Landmark: small black table 36
+Action: place Object: pear slice On: small black table -1
+Action: walk Direction: behind you Preposition: to Landmark: kitchen counter -1
+Action: grab Object: middle sponge From: counter 37
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 38
+Action: take Object: sponge From: sink 39
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 40
+Action: put Object: sponge Into: bottom drawer 41
+Action: walk Direction: behind Preposition: to Landmark: kitchen counter -1
+Action: grab Object: middle sponge From: counter 37
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 38
+Action: take Object: sponge From: sink 39
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 40
+Action: put Object: sponge Into: bottom drawer 41
+Action: veer Direction: left Preposition: to Landmark: stove 42
+Action: pick up Object: leftmost kettle From: stove 43
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: rinse off Object: kettle From: sink -1
+Action: take a step Direction: right -1
+Action: near Preposition: corner Landmark: counter 44
+Action: veer Direction: left Preposition: to Landmark: stove 42
+Action: pick up Object: leftmost kettle From: stove 43
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: rinse Object: kettle From: sink -1
+Action: take Direction: right Preposition: step -1
+Action: near Preposition: corner Landmark: counter 44
+Action: veer Direction: left Preposition: None Landmark: stove -1
+Action: pick up Object: leftmost kettle Location: stove -1
+Action: turn Direction: right Preposition: None Landmark: sink -1
+Action: rinse Object: kettle Location: sink -1
+Action: take Direction: right Preposition: None Landmark: None -1
+Action: place Object: kettle Location: near the corner of the counter -1
+Action: turn Direction: around Preposition: to Landmark: stove 45
+Action: take Object: pan nearest to you Location: stove -1
+Action: turn Direction: to your right Preposition: to Landmark: sink 46
+Action: fill Object: pan Location: sink 47
+Action: turn Direction: around Preposition: to Landmark: table 48
+Action: place Object: pan Location: center of the table 49
+Action: turn Direction: around Preposition: to Landmark: stove 45
+Action: take Object: pan nearest to you From: the stove -1
+Action: turn Direction: to your right Preposition: to Landmark: sink 46
+Action: fill Object: pan in the sink With: water -1
+Action: turn Direction: around Preposition: to Landmark: table 48
+Action: place Object: pan on the center of the table -1
+Action: turn Direction: around Preposition: to Landmark: stove 45
+Action: take Object: pan Location: stove -1
+Action: turn Direction: right Preposition: to Landmark: sink 33
+Action: fill Object: pan Location: sink 47
+Action: turn Direction: around Preposition: to Landmark: table 48
+Action: place Object: pan Location: center of the table 49
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 50
+Action: pick up Object: pink soap From: the counter 51
+Action: move Direction: right Preposition: face Landmark: sink to the right 52
+Action: turn Off: the water Object: soap -1
+Action: look Direction: slightly lower Landmark: cabinet below the sink -1
+Action: close Object: cabinet door -1
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 50
+Action: pick up Object: pink soap From: the counter 51
+Action: move Direction: right Preposition: face Landmark: sink to the right 52
+Action: turn off Off: the water -1
+Action: look Direction: slightly lower To: the cabinet below the sink -1
+Action: close Door: cabinet door -1
+Action: look down Object: gray bin From: next to the toilet -1
+Action: pick up Object: bar of soap From: inside the gray bin 53
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 54
+Action: rinse For: a few seconds Object: bar of soap Back To: pick it back up -1
+Action: turn Direction: around Preposition: to Landmark: left sink on the vanity counter -1
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 55
+Action: look down Direction: down Preposition: at Landmark: gray bin -1
+Action: pick up Object: bar of soap From: inside the gray bin 53
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 54
+Action: rinse For: a few seconds Object: bar of soap Back: pick it back up -1
+Action: turn Direction: around Preposition: to Landmark: left sink -1
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 55
+Action: turn Direction: around Preposition: to Landmark: left -1
+Action: pick up Object: bar of soap From: counter -1
+Action: move Direction: closer Preposition: to -1
+Action: rinse Object: soap From: basin -1
+Action: right Direction: drawer Preposition: on -1
+Action: Place Object: soap From: INSIDE -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 56
+Action: pick up Object: spatula Location: counter 57
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 58
+Action: wash Object: spatula Location: sink Action2: pick up 59
+Action: walk Direction: left Preposition: over Landmark: counter -1
+Action: put down Object: spatula Location: counter Preposition: to the right -1
+Action: walk Direction: forward and right Preposition: just left of Landmark: kitchen counter -1
+Action: pick up Object: spatula From: the counter 60
+Action: turn left Direction: left Preposition: walk to Landmark: kitchen sink -1
+Action: wash Object: spatula Location: under water in the sink -1
+Action: walk Direction: over to Preposition: just left of Landmark: counter -1
+Action: put down Object: spatula Location: just to the right of the sink -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 56
+Action: pick up Object: spatula From: the counter 60
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 58
+Action: wash Object: spatula From: the sink -1
+Action: walk Direction: over Preposition: left Landmark: counter 61
+Action: put down Object: spatula From: the hand -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 56
+Action: pick up Object: spatula Location: counter 57
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 58
+Action: wash Object: spatula Preposition: under water Location: sink Action2: pick up -1
+Action: walk Direction: over Preposition: left Landmark: counter 61
+Action: put down Object: spatula Preposition: just to the right Location: counter -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter Location: just left of the fridge -1
+Action: pick up Object: spatula Location: counter 57
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 58
+Action: wash Object: spatula Location: sink Action2: pick up 59
+Action: walk Direction: over Preposition: just left Landmark: counter -1
+Action: put down Object: spatula Location: counter Preposition: just to the right -1
+Action: turn Direction: right Preposition: twice Landmark: counter top 62
+Action: pick up Object: spoon From: counter top -1
+Action: turn Direction: left Preposition: twice Landmark: sink 63
+Action: put Object: spoon To: sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 64
+Action: turn Direction: right Location: counter top -1
+Action: pick up Object: spoon Location: counter top -1
+Action: turn Direction: left Location: sink -1
+Action: put Object: spoon Location: sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 64
+Action: turn Direction: right Preposition: twice Landmark: counter top 62
+Action: pick up Object: spoon From: the counter top 65
+Action: turn Direction: left Preposition: twice Landmark: sink 63
+Action: put Object: spoon Into: the sink -1
+Action: turn Direction: right 13
+Action: open Object: drawer 64
+Action: turn Direction: to the right Preposition: twice Landmark: counter top -1
+Action: pick up Object: spoon From: the counter top 65
+Action: turn Direction: to the left Preposition: twice Landmark: sink -1
+Action: put Object: spoon To: the sink -1
+Action: turn Direction: to the right -1
+Action: open Object: the drawer Preposition: it -1
+Action: walk Direction: right Preposition: to Landmark: kitchen counter -1
+Action: grab Object: apple Location: counter -1
+Action: go Direction: left Preposition: to Landmark: fridge -1
+Action: take out Object: apple Location: fridge -1
+Action: walk Direction: behind Preposition: to Landmark: kitchen sink -1
+Action: put Object: apple Location: microwave above sink -1
+Action: turn Direction: right Preposition: walk to Landmark: counter by the coffee maker and toaster -1
+Action: pick up Object: knife From: the counter -1
+Action: turn Direction: left Preposition: walk to Landmark: microwave -1
+Action: open Object: microwave From: the microwave -1
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 66
+Action: open Object: refrigerator From: the refrigerator -1
+Action: walk Direction: back Preposition: to Landmark: microwave 67
+Action: take Object: piece of apple From: out of the microwave -1
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 66
+Action: set Object: apple From: inside the refrigerator -1
+Action: turn Direction: around Preposition: walk across the room -1
+Action: put Object: apple From: out of the refrigerator -1
+Action: turn Direction: right Preposition: walk Landmark: counter -1
+Action: pick up Object: knife From: counter -1
+Action: turn Direction: left Preposition: walk Landmark: microwave 68
+Action: open Object: microwave From: microwave -1
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 69
+Action: open Object: refrigerator From: refrigerator -1
+Action: walk Direction: back Preposition: to Landmark: microwave 67
+Action: take Object: piece From: microwave -1
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 69
+Action: set Object: apple From: refrigerator -1
+Action: turn Direction: left Preposition: walk Landmark: wall -1
+Action: put Object: apple From: hand -1
+Action: turn Direction: left Preposition: move Landmark: white table 70
+Action: pick up Object: sharp knife Location: white table -1
+Action: use Object: knife Preposition: slice Location: head of lettuce -1
+Action: which Preposition: is Location: left -1
+Action: place Object: knife Preposition: on Location: top shelf of the fridge -1
+Action: turn Direction: right Preposition: move back Location: table -1
+Action: pick up Object: piece of lettuce Location: table -1
+Action: turn Direction: left Preposition: carry Location: slice of lettuce -1
+Action: remove Object: lettuce Preposition: after a couple seconds -1
+Action: turn Direction: right Preposition: carry Location: lettuce -1
+Action: place Object: cold lettuce slice Preposition: on Location: table in front of the rest of the head of lettuce -1
+Action: turn Direction: left Preposition: move Landmark: white table 70
+Action: pick up Object: sharp knife From: the white table -1
+Action: use Object: knife To: slice the head of lettuce -1
+Action: left Preposition: to 71
+Action: place Object: knife On: the top shelf of the fridge -1
+Action: turn Direction: right Preposition: move back -1
+Action: pick up Object: a piece of lettuce From: the table -1
+Action: turn Direction: left 21
+Action: remove Object: the lettuce After: a couple seconds -1
+Action: turn Direction: right 13
+Action: place Object: the cold lettuce slice On: the table in front of the rest of the head of lettuce -1
+Action: turn Direction: left Preposition: move Landmark: white table 70
+Action: pick up Object: sharp knife From: white table -1
+Action: use Object: knife Preposition: slice Landmark: head of lettuce -1
+Action: left Preposition: to 71
+Action: place Object: knife On: top shelf of the frige -1
+Action: turn Direction: right Preposition: move back Landmark: table -1
+Action: pick up Object: piece of lettuce From: table -1
+Action: turn Direction: left Preposition: carry Object: slice of lettuce To: fridge -1
+Action: remove Object: lettuce After: a couple of seconds -1
+Action: turn Direction: right Preposition: carry Object: lettuce To: table -1
+Action: place Object: cold lettuce slice On: table In Front Of: rest of the head of lettuce -1
+Action: walk Direction: around Preposition: to Landmark: coffee maker -1
+Action: pick up Object: coffee mug -1
+Action: turn Direction: around Preposition: to Landmark: fridge -1
+Action: take out Object: mug Location: fridge -1
+Action: go back to Landmark: coffee maker -1
+Action: put Object: mug Location: coffee maker -1
+Action: turn Direction: right Preposition: and Landmark: stove 72
+Action: pick up Object: black pan Location: fridge 73
+Action: walk Direction: back Location: fridge -1
+Action: remove Object: pan Location: stove -1
+Action: walk Direction: back Location: stove -1
+Action: place Object: pan Location: front left burner 74
+Action: turn Direction: right Preposition: and Location: stove -1
+Action: pick up Object: black pan Location: fridge 73
+Action: walk Location: fridge -1
+Action: remove Object: pan -1
+Action: walk Location: stove -1
+Action: place Object: pan Location: front left burner 74
+Action: turn Direction: right Preposition: and Landmark: stove 72
+Action: pick up Object: black pan From: fridge -1
+Action: walk To: fridge -1
+Action: remove -1
+Action: walk To: stove -1
+Action: place Object: pan On: front left burner -1
+Action: turn Direction: around Preposition: move Landmark: kitchen sink -1
+Action: pick up Object: sharp knife From: the counter in front of the sink -1
+Action: turn Direction: around Preposition: carry Landmark: round table -1
+Action: use Object: knife Preposition: slice Landmark: potato on the table -1
+Action: head Direction: right Preposition: to the fridge -1
+Action: place Object: knife Preposition: on the top shelf Landmark: next to the tomato -1
+Action: turn Direction: right Preposition: return Landmark: the sliced potato on the table -1
+Action: pick up Object: slice of potato From: the table -1
+Action: turn Direction: left Preposition: to carry Landmark: the fridge -1
+Action: open Object: the door Preposition: to remove Landmark: it after a few seconds -1
+Action: carry Object: the potato slice Preposition: to the kitchen sink -1
+Action: place Object: the slice of potato Preposition: in the sink -1
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 75
+Action: pick up Object: sharp knife From: counter in front of the sink 76
+Action: turn Direction: around Preposition: to Landmark: round table -1
+Action: use Object: knife To: slice the potato on the table 77
+Action: head Direction: right To: fridge -1
+Action: place Object: knife To: fridge on the top shelf next to the tomato -1
+Action: turn Direction: right 13
+Action: pick up Object: slice of potato From: table 78
+Action: turn Direction: left To: fridge -1
+Action: open Object: door -1
+Action: carry Object: potato slice To: kitchen sink 79
+Action: place Object: slice of potato Into: sink -1
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 75
+Action: pick up Object: sharp knife From: counter in front of the sink 76
+Action: turn Direction: around Preposition: to Landmark: round table Object: knife -1
+Action: use Object: knife To: slice the potato on the table 77
+Action: head Direction: right Preposition: to Landmark: fridge -1
+Action: place Object: knife In: fridge On: top shelf Next to: tomato -1
+Action: turn Direction: right Preposition: to Landmark: table Object: sliced potato -1
+Action: pick up Object: slice of potato From: table 78
+Action: turn Direction: left Preposition: to Landmark: fridge Object: potato slice -1
+Action: open Object: door To: remove -1
+Action: carry Object: potato slice To: kitchen sink 79
+Action: place Object: slice of potato In: sink -1
+Action: move Direction: right Preposition: side Landmark: sink 80
+Action: pick up Object: tomato 81
+Action: turn Direction: right Preposition: to Landmark: fridge 82
+Action: drop Object: tomato To: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 83
+Action: drop Object: tomato To: front of coffee maker -1
+Action: move Direction: right Preposition: side Landmark: sink 80
+Action: pick up Object: tomato 81
+Action: turn Direction: right Preposition: to Landmark: fridge 82
+Action: drop Object: tomato Into: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 83
+Action: move Direction: left -1
+Action: then turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: to the right Preposition: of Landmark: the loaf of bread -1
+Action: adjacent Preposition: to Landmark: the fridge 84
+Action: slice Object: the tomato From: the counter -1
+Action: go Direction: left Preposition: to 85
+Action: on Preposition: bottom Landmark: shelf -1
+Action: adjacent Preposition: to Landmark: the fridge 84
+Action: pick up Object: a slice of tomato From: the counter -1
+Action: go Direction: left Preposition: to 85
+Action: chill Object: the tomato slice Into: the fridge -1
+Action: then turn Direction: right Preposition: to face Landmark: the trash bin -1
+Action: put Object: the tomato slice Into: the trash bin -1
+Action: turn Direction: left Landmark: kitchen island -1
+Action: move Direction: right Landmark: loaf of bread -1
+Action: move Direction: adjacent Landmark: fridge 86
+Action: slice Object: tomato Location: counter -1
+Action: go Direction: left Landmark: fridge 87
+Action: put Object: knife Location: bottom shelf -1
+Action: move Direction: adjacent Landmark: fridge 86
+Action: pick up Object: slice of tomato Location: counter -1
+Action: go Direction: left Landmark: fridge 87
+Action: chill Object: tomato slice Location: fridge -1
+Action: turn Direction: right Landmark: trash bin -1
+Action: put Object: tomato slice Location: trash bin -1
+Action: turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: pick up Object: loaf of bread From: right -1
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 88
+Action: slice On: counter Object: tomato -1
+Action: go To: fridge Preposition: to Location: left 89
+Action: put On: bottom shelf Object: knife -1
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 88
+Action: pick up Object: slice From: counter -1
+Action: go To: fridge Preposition: to Location: left 89
+Action: chill In: fridge Object: tomato slice -1
+Action: turn Direction: right Preposition: face Landmark: trash bin -1
+Action: put Into: trash bin Object: tomato slice -1
+Action: walk Direction: face Preposition: sink 90
+Action: pick up Object: white egg From: ledge in front of sink 91
+Action: walk Direction: face Preposition: microwave -1
+Action: remove Object: egg From: microwave 92
+Action: walk Direction: face Preposition: sink 90
+Action: place Object: egg Into: sink basin 93
+Action: walk Direction: face Preposition: sink Location: None 94
+Action: pick up Object: white egg Location: ledge in front of sink -1
+Action: walk Direction: face Preposition: microwave Location: None -1
+Action: remove Object: egg Location: microwave -1
+Action: walk Direction: face Preposition: sink Location: None 94
+Action: place Object: egg Location: sink basin -1
+Action: walk Direction: to Preposition: face Landmark: sink 95
+Action: pick up Object: white egg From: ledge in front of sink 91
+Action: walk Direction: to Preposition: face Landmark: microwave -1
+Action: remove Object: egg From: microwave 92
+Action: walk Direction: to Preposition: face Landmark: sink 95
+Action: place Object: egg Into: sink basin 93
+Action: turn Direction: left Preposition: up Landmark: fridge 96
+Action: open Object: white mug From: the fridge -1
+Action: turn Direction: right Preposition: over Landmark: microwave -1
+Action: heat Object: mug From: the microwave -1
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 97
+Action: put Object: mug On: the top shelf -1
+Action: turn Direction: left Preposition: up Landmark: fridge 96
+Action: open Object: white mug From: fridge -1
+Action: turn Direction: right Preposition: to Landmark: microwave -1
+Action: heat Object: mug From: microwave -1
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 97
+Action: put Object: mug On: top shelf -1
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 98
+Action: pick up Object: potato From: kitchen counter -1
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 99
+Action: place Object: potato From: kitchen sink Into: microwave -1
+Action: turn Direction: around Preposition: over Landmark: fridge 100
+Action: place Object: potato From: kitchen sink Into: fridge Preposition: right -1
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 98
+Action: pick up Object: potato From: the kitchen counter -1
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 99
+Action: place Object: potato Into: the microwave above the kitchen sink -1
+Action: turn Direction: around Preposition: over Landmark: fridge 100
+Action: place Object: potato Into: the fridge to the right of the lettuce -1
+Action: move Direction: left Preposition: to Landmark: table -1
+Action: pick up Object: potato From: the table -1
+Action: turn Direction: around Preposition: head Landmark: microwave -1
+Action: cook Object: potato In: the microwave -1
+Action: turn Direction: around Preposition: head Landmark: sink -1
+Action: place Object: potato In: the sink -1
+Action: move Direction: forward Landmark: sink -1
+Action: pick up Object: knife Location: sink 101
+Action: turn Direction: around Landmark: table 102
+Action: slice Object: potato Location: table -1
+Action: turn Direction: around Landmark: shelf under the sink -1
+Action: place Object: knife Location: shelf -1
+Action: turn Direction: around Landmark: table 102
+Action: pick up Object: potato slice Location: table -1
+Action: turn Direction: left Landmark: oven -1
+Action: cook Object: potato Location: oven -1
+Action: move Direction: right Landmark: fridge -1
+Action: place Object: potato Location: fridge -1
+Action: turn Direction: left Preposition: walk Landmark: the small white table -1
+Action: pick up Object: tomato From: the table 103
+Action: turn Direction: left Preposition: walk Landmark: the microwave -1
+Action: close Object: microwave door 104
+Action: turn Direction: right Preposition: walk To: the end of the kitchen counter -1
+Action: put Object: heated tomato On: the counter in front and to the right of the plastic container -1
+Action: turn Direction: left Preposition: walk Landmark: small white table -1
+Action: pick up Object: tomato From: table -1
+Action: turn Direction: left Preposition: walk Landmark: microwave 68
+Action: close Object: door -1
+Action: turn Direction: right Preposition: walk Landmark: end of the kitchen counter -1
+Action: put Object: heated tomato Into: counter Location: in front and to the right of the plastic container -1
+Action: turn Direction: left Preposition: walk up to Landmark: small white table -1
+Action: pick up Object: tomato From: the table 103
+Action: turn Direction: left Preposition: walk over to Landmark: microwave -1
+Action: close Object: microwave door 104
+Action: turn Direction: right Preposition: walk across the room to Landmark: end of the kitchen counter -1
+Action: put Object: heated tomato Into: the counter in front and to the right of the plastic container -1
+Action: turn Direction: right Preposition: face Landmark: counter next to the sink in front of you -1
+Action: take Object: candle From: sink in front of you -1
+Action: turn Direction: left Preposition: face Landmark: cabinets to your right -1
+Action: place Object: candle To: cabinet under the sink in front of you Preposition: close -1
+Action: turn Direction: left Preposition: face Landmark: toilet to your right -1
+Action: take Object: candle From: top of the toilet in front of you -1
+Action: turn Direction: right Preposition: face Landmark: cabinet under the sink to your left -1
+Action: put Object: candle To: cabinet in front of you Preposition: close -1
+Action: turn Direction: right Preposition: face Landmark: counter -1
+Action: take Object: candle From: sink -1
+Action: turn Direction: left Preposition: face Landmark: cabinets -1
+Action: place Object: candle To: cabinet -1
+Action: turn Direction: left 21
+Action: take Object: candle From: toilet -1
+Action: turn Direction: right 13
+Action: put Object: candle To: cabinet -1
+Action: turn Direction: right Preposition: over Landmark: bath tub -1
+Action: grab Object: sponge From: the bath tub -1
+Action: turn Direction: around Preposition: over Landmark: towel cart -1
+Action: place Object: sponge On: top of the towel cart -1
+Action: turn Direction: right Preposition: over Landmark: the toilet -1
+Action: grab Object: sponge From: the top of the toilet -1
+Action: turn Direction: around Preposition: over Landmark: the towel cart -1
+Action: place Object: sponge On: top of the towel rack -1
+Action: turn Direction: right Preposition: over Location: bath tub -1
+Action: grab Object: sponge Location: bath tub -1
+Action: turn Direction: around Preposition: over Location: towel cart 105
+Action: place Object: sponge Location: towel cart -1
+Action: turn Direction: right Preposition: over Location: toilet -1
+Action: grab Object: sponge Location: top of the toilet -1
+Action: turn Direction: around Preposition: over Location: towel cart 105
+Action: place Object: sponge Preposition: next to Location: towel rack -1
+Action: face Preposition: the island counter -1
+Action: take Object: the lettuce closest to the hand From: the island counter -1
+Action: walk towards Object: the refrigerator -1
+Action: close Object: the refrigerator 106
+Action: go To: the island -1
+Action: take Object: the lettuce on the island counter -1
+Action: go To: the refrigerator 107
+Action: close Object: the refrigerator 106
+Action: go To: the counter to the right of the stove -1
+Action: pick up Object: the knife to the right of the pot on the counter -1
+Action: go To: the refrigerator 107
+Action: close Object: the refrigerator 106
+Action: face Location: island counter -1
+Action: take Object: lettuce closest to the hand on the island counter 108
+Action: walk Location: towards the refrigerator -1
+Action: close Object: refrigerator 109
+Action: go Location: island -1
+Action: take Object: lettuce on the island counter 110
+Action: go Location: refrigerator 111
+Action: close Object: refrigerator 109
+Action: go Location: counter to the right of the stove -1
+Action: pick up Object: knife to the right of the pot on the counter 112
+Action: go Location: refrigerator 111
+Action: close Object: refrigerator 109
+Action: face Preposition: the Landmark: island counter -1
+Action: take Object: the lettuce closest to the hand on the island counter -1
+Action: walk Preposition: towards Landmark: the refrigerator -1
+Action: close Object: the refrigerator 106
+Action: go Preposition: to Landmark: the island -1
+Action: take Object: the lettuce Preposition: on Location: the island counter -1
+Action: go Preposition: to Landmark: the refrigerator 113
+Action: close Object: the refrigerator 106
+Action: go Preposition: to Landmark: the counter to the right of the stove -1
+Action: pick up Object: the knife Preposition: to the right of Location: the pot on the counter -1
+Action: go Preposition: to Landmark: the refrigerator 113
+Action: close Object: the refrigerator 106
+Action: face Direction: None Preposition: counter Landmark: island counter -1
+Action: take Object: lettuce closest to the hand Location: island counter -1
+Action: walk Direction: None Preposition: towards Landmark: refrigerator -1
+Action: close Object: refrigerator Location: None 114
+Action: go Object: island Location: None -1
+Action: take Object: lettuce on the island counter Location: island counter -1
+Action: go Object: refrigerator Location: None 115
+Action: close Object: refrigerator Location: None 114
+Action: go Object: counter to the right of the stove Location: None -1
+Action: pick up Object: knife to the right of the pot on the counter Location: counter -1
+Action: go Object: refrigerator Location: None 115
+Action: close Object: refrigerator Location: None 114
+Action: face Direction: island counter -1
+Action: take Object: lettuce closest to the hand on the island counter 108
+Action: walk Preposition: towards Landmark: refrigerator -1
+Action: close Object: refrigerator 109
+Action: go Preposition: to Landmark: island -1
+Action: take Object: lettuce on the island counter 110
+Action: go Preposition: to Landmark: refrigerator 116
+Action: close Object: refrigerator 109
+Action: go Preposition: to Landmark: counter to the right of the stove -1
+Action: pick up Object: knife to the right of the pot on the counter 112
+Action: go Preposition: to Landmark: refrigerator 116
+Action: close Object: refrigerator 109
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 117
+Action: pick up Object: top pencil From: table 118
+Action: walk To: room Preposition: face Landmark: table -1
+Action: place Object: pencil On: table 119
+Action: turn Direction: right Preposition: walk across Landmark: cabinet -1
+Action: pick up Object: pencil laying From: cabinet -1
+Action: walk across To: room Preposition: face Landmark: table -1
+Action: place Object: pencil On: table 119
+Action: take Direction: two steps Preposition: turn left Location: cabinet -1
+Action: pick up Object: top pencil Location: table -1
+Action: walk Location: room Preposition: face Landmark: table 120
+Action: place Object: pencil Location: table 121
+Action: turn Direction: right Preposition: walk Landmark: cabinet -1
+Action: pick up Object: pencil Location: cabinet -1
+Action: walk Location: room Preposition: face Landmark: table 120
+Action: place Object: pencil Location: table 121
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 117
+Action: pick up Object: top pencil From: table 118
+Action: walk Preposition: across the room Landmark: table 122
+Action: place Object: pencil On: table 119
+Action: turn Direction: right Preposition: walk forward Landmark: cabinet -1
+Action: pick up Object: pencil From: cabinet -1
+Action: walk Preposition: across the room Landmark: table 122
+Action: place Object: pencil On: table 119
+Action: go Direction: to the counter Location: counter 123
+Action: pick up Object: knife Location: corner of the counter on the left 124
+Action: go Direction: across the room Location: room -1
+Action: cut Object: potato Location: counter 125
+Action: turn Direction: right Location: sink 126
+Action: put Object: knife Location: sink, to the right of the apple 127
+Action: turn Direction: left Location: counter -1
+Action: pick up Object: slice of potato Location: None 128
+Action: turn Direction: right Location: sink 126
+Action: put Object: slice of potato Location: sink, in front of the apple 129
+Action: pick up Object: knife Location: sink 101
+Action: turn Direction: around Location: fridge 130
+Action: cut Object: potato Location: second shelf in the fridge 131
+Action: turn Direction: around Location: sink 132
+Action: put Object: knife Location: sink, to the right of the apple 127
+Action: turn Direction: around Location: fridge 130
+Action: pick up Object: slice of potato Location: fridge 133
+Action: turn Direction: around Location: sink 132
+Action: put Object: slice of potato Location: sink, in front of the apple 129
+Action: go Direction: to the counter Location: counter 123
+Action: pick up Object: knife Location: corner of the counter on the left 124
+Action: go Distance: across the room Location: room -1
+Action: cut Object: potato Location: counter 125
+Action: turn Direction: right Location: room 134
+Action: put Object: knife Location: sink Direction: right Landmark: apple 135
+Action: turn Direction: left Location: room -1
+Action: pick up Object: slice of potato Location: None 128
+Action: turn Direction: right Location: room 134
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 136
+Action: pick up Object: knife Location: sink 101
+Action: turn Direction: around Location: None 137
+Action: cut Object: potato Location: second shelf in the fridge 131
+Action: turn Direction: around Location: None 137
+Action: put Object: knife Location: sink Direction: right Landmark: apple 135
+Action: turn Direction: around Location: None 137
+Action: pick up Object: slice of potato Location: fridge 133
+Action: turn Direction: around Location: None 137
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 136
+Action: go Direction: to the counter Preposition: towards Location: counter -1
+Action: pick up Object: knife Location: corner of the counter on the left 124
+Action: go Direction: across the room Preposition: towards Location: counter -1
+Action: cut Object: potato Location: counter 125
+Action: turn Direction: right Preposition: None Location: sink 138
+Action: put Object: knife Location: sink, to the right of the apple 127
+Action: turn Direction: left Preposition: None Location: counter -1
+Action: pick up Object: slice of potato Location: None 128
+Action: turn Direction: right Preposition: None Location: sink 138
+Action: put Object: slice of potato Location: sink, in front of the apple 129
+Action: pick up Object: knife Location: sink 101
+Action: turn Direction: None Preposition: around Location: fridge 139
+Action: cut Object: potato Location: second shelf in the fridge 131
+Action: turn Direction: None Preposition: around Location: sink 140
+Action: put Object: knife Location: sink, to the right of the apple 127
+Action: turn Direction: None Preposition: around Location: fridge 139
+Action: pick up Object: slice of potato Location: fridge 133
+Action: turn Direction: None Preposition: around Location: sink 140
+Action: put Object: slice of potato Location: sink, in front of the apple 129
+Action: move Direction: closest to Preposition: window Landmark: arm chair -1
+Action: pick up Object: remote From: arm chair 141
+Action: move Direction: center of the room Preposition: coffee table 142
+Action: place Object: remote On: coffee table 143
+Action: move Direction: ahead of you Preposition: TV stand -1
+Action: pick up Object: remote From: stand 144
+Action: move Direction: center of the room Preposition: coffee table 142
+Action: place Object: remote On: coffee table 143
+Action: move Direction: to the arm chair Preposition: closest to the window 145
+Action: pick up Object: remote From: arm chair 141
+Action: move Direction: to the coffee table Preposition: in the center of the room 146
+Action: place Object: remote On: coffee table 143
+Action: move Direction: to the TV stand Preposition: ahead of you 147
+Action: pick up Object: remote From: stand 144
+Action: move Direction: to the coffee table Preposition: in the center of the room 146
+Action: place Object: remote On: coffee table 143
+Action: move Direction: to the arm chair Preposition: closest to the window 145
+Action: pick up Object: remote From: the arm chair 148
+Action: move Direction: to the coffee table Preposition: in the center of the room 146
+Action: place Object: remote On: the coffee table 149
+Action: move Direction: to the TV stand Preposition: ahead of you 147
+Action: pick up Object: remote From: the stand 150
+Action: move Direction: to the coffee table Preposition: in the center of the room 146
+Action: place Object: remote On: the coffee table 149
+Action: move Direction: to the arm chair closest to the window Preposition: closest to the window -1
+Action: pick up Object: remote From: the arm chair 148
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 151
+Action: place Object: remote On: the coffee table 149
+Action: move Direction: to the TV stand ahead of you Preposition: ahead of you -1
+Action: pick up Object: remote From: the stand 150
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 151
+Action: place Object: remote On: the coffee table 149
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 152
+Action: pick up Object: remote From: the armchair -1
+Action: turn Direction: back Preposition: to face Landmark: foot rest -1
+Action: place Object: remote On: the purple foot rest -1
+Action: turn Direction: again Preposition: towards Landmark: coffee table 153
+Action: pick up Object: remote From: the coffee table -1
+Action: walk Direction: around Preposition: to Landmark: purple foot rest -1
+Action: place Object: remote Next to: the first remote On: the purple foot rest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 152
+Action: pick up Object: remote From: armchair -1
+Action: turn Direction: back Preposition: face Landmark: footrest -1
+Action: place Object: remote On: purple footrest -1
+Action: turn Direction: again Preposition: towards Landmark: coffee table 153
+Action: pick up Object: remote From: coffee table -1
+Action: walk Direction: around Preposition: to Landmark: purple footrest -1
+Action: place Object: remote Next to: first remote On: purple footrest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 152
+Action: pick up Object: remote Location: armchair 154
+Action: turn Direction: back Preposition: face Landmark: foot rest 155
+Action: place Object: remote Location: purple foot rest 156
+Action: turn Direction: again Preposition: towards Landmark: coffee table 153
+Action: pick up Object: remote Location: coffee table 157
+Action: walk Preposition: around Object: table Location: purple foot rest -1
+Action: place Object: remote Location: next to -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 152
+Action: pick up Object: remote Location: armchair 154
+Action: turn Direction: back Preposition: face Landmark: foot rest 155
+Action: place Object: remote Location: purple foot rest 156
+Action: turn Direction: again Preposition: towards Landmark: coffee table 153
+Action: pick up Object: remote Location: coffee table 157
+Action: walk Preposition: around Landmark: purple foot rest -1
+Action: place Object: remote Location: next to Preposition: on Landmark: first remote -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 152
+Action: pick up Object: remote Location: armchair 154
+Action: turn Preposition: back to Landmark: foot rest -1
+Action: place Object: remote Location: purple foot rest 156
+Action: turn Preposition: again towards Landmark: coffee table -1
+Action: pick up Object: remote Location: coffee table 157
+Action: walk Preposition: around the table to Landmark: purple foot rest -1
+Action: place Object: remote Location: first remote on the foot rest -1
+Action: turn Direction: left Preposition: face Landmark: sink 158
+Action: open Object: bottom right cabinet From: the wall 159
+Action: hold Object: soap From: the bottom right cabinet -1
+Action: place Object: soap From: hand 160
+Action: step Direction: left Preposition: of Landmark: bath tub -1
+Action: pick up Object: bar of soap From: the edge 161
+Action: hold Object: soap From: hand -1
+Action: place Object: soap From: hand 160
+Action: turn Direction: left Preposition: face Landmark: sink 158
+Action: open Object: bottom right cabinet From: the wall 159
+Action: hold Object: soap 162
+Action: place Object: soap From: hand 160
+Action: step Direction: left Preposition: to Landmark: bath tub -1
+Action: pick up Object: bar of soap From: the edge 161
+Action: hold Object: soap 162
+Action: turn Direction: right Preposition: to Landmark: other soap -1
+Action: look up 163
+Action: take Object: purple spray bottle From: cabinet above the toilet -1
+Action: go backwards Direction: while facing towards the blue bin -1
+Action: put Object: spray bottle To: left side of the toilet tank -1
+Action: look up 163
+Action: take Object: purple spray bottle From: cabinet above the toilet that is first from the right -1
+Action: turn Preposition: face Landmark: blue bin -1
+Action: put Object: spray bottle To: center of the toilet tank -1
+Action: look up 163
+Action: take Object: purple spray bottle Location: cabinet above the toilet -1
+Action: go Direction: backwards Preposition: while facing towards Landmark: blue bin -1
+Action: put Object: spray bottle Location: left side of the toilet tank -1
+Action: look Preposition: up -1
+Action: take Object: purple spray bottle Location: cabinet above first from the right -1
+Action: put Object: purple spray bottle Location: blue bin -1
+Action: put Object: spray bottle Location: center of the toilet tank -1
+Action: move Direction: over Preposition: to Landmark: the toilet 164
+Action: pick up Object: empty toilet paper roll From: the floor -1
+Action: bring Object: empty toilet paper roll To: the sink -1
+Action: put Object: empty toilet paper roll On: the counter between the sinks -1
+Action: move Direction: over Preposition: to Landmark: the toilet 164
+Action: pick up Object: toilet paper From: the toilet tank lid -1
+Action: bring Object: toilet paper To: the counter -1
+Action: put Object: toilet paper On: the counter next to soap -1
+Action: move Direction: over Preposition: to Landmark: toilet 165
+Action: pick up Object: empty toilet paper roll Location: floor -1
+Action: bring Object: empty toilet paper roll Preposition: to Landmark: sink -1
+Action: put Object: empty toilet paper roll Preposition: on Landmark: counter between the sinks -1
+Action: move Direction: over Preposition: to Landmark: toilet 165
+Action: pick up Object: toilet paper Location: toilet tank lid -1
+Action: bring Object: toilet paper Preposition: over Landmark: counter -1
+Action: put Object: toilet paper Preposition: on Landmark: counter next to soap -1
+Action: turn Direction: right Preposition: to Landmark: cabinet above the toilet -1
+Action: take Object: roll of toilet paper Location: cabinet above the sink -1
+Action: turn Direction: None Preposition: around Landmark: garbage can -1
+Action: put Object: roll of toilet paper Location: back of the toilet -1
+Action: turn Direction: right Preposition: to Landmark: counter -1
+Action: pick up Object: empty toilet paper roll Location: counter -1
+Action: turn Direction: None Preposition: around Landmark: counter -1
+Action: put Object: empty toilet paper roll Location: back of the toilet -1
+Action: turn Direction: right 13
+Action: take Object: roll of toilet paper From: cabinet above the sink -1
+Action: turn Direction: around 15
+Action: put On: back of the toilet -1
+Action: turn Direction: right 13
+Action: pick up Object: empty toilet paper roll From: counter -1
+Action: turn Direction: around 15
+Action: turn Direction: left 21
+
+ 
+Tfidf
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk to Landmark: white dresser 2
+Action: turn on Object: light From: top of dresser 3
+Action: walk straight forward Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball Location: off of the beanbag chair -1
+Action: turn right Direction: right Preposition: walk to Landmark: white dresser 2
+Action: turn on Object: light Location: on top of the dresser 3
+Action: walk Direction: straight forward Preposition: face Landmark: basketball 0
+Action: pick up Object: basketball From: beanbag chair 1
+Action: turn Direction: right Preposition: walk Landmark: white dresser 2
+Action: turn Object: light From: top of the dresser 3
+Action: turn Direction: right Preposition: face Landmark: small brown table 4
+Action: pick up Object: box Location: small brown table 5
+Action: carry Object: box Location: small brown table -1
+Action: hold Object: box Location: small brown table -1
+Action: turn Direction: right Preposition: face Landmark: small brown table 4
+Action: pick up Object: box From: the small brown table 5
+Action: carry Object: box Preposition: to the left -1
+Action: hold Object: box -1
+Action: turn Direction: right Preposition: head Landmark: tv stand -1
+Action: pick up Object: keys From: the tv stand -1
+Action: move Direction: right Preposition: towards Landmark: lamp stand -1
+Action: turn on Object: lamp From: off -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 6
+Action: pick up Object: tissue box Location: night stand 7
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 8
+Action: turn on Object: lamp 9
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 6
+Action: pick up Object: tissue box Location: night stand 7
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 8
+Action: turn on Object: lamp Location: None -1
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box 6
+Action: pick up Object: tissue box From: night stand 7
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk 8
+Action: turn on Object: lamp 9
+Action: move Direction: left Preposition: under Landmark: window -1
+Action: pick up Object: water pot Location: floor 10
+Action: move Direction: opposite Preposition: to Landmark: end table 11
+Action: turn on Object: lamp 9
+Action: move Direction: left Preposition: under Landmark: plant 12
+Action: pick up Object: water pot From: floor 10
+Action: move Direction: opposite Preposition: on Landmark: end table 11
+Action: turn on Object: lamp 9
+Action: move Direction: left Preposition: under Landmark: plant 12
+Action: pick up Object: water pot From: floor 10
+Action: move Direction: opposite Preposition: to Landmark: end table 11
+Action: turn on Object: lamp 9
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 13
+Action: pick up Object: alarm clock 14
+Action: take two steps Direction: right Preposition: in front of Landmark: book with a phone to the left of it 15
+Action: put Object: alarm clock Preposition: on Landmark: left CD 16
+Action: take a step Direction: left Landmark: alarm clock -1
+Action: pick up Object: alarm clock 14
+Action: take two steps Direction: right Landmark: book with a phone to the left of it 15
+Action: put Object: alarm clock Location: left CD 16
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock 13
+Action: pick up Object: alarm clock 14
+Action: take two steps Direction: right Preposition: in front of Landmark: book -1
+Action: put Object: alarm clock Location: left CD 16
+Action: move Direction: to face Preposition: the box on the floor Landmark: to the left -1
+Action: pick up Object: the box on the floor -1
+Action: bring Object: the box To: the desk -1
+Action: put Object: the box On: the right side of the desk -1
+Action: turn Direction: right Preposition: to face Landmark: table -1
+Action: pick up Object: cell phone From: the table -1
+Action: turn Direction: right 17
+Action: open Object: cupboard Preposition: to the left of Landmark: bed -1
+Action: turn Direction: left Preposition: and then straight -1
+Action: pick up Object: credit card From: the end table 18
+Action: turn Direction: around 19
+Action: set Object: credit card To: the couch 20
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 21
+Action: pick up Object: credit card From: the end table 18
+Action: turn Direction: around Preposition: go Landmark: couch 22
+Action: set down Object: credit card To: the couch 20
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight 21
+Action: pick up Object: credit card From: the end table 18
+Action: turn Direction: around Preposition: go Landmark: couch 22
+Action: set Object: credit card To: the couch 20
+Action: turn Direction: around Preposition: cross Landmark: the end of the black table where the keys are 23
+Action: pick up Object: keys From: the table 24
+Action: go Direction: right Preposition: left Landmark: the couch -1
+Action: put down Object: keys On: the couch -1
+Action: turn Direction: around Preposition: cross Landmark: black table where the keys are 23
+Action: pick up Object: keys From: table 24
+Action: go Direction: right, then left Preposition: turn to face Landmark: couch -1
+Action: put Object: keys On: couch -1
+Action: turn around Direction: around Preposition: to Landmark: black table 25
+Action: pick up Object: knife Location: next to lettuce 26
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 27
+Action: cut Object: yellow apple Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: stove 28
+Action: put Object: knife Location: standing up on pan, top left burner -1
+Action: pick up Object: pan with knife in it 29
+Action: turn left Direction: left Preposition: to Landmark: black table -1
+Action: put Object: pan with knife Location: below potato 30
+Action: turn around Direction: around Preposition: to Landmark: refrigerator 27
+Action: pick up Object: yellow apple piece, left Location: None -1
+Action: turn around Direction: around Preposition: to Landmark: black table 25
+Action: put Object: apple slice Location: on pan, to the left of knife -1
+Action: turn Direction: around Preposition: to Landmark: black table 25
+Action: pick up Object: knife From: next to lettuce 26
+Action: turn Direction: around Preposition: to Landmark: refrigerator 27
+Action: cut Object: yellow apple Into: three pieces -1
+Action: turn Direction: around 19
+Action: put Object: knife On: pan on stove's top left burner -1
+Action: pick up Object: pan with knife in it From: stove 29
+Action: turn Direction: left 31
+Action: put Object: pan with knife On: table below potato 30
+Action: turn Direction: around 19
+Action: pick up Object: yellow apple piece to the left From: refrigerator -1
+Action: turn Direction: around 19
+Action: put Object: apple slice On: pan to the left of knife on it -1
+Action: walk Distance: two steps Direction: left Location: table 32
+Action: grab Object: knife Preposition: between Location: very back -1
+Action: walk Distance: three steps Direction: right Location: fridge 33
+Action: open Object: fridge Preposition: on Location: wine glass in the back 34
+Action: close Location: fridge 35
+Action: turn Direction: right Distance: four steps Location: table 36
+Action: place Object: wine glass Preposition: on Location: table on the left side of the apple 37
+Action: walk Distance: two steps Direction: left Landmark: table 32
+Action: grab Object: knife in the very back Preposition: between the lettuce and egg -1
+Action: walk Distance: three steps Direction: right Landmark: fridge 33
+Action: open Object: fridge Preposition: on the wine glass in the back 34
+Action: close Object: fridge 35
+Action: turn Direction: right Distance: four steps Landmark: table 36
+Action: place Object: wine glass on the table on the left side of the apple Preposition: on the left side of the apple 37
+Action: walk Distance: two steps Direction: forward Location: None Next Action: turn Next Direction: left Next Location: table -1
+Action: grab Object: knife Location: very back Prepositions: ['between'] -1
+Action: walk Distance: three steps Direction: forward Next Action: turn Next Direction: right Next Location: fridge -1
+Action: open Object: fridge -1
+Action: close Object: fridge 35
+Action: turn Direction: right 17
+Action: place Object: wine glass Location: table, left side of apple -1
+Action: walk Direction: right Preposition: turn Landmark: table 38
+Action: pick up Object: fork Location: table 39
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 40
+Action: place Object: fork Location: mug on the coffee maker 41
+Action: pick up Object: mug Location: coffee maker 42
+Action: step Direction: left Preposition: face Landmark: sink 43
+Action: place Object: mug and fork Location: sink -1
+Action: walk Direction: right Preposition: turn Landmark: table 38
+Action: pick up Object: fork From: the table -1
+Action: turn Direction: right Preposition: walk Landmark: coffee maker 40
+Action: place Object: fork Into: mug on the coffee maker 41
+Action: pick up Object: mug From: the coffee maker 42
+Action: step Direction: left Preposition: face Landmark: sink 43
+Action: place Object: mug, fork Into: the sink -1
+Action: walk Direction: right Preposition: then turn Landmark: table -1
+Action: pick up Object: fork Location: table 39
+Action: turn Direction: right Preposition: walk forward Landmark: coffee maker 40
+Action: place Object: fork Location: mug on the coffee maker 41
+Action: pick up Object: mug Location: coffee maker 42
+Action: step Direction: left Preposition: face Landmark: sink 43
+Action: place Object: ['mug', 'fork'] Location: sink -1
+Action: turn Direction: right Preposition: passed Landmark: refrigerator Location: counter 44
+Action: pick up Object: yellow-handled knife Location: counter 45
+Action: walk Direction: back Preposition: in front of Landmark: stove Location: kitchen -1
+Action: place Object: knife Location: bowl on stove -1
+Action: pick up Object: bowl with knife in it 46
+Action: walk Direction: over Preposition: with Landmark: tomato on white table Location: white table -1
+Action: set Object: bowl and knife Location: table next to tomato 47
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 44
+Action: pick up Object: yellow-handled knife From: the counter 45
+Action: walk To: the kitchen -1
+Action: place Object: knife Into: the bowl on the stove 48
+Action: pick up Object: bowl with the knife in it 46
+Action: walk To: the white table with the tomato on it -1
+Action: set Object: bowl and knife Next to: the tomato 47
+Action: turn Direction: right Preposition: passed Landmark: refrigerator 44
+Action: pick up Object: yellow-handled knife From: the counter 45
+Action: walk To: the kitchen With: knife Preposition: in front of -1
+Action: place Object: knife Into: the bowl on the stove 48
+Action: pick up Object: bowl with the knife in it 46
+Action: walk With: the bowl and knife To: the white table with the tomato on it -1
+Action: set Object: bowl and knife On: the table next to the tomato 47
+Action: turn Direction: left Preposition: to Landmark: pot on the counter to the right of the stove top -1
+Action: pick up Object: pot Location: counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: put Object: pot Location: sink basin -1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter -1
+Action: pick up Object: pot From: the counter -1
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: put Object: pot Into: the sink basin -1
+Action: take Direction: right Location: None -1
+Action: pick up Object: pen Location: in front of you, under the mug -1
+Action: put Object: pencil Location: in the mug that was above it -1
+Action: pick up Object: mug with the pencil in it Location: None -1
+Action: turn Direction: right Location: None 50
+Action: put Object: mug Preposition: to the right of Location: phone -1
+Action: move Direction: right Preposition: to the left of Location: the sink 51
+Action: pick up Object: spatula Location: the table 52
+Action: move Direction: left Preposition: to the left of Location: the table 53
+Action: place Object: spatula Preposition: in Location: the pan on the table 54
+Action: pick up Object: pan Location: the table 55
+Action: move Direction: right Preposition: to the sink Location: None -1
+Action: place Object: pan Preposition: in Location: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: the sink 51
+Action: pick up Object: spatula From: the table 52
+Action: move Direction: left Preposition: to the left of Landmark: the table 53
+Action: place Object: spatula Into: pan on the table -1
+Action: pick up Object: pan From: the table 55
+Action: move Direction: right Preposition: to the sink Landmark: the sink 56
+Action: place Object: pan Into: the sink -1
+Action: move Direction: right Preposition: to the left of Landmark: sink 51
+Action: pick up Object: spatula Location: table 52
+Action: move Direction: left Preposition: None Landmark: None -1
+Action: place Object: spatula Location: pan on the table 54
+Action: pick up Object: pan Location: table 55
+Action: move Direction: right Preposition: to the sink Landmark: sink 56
+Action: place Object: pan Location: sink -1
+Action: go forward Direction: to the large white table Preposition: on the other side of the room -1
+Action: pick up Object: knife that is on the table -1
+Action: turn Direction: right Preposition: face the small black table -1
+Action: use Object: knife to slice the pear From: the table -1
+Action: turn Direction: right Preposition: go to the section of counter that is on the left of the sink -1
+Action: stick Object: knife directly in front of the salt shaker -1
+Action: turn Direction: left Preposition: return to the small black table 57
+Action: pick up Object: slice of the pear 58
+Action: turn Direction: right Preposition: go to the sink -1
+Action: place Object: pear in the sink From: the counter -1
+Action: turn Direction: left Preposition: return to the small black table 57
+Action: place Object: pear slice back on the small table From: the sink -1
+Action: go forward Direction: left Preposition: to Landmark: large white table -1
+Action: pick up Object: knife From: table -1
+Action: turn Direction: right Preposition: to Landmark: small black table 59
+Action: use Object: knife From: table Preposition: to -1
+Action: turn Direction: right Preposition: to Landmark: section of counter -1
+Action: directly in front of Object: salt shaker -1
+Action: turn Direction: left Preposition: to Landmark: small black table 59
+Action: pick up Object: slice of pear 58
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: place Object: pear In: sink -1
+Action: turn Direction: left Preposition: to Landmark: small black table 59
+Action: place Object: pear slice On: small black table -1
+Action: walk Direction: behind you Preposition: to Landmark: kitchen counter 60
+Action: grab Object: middle sponge From: counter 61
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 62
+Action: take Object: sponge From: sink 63
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 64
+Action: put Object: sponge Into: bottom drawer 65
+Action: walk Direction: behind Preposition: to Landmark: kitchen counter 60
+Action: grab Object: middle sponge From: counter 61
+Action: walk Direction: left Preposition: to Landmark: kitchen sink 62
+Action: take Object: sponge From: sink 63
+Action: walk Direction: left Preposition: to Landmark: kitchen counter 64
+Action: put Object: sponge Into: bottom drawer 65
+Action: veer Direction: left Preposition: to Landmark: stove 66
+Action: pick up Object: leftmost kettle From: stove 67
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: rinse off Object: kettle From: sink -1
+Action: take a step Direction: right 68
+Action: near Preposition: corner Landmark: counter 69
+Action: veer Direction: left Preposition: to Landmark: stove 66
+Action: pick up Object: leftmost kettle From: stove 67
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: rinse Object: kettle From: sink 70
+Action: take Direction: right Preposition: step 68
+Action: near Preposition: corner Landmark: counter 69
+Action: veer Direction: left Preposition: None Landmark: stove 66
+Action: pick up Object: leftmost kettle Location: stove 67
+Action: turn Direction: right Preposition: None Landmark: sink 50
+Action: rinse Object: kettle Location: sink 70
+Action: take Direction: right Preposition: None Landmark: None -1
+Action: place Object: kettle Location: near the corner of the counter -1
+Action: turn Direction: around Preposition: to Landmark: stove 28
+Action: take Object: pan nearest to you Location: stove 71
+Action: turn Direction: to your right Preposition: to Landmark: sink 72
+Action: fill Object: pan Location: sink 73
+Action: turn Direction: around Preposition: to Landmark: table 74
+Action: place Object: pan Location: center of the table 75
+Action: turn Direction: around Preposition: to Landmark: stove 28
+Action: take Object: pan nearest to you From: the stove 71
+Action: turn Direction: to your right Preposition: to Landmark: sink 72
+Action: fill Object: pan in the sink With: water -1
+Action: turn Direction: around Preposition: to Landmark: table 74
+Action: place Object: pan on the center of the table 75
+Action: turn Direction: around Preposition: to Landmark: stove 28
+Action: take Object: pan Location: stove -1
+Action: turn Direction: right Preposition: to Landmark: sink 49
+Action: fill Object: pan Location: sink 73
+Action: turn Direction: around Preposition: to Landmark: table 74
+Action: place Object: pan Location: center of the table 75
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 76
+Action: pick up Object: pink soap From: the counter 77
+Action: move Direction: right Preposition: face Landmark: sink to the right 78
+Action: turn Off: the water Object: soap -1
+Action: look Direction: slightly lower Landmark: cabinet below the sink 79
+Action: close Object: cabinet door 80
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks 76
+Action: pick up Object: pink soap From: the counter 77
+Action: move Direction: right Preposition: face Landmark: sink to the right 78
+Action: turn off Off: the water -1
+Action: look Direction: slightly lower To: the cabinet below the sink 79
+Action: close Door: cabinet door 80
+Action: look down Object: gray bin From: next to the toilet -1
+Action: pick up Object: bar of soap From: inside the gray bin 81
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 82
+Action: rinse For: a few seconds Object: bar of soap Back To: pick it back up 83
+Action: turn Direction: around Preposition: to Landmark: left sink on the vanity counter -1
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 84
+Action: look down Direction: down Preposition: at Landmark: gray bin -1
+Action: pick up Object: bar of soap From: inside the gray bin 81
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity 82
+Action: rinse For: a few seconds Object: bar of soap Back: pick it back up 83
+Action: turn Direction: around Preposition: to Landmark: left sink 85
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle 84
+Action: turn Direction: around Preposition: to Landmark: left 85
+Action: pick up Object: bar of soap From: counter -1
+Action: move Direction: closer Preposition: to -1
+Action: rinse Object: soap From: basin -1
+Action: right Direction: drawer Preposition: on -1
+Action: Place Object: soap From: INSIDE -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 86
+Action: pick up Object: spatula Location: counter 87
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 62
+Action: wash Object: spatula Location: sink Action2: pick up 88
+Action: walk Direction: left Preposition: over Landmark: counter 89
+Action: put down Object: spatula Location: counter Preposition: to the right -1
+Action: walk Direction: forward and right Preposition: just left of Landmark: kitchen counter -1
+Action: pick up Object: spatula From: the counter 90
+Action: turn left Direction: left Preposition: walk to Landmark: kitchen sink 62
+Action: wash Object: spatula Location: under water in the sink -1
+Action: walk Direction: over to Preposition: just left of Landmark: counter 91
+Action: put down Object: spatula Location: just to the right of the sink 92
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 86
+Action: pick up Object: spatula From: the counter 90
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 62
+Action: wash Object: spatula From: the sink -1
+Action: walk Direction: over Preposition: left Landmark: counter 89
+Action: put down Object: spatula From: the hand -1
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter 86
+Action: pick up Object: spatula Location: counter 87
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 62
+Action: wash Object: spatula Preposition: under water Location: sink Action2: pick up -1
+Action: walk Direction: over Preposition: left Landmark: counter 89
+Action: put down Object: spatula Preposition: just to the right Location: counter 92
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter Location: just left of the fridge -1
+Action: pick up Object: spatula Location: counter 87
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink 62
+Action: wash Object: spatula Location: sink Action2: pick up 88
+Action: walk Direction: over Preposition: just left Landmark: counter 91
+Action: put down Object: spatula Location: counter Preposition: just to the right 92
+Action: turn Direction: right Preposition: twice Landmark: counter top 93
+Action: pick up Object: spoon From: counter top 94
+Action: turn Direction: left Preposition: twice Landmark: sink 95
+Action: put Object: spoon To: sink 96
+Action: turn Direction: right 17
+Action: open Object: drawer 97
+Action: turn Direction: right Location: counter top -1
+Action: pick up Object: spoon Location: counter top 94
+Action: turn Direction: left Location: sink -1
+Action: put Object: spoon Location: sink 96
+Action: turn Direction: right 17
+Action: open Object: drawer 97
+Action: turn Direction: right Preposition: twice Landmark: counter top 93
+Action: pick up Object: spoon From: the counter top 94
+Action: turn Direction: left Preposition: twice Landmark: sink 95
+Action: put Object: spoon Into: the sink -1
+Action: turn Direction: right 17
+Action: open Object: drawer 97
+Action: turn Direction: to the right Preposition: twice Landmark: counter top 93
+Action: pick up Object: spoon From: the counter top 94
+Action: turn Direction: to the left Preposition: twice Landmark: sink 95
+Action: put Object: spoon To: the sink 96
+Action: turn Direction: to the right -1
+Action: open Object: the drawer Preposition: it -1
+Action: walk Direction: right Preposition: to Landmark: kitchen counter -1
+Action: grab Object: apple Location: counter -1
+Action: go Direction: left Preposition: to Landmark: fridge 98
+Action: take out Object: apple Location: fridge -1
+Action: walk Direction: behind Preposition: to Landmark: kitchen sink 60
+Action: put Object: apple Location: microwave above sink -1
+Action: turn Direction: right Preposition: walk to Landmark: counter by the coffee maker and toaster -1
+Action: pick up Object: knife From: the counter 99
+Action: turn Direction: left Preposition: walk to Landmark: microwave 100
+Action: open Object: microwave From: the microwave 101
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 27
+Action: open Object: refrigerator From: the refrigerator 102
+Action: walk Direction: back Preposition: to Landmark: microwave 103
+Action: take Object: piece of apple From: out of the microwave -1
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator 27
+Action: set Object: apple From: inside the refrigerator -1
+Action: turn Direction: around Preposition: walk across the room -1
+Action: put Object: apple From: out of the refrigerator -1
+Action: turn Direction: right Preposition: walk Landmark: counter -1
+Action: pick up Object: knife From: counter 99
+Action: turn Direction: left Preposition: walk Landmark: microwave 100
+Action: open Object: microwave From: microwave 101
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 27
+Action: open Object: refrigerator From: refrigerator 102
+Action: walk Direction: back Preposition: to Landmark: microwave 103
+Action: take Object: piece From: microwave -1
+Action: turn Direction: around Preposition: walk Landmark: refrigerator 27
+Action: set Object: apple From: refrigerator -1
+Action: turn Direction: left Preposition: walk Landmark: wall -1
+Action: put Object: apple From: hand -1
+Action: turn Direction: left Preposition: move Landmark: white table 104
+Action: pick up Object: sharp knife Location: white table 105
+Action: use Object: knife Preposition: slice Location: head of lettuce 106
+Action: which Preposition: is Location: left -1
+Action: place Object: knife Preposition: on Location: top shelf of the fridge 107
+Action: turn Direction: right Preposition: move back Location: table 108
+Action: pick up Object: piece of lettuce Location: table 109
+Action: turn Direction: left Preposition: carry Location: slice of lettuce 110
+Action: remove Object: lettuce Preposition: after a couple seconds 111
+Action: turn Direction: right Preposition: carry Location: lettuce -1
+Action: place Object: cold lettuce slice Preposition: on Location: table in front of the rest of the head of lettuce 112
+Action: turn Direction: left Preposition: move Landmark: white table 104
+Action: pick up Object: sharp knife From: the white table 105
+Action: use Object: knife To: slice the head of lettuce 106
+Action: left Preposition: to 113
+Action: place Object: knife On: the top shelf of the fridge 107
+Action: turn Direction: right Preposition: move back 108
+Action: pick up Object: a piece of lettuce From: the table 109
+Action: turn Direction: left 31
+Action: remove Object: the lettuce After: a couple seconds 111
+Action: turn Direction: right 17
+Action: place Object: the cold lettuce slice On: the table in front of the rest of the head of lettuce 112
+Action: turn Direction: left Preposition: move Landmark: white table 104
+Action: pick up Object: sharp knife From: white table 105
+Action: use Object: knife Preposition: slice Landmark: head of lettuce 106
+Action: left Preposition: to 113
+Action: place Object: knife On: top shelf of the frige -1
+Action: turn Direction: right Preposition: move back Landmark: table 108
+Action: pick up Object: piece of lettuce From: table 109
+Action: turn Direction: left Preposition: carry Object: slice of lettuce To: fridge 110
+Action: remove Object: lettuce After: a couple of seconds 111
+Action: turn Direction: right Preposition: carry Object: lettuce To: table -1
+Action: place Object: cold lettuce slice On: table In Front Of: rest of the head of lettuce 112
+Action: walk Direction: around Preposition: to Landmark: coffee maker 114
+Action: pick up Object: coffee mug -1
+Action: turn Direction: around Preposition: to Landmark: fridge -1
+Action: take out Object: mug Location: fridge -1
+Action: go back to Landmark: coffee maker -1
+Action: put Object: mug Location: coffee maker -1
+Action: turn Direction: right Preposition: and Landmark: stove 115
+Action: pick up Object: black pan Location: fridge 116
+Action: walk Direction: back Location: fridge -1
+Action: remove Object: pan Location: stove -1
+Action: walk Direction: back Location: stove -1
+Action: place Object: pan Location: front left burner 117
+Action: turn Direction: right Preposition: and Location: stove 115
+Action: pick up Object: black pan Location: fridge 116
+Action: walk Location: fridge -1
+Action: remove Object: pan -1
+Action: walk Location: stove -1
+Action: place Object: pan Location: front left burner 117
+Action: turn Direction: right Preposition: and Landmark: stove 115
+Action: pick up Object: black pan From: fridge 116
+Action: walk To: fridge -1
+Action: remove -1
+Action: walk To: stove -1
+Action: place Object: pan On: front left burner 117
+Action: turn Direction: around Preposition: move Landmark: kitchen sink -1
+Action: pick up Object: sharp knife From: the counter in front of the sink 118
+Action: turn Direction: around Preposition: carry Landmark: round table -1
+Action: use Object: knife Preposition: slice Landmark: potato on the table 119
+Action: head Direction: right Preposition: to the fridge 120
+Action: place Object: knife Preposition: on the top shelf Landmark: next to the tomato 121
+Action: turn Direction: right Preposition: return Landmark: the sliced potato on the table -1
+Action: pick up Object: slice of potato From: the table 122
+Action: turn Direction: left Preposition: to carry Landmark: the fridge -1
+Action: open Object: the door Preposition: to remove Landmark: it after a few seconds -1
+Action: carry Object: the potato slice Preposition: to the kitchen sink 123
+Action: place Object: the slice of potato Preposition: in the sink 124
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 125
+Action: pick up Object: sharp knife From: counter in front of the sink 118
+Action: turn Direction: around Preposition: to Landmark: round table 126
+Action: use Object: knife To: slice the potato on the table 119
+Action: head Direction: right To: fridge 120
+Action: place Object: knife To: fridge on the top shelf next to the tomato 121
+Action: turn Direction: right 17
+Action: pick up Object: slice of potato From: table 122
+Action: turn Direction: left To: fridge -1
+Action: open Object: door -1
+Action: carry Object: potato slice To: kitchen sink 123
+Action: place Object: slice of potato Into: sink -1
+Action: turn Direction: around Preposition: to Landmark: kitchen sink 125
+Action: pick up Object: sharp knife From: counter in front of the sink 118
+Action: turn Direction: around Preposition: to Landmark: round table Object: knife 126
+Action: use Object: knife To: slice the potato on the table 119
+Action: head Direction: right Preposition: to Landmark: fridge 120
+Action: place Object: knife In: fridge On: top shelf Next to: tomato 121
+Action: turn Direction: right Preposition: to Landmark: table Object: sliced potato -1
+Action: pick up Object: slice of potato From: table 122
+Action: turn Direction: left Preposition: to Landmark: fridge Object: potato slice -1
+Action: open Object: door To: remove -1
+Action: carry Object: potato slice To: kitchen sink 123
+Action: place Object: slice of potato In: sink 124
+Action: move Direction: right Preposition: side Landmark: sink 127
+Action: pick up Object: tomato 128
+Action: turn Direction: right Preposition: to Landmark: fridge 129
+Action: drop Object: tomato To: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 114
+Action: drop Object: tomato To: front of coffee maker -1
+Action: move Direction: right Preposition: side Landmark: sink 127
+Action: pick up Object: tomato 128
+Action: turn Direction: right Preposition: to Landmark: fridge 129
+Action: drop Object: tomato Into: fridge -1
+Action: turn Direction: around Preposition: to Landmark: coffee maker 114
+Action: move Direction: left -1
+Action: then turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: to the right Preposition: of Landmark: the loaf of bread -1
+Action: adjacent Preposition: to Landmark: the fridge 130
+Action: slice Object: the tomato From: the counter -1
+Action: go Direction: left Preposition: to 131
+Action: on Preposition: bottom Landmark: shelf -1
+Action: adjacent Preposition: to Landmark: the fridge 130
+Action: pick up Object: a slice of tomato From: the counter 132
+Action: go Direction: left Preposition: to 131
+Action: chill Object: the tomato slice Into: the fridge -1
+Action: then turn Direction: right Preposition: to face Landmark: the trash bin -1
+Action: put Object: the tomato slice Into: the trash bin 133
+Action: turn Direction: left Landmark: kitchen island -1
+Action: move Direction: right Landmark: loaf of bread -1
+Action: move Direction: adjacent Landmark: fridge 134
+Action: slice Object: tomato Location: counter -1
+Action: go Direction: left Landmark: fridge 98
+Action: put Object: knife Location: bottom shelf 135
+Action: move Direction: adjacent Landmark: fridge 134
+Action: pick up Object: slice of tomato Location: counter 132
+Action: go Direction: left Landmark: fridge 98
+Action: chill Object: tomato slice Location: fridge 136
+Action: turn Direction: right Landmark: trash bin 137
+Action: put Object: tomato slice Location: trash bin 133
+Action: turn Direction: left Preposition: face Landmark: kitchen island -1
+Action: pick up Object: loaf of bread From: right -1
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 138
+Action: slice On: counter Object: tomato -1
+Action: go To: fridge Preposition: to Location: left 139
+Action: put On: bottom shelf Object: knife 135
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent 138
+Action: pick up Object: slice From: counter -1
+Action: go To: fridge Preposition: to Location: left 139
+Action: chill In: fridge Object: tomato slice 136
+Action: turn Direction: right Preposition: face Landmark: trash bin 137
+Action: put Into: trash bin Object: tomato slice 133
+Action: walk Direction: face Preposition: sink 140
+Action: pick up Object: white egg From: ledge in front of sink 141
+Action: walk Direction: face Preposition: microwave 142
+Action: remove Object: egg From: microwave 143
+Action: walk Direction: face Preposition: sink 140
+Action: place Object: egg Into: sink basin 144
+Action: walk Direction: face Preposition: sink Location: None 145
+Action: pick up Object: white egg Location: ledge in front of sink 141
+Action: walk Direction: face Preposition: microwave Location: None -1
+Action: remove Object: egg Location: microwave 143
+Action: walk Direction: face Preposition: sink Location: None 145
+Action: place Object: egg Location: sink basin -1
+Action: walk Direction: to Preposition: face Landmark: sink 140
+Action: pick up Object: white egg From: ledge in front of sink 141
+Action: walk Direction: to Preposition: face Landmark: microwave 142
+Action: remove Object: egg From: microwave 143
+Action: walk Direction: to Preposition: face Landmark: sink 140
+Action: place Object: egg Into: sink basin 144
+Action: turn Direction: left Preposition: up Landmark: fridge 146
+Action: open Object: white mug From: the fridge 147
+Action: turn Direction: right Preposition: over Landmark: microwave -1
+Action: heat Object: mug From: the microwave 148
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 149
+Action: put Object: mug On: the top shelf 150
+Action: turn Direction: left Preposition: up Landmark: fridge 146
+Action: open Object: white mug From: fridge 147
+Action: turn Direction: right Preposition: to Landmark: microwave -1
+Action: heat Object: mug From: microwave 148
+Action: turn Direction: left Preposition: past Landmark: wooden shelf 149
+Action: put Object: mug On: top shelf 150
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 151
+Action: pick up Object: potato From: kitchen counter 152
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 153
+Action: place Object: potato From: kitchen sink Into: microwave -1
+Action: turn Direction: around Preposition: over Landmark: fridge 154
+Action: place Object: potato From: kitchen sink Into: fridge Preposition: right -1
+Action: turn Direction: right Preposition: over Landmark: kitchen counter 151
+Action: pick up Object: potato From: the kitchen counter 152
+Action: turn Direction: around Preposition: over Landmark: kitchen sink 153
+Action: place Object: potato Into: the microwave above the kitchen sink -1
+Action: turn Direction: around Preposition: over Landmark: fridge 154
+Action: place Object: potato Into: the fridge to the right of the lettuce -1
+Action: move Direction: left Preposition: to Landmark: table -1
+Action: pick up Object: potato From: the table -1
+Action: turn Direction: around Preposition: head Landmark: microwave -1
+Action: cook Object: potato In: the microwave -1
+Action: turn Direction: around Preposition: head Landmark: sink -1
+Action: place Object: potato In: the sink -1
+Action: move Direction: forward Landmark: sink -1
+Action: pick up Object: knife Location: sink 155
+Action: turn Direction: around Landmark: table 74
+Action: slice Object: potato Location: table -1
+Action: turn Direction: around Landmark: shelf under the sink -1
+Action: place Object: knife Location: shelf -1
+Action: turn Direction: around Landmark: table 74
+Action: pick up Object: potato slice Location: table -1
+Action: turn Direction: left Landmark: oven -1
+Action: cook Object: potato Location: oven -1
+Action: move Direction: right Landmark: fridge -1
+Action: place Object: potato Location: fridge -1
+Action: turn Direction: left Preposition: walk Landmark: the small white table 156
+Action: pick up Object: tomato From: the table 157
+Action: turn Direction: left Preposition: walk Landmark: the microwave 100
+Action: close Object: microwave door 158
+Action: turn Direction: right Preposition: walk To: the end of the kitchen counter 159
+Action: put Object: heated tomato On: the counter in front and to the right of the plastic container 160
+Action: turn Direction: left Preposition: walk Landmark: small white table 156
+Action: pick up Object: tomato From: table 157
+Action: turn Direction: left Preposition: walk Landmark: microwave 100
+Action: close Object: door 80
+Action: turn Direction: right Preposition: walk Landmark: end of the kitchen counter 159
+Action: put Object: heated tomato Into: counter Location: in front and to the right of the plastic container 160
+Action: turn Direction: left Preposition: walk up to Landmark: small white table 156
+Action: pick up Object: tomato From: the table 157
+Action: turn Direction: left Preposition: walk over to Landmark: microwave -1
+Action: close Object: microwave door 158
+Action: turn Direction: right Preposition: walk across the room to Landmark: end of the kitchen counter -1
+Action: put Object: heated tomato Into: the counter in front and to the right of the plastic container 160
+Action: turn Direction: right Preposition: face Landmark: counter next to the sink in front of you -1
+Action: take Object: candle From: sink in front of you -1
+Action: turn Direction: left Preposition: face Landmark: cabinets to your right -1
+Action: place Object: candle To: cabinet under the sink in front of you Preposition: close -1
+Action: turn Direction: left Preposition: face Landmark: toilet to your right -1
+Action: take Object: candle From: top of the toilet in front of you -1
+Action: turn Direction: right Preposition: face Landmark: cabinet under the sink to your left -1
+Action: put Object: candle To: cabinet in front of you Preposition: close -1
+Action: turn Direction: right Preposition: face Landmark: counter -1
+Action: take Object: candle From: sink -1
+Action: turn Direction: left Preposition: face Landmark: cabinets -1
+Action: place Object: candle To: cabinet -1
+Action: turn Direction: left 31
+Action: take Object: candle From: toilet -1
+Action: turn Direction: right 17
+Action: put Object: candle To: cabinet -1
+Action: turn Direction: right Preposition: over Landmark: bath tub 161
+Action: grab Object: sponge From: the bath tub 162
+Action: turn Direction: around Preposition: over Landmark: towel cart 163
+Action: place Object: sponge On: top of the towel cart -1
+Action: turn Direction: right Preposition: over Landmark: the toilet 164
+Action: grab Object: sponge From: the top of the toilet 165
+Action: turn Direction: around Preposition: over Landmark: the towel cart 163
+Action: place Object: sponge On: top of the towel rack -1
+Action: turn Direction: right Preposition: over Location: bath tub 161
+Action: grab Object: sponge Location: bath tub 162
+Action: turn Direction: around Preposition: over Location: towel cart 163
+Action: place Object: sponge Location: towel cart -1
+Action: turn Direction: right Preposition: over Location: toilet 164
+Action: grab Object: sponge Location: top of the toilet 165
+Action: turn Direction: around Preposition: over Location: towel cart 163
+Action: place Object: sponge Preposition: next to Location: towel rack -1
+Action: face Preposition: the island counter 166
+Action: take Object: the lettuce closest to the hand From: the island counter 167
+Action: walk towards Object: the refrigerator 168
+Action: close Object: the refrigerator 169
+Action: go To: the island 170
+Action: take Object: the lettuce on the island counter 171
+Action: go To: the refrigerator 172
+Action: close Object: the refrigerator 169
+Action: go To: the counter to the right of the stove 173
+Action: pick up Object: the knife to the right of the pot on the counter 174
+Action: go To: the refrigerator 172
+Action: close Object: the refrigerator 169
+Action: face Location: island counter 166
+Action: take Object: lettuce closest to the hand on the island counter 167
+Action: walk Location: towards the refrigerator 168
+Action: close Object: refrigerator 169
+Action: go Location: island -1
+Action: take Object: lettuce on the island counter 171
+Action: go Location: refrigerator 175
+Action: close Object: refrigerator 169
+Action: go Location: counter to the right of the stove 173
+Action: pick up Object: knife to the right of the pot on the counter 174
+Action: go Location: refrigerator 175
+Action: close Object: refrigerator 169
+Action: face Preposition: the Landmark: island counter 166
+Action: take Object: the lettuce closest to the hand on the island counter 167
+Action: walk Preposition: towards Landmark: the refrigerator 168
+Action: close Object: the refrigerator 169
+Action: go Preposition: to Landmark: the island 170
+Action: take Object: the lettuce Preposition: on Location: the island counter 171
+Action: go Preposition: to Landmark: the refrigerator 172
+Action: close Object: the refrigerator 169
+Action: go Preposition: to Landmark: the counter to the right of the stove 173
+Action: pick up Object: the knife Preposition: to the right of Location: the pot on the counter 174
+Action: go Preposition: to Landmark: the refrigerator 172
+Action: close Object: the refrigerator 169
+Action: face Direction: None Preposition: counter Landmark: island counter -1
+Action: take Object: lettuce closest to the hand Location: island counter 167
+Action: walk Direction: None Preposition: towards Landmark: refrigerator -1
+Action: close Object: refrigerator Location: None 176
+Action: go Object: island Location: None -1
+Action: take Object: lettuce on the island counter Location: island counter 171
+Action: go Object: refrigerator Location: None 177
+Action: close Object: refrigerator Location: None 176
+Action: go Object: counter to the right of the stove Location: None 173
+Action: pick up Object: knife to the right of the pot on the counter Location: counter 174
+Action: go Object: refrigerator Location: None 177
+Action: close Object: refrigerator Location: None 176
+Action: face Direction: island counter 166
+Action: take Object: lettuce closest to the hand on the island counter 167
+Action: walk Preposition: towards Landmark: refrigerator 168
+Action: close Object: refrigerator 169
+Action: go Preposition: to Landmark: island 170
+Action: take Object: lettuce on the island counter 171
+Action: go Preposition: to Landmark: refrigerator 172
+Action: close Object: refrigerator 169
+Action: go Preposition: to Landmark: counter to the right of the stove 173
+Action: pick up Object: knife to the right of the pot on the counter 174
+Action: go Preposition: to Landmark: refrigerator 172
+Action: close Object: refrigerator 169
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 178
+Action: pick up Object: top pencil From: table 179
+Action: walk To: room Preposition: face Landmark: table 180
+Action: place Object: pencil On: table 181
+Action: turn Direction: right Preposition: walk across Landmark: cabinet -1
+Action: pick up Object: pencil laying From: cabinet -1
+Action: walk across To: room Preposition: face Landmark: table -1
+Action: place Object: pencil On: table 181
+Action: take Direction: two steps Preposition: turn left Location: cabinet -1
+Action: pick up Object: top pencil Location: table 179
+Action: walk Location: room Preposition: face Landmark: table 180
+Action: place Object: pencil Location: table 182
+Action: turn Direction: right Preposition: walk Landmark: cabinet -1
+Action: pick up Object: pencil Location: cabinet 183
+Action: walk Location: room Preposition: face Landmark: table 180
+Action: place Object: pencil Location: table 182
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet 178
+Action: pick up Object: top pencil From: table 179
+Action: walk Preposition: across the room Landmark: table 184
+Action: place Object: pencil On: table 181
+Action: turn Direction: right Preposition: walk forward Landmark: cabinet 178
+Action: pick up Object: pencil From: cabinet 183
+Action: walk Preposition: across the room Landmark: table 184
+Action: place Object: pencil On: table 181
+Action: go Direction: to the counter Location: counter 185
+Action: pick up Object: knife Location: corner of the counter on the left 186
+Action: go Direction: across the room Location: room 187
+Action: cut Object: potato Location: counter 188
+Action: turn Direction: right Location: sink 189
+Action: put Object: knife Location: sink, to the right of the apple 190
+Action: turn Direction: left Location: counter -1
+Action: pick up Object: slice of potato Location: None 191
+Action: turn Direction: right Location: sink 189
+Action: put Object: slice of potato Location: sink, in front of the apple 192
+Action: pick up Object: knife Location: sink 155
+Action: turn Direction: around Location: fridge 193
+Action: cut Object: potato Location: second shelf in the fridge 194
+Action: turn Direction: around Location: sink 195
+Action: put Object: knife Location: sink, to the right of the apple 190
+Action: turn Direction: around Location: fridge 193
+Action: pick up Object: slice of potato Location: fridge 196
+Action: turn Direction: around Location: sink 195
+Action: put Object: slice of potato Location: sink, in front of the apple 192
+Action: go Direction: to the counter Location: counter 185
+Action: pick up Object: knife Location: corner of the counter on the left 186
+Action: go Distance: across the room Location: room 187
+Action: cut Object: potato Location: counter 188
+Action: turn Direction: right Location: room 197
+Action: put Object: knife Location: sink Direction: right Landmark: apple 198
+Action: turn Direction: left Location: room -1
+Action: pick up Object: slice of potato Location: None 191
+Action: turn Direction: right Location: room 197
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 192
+Action: pick up Object: knife Location: sink 155
+Action: turn Direction: around Location: None 199
+Action: cut Object: potato Location: second shelf in the fridge 194
+Action: turn Direction: around Location: None 199
+Action: put Object: knife Location: sink Direction: right Landmark: apple 198
+Action: turn Direction: around Location: None 199
+Action: pick up Object: slice of potato Location: fridge 196
+Action: turn Direction: around Location: None 199
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple 192
+Action: go Direction: to the counter Preposition: towards Location: counter -1
+Action: pick up Object: knife Location: corner of the counter on the left 186
+Action: go Direction: across the room Preposition: towards Location: counter -1
+Action: cut Object: potato Location: counter 188
+Action: turn Direction: right Preposition: None Location: sink 50
+Action: put Object: knife Location: sink, to the right of the apple 190
+Action: turn Direction: left Preposition: None Location: counter -1
+Action: pick up Object: slice of potato Location: None 191
+Action: turn Direction: right Preposition: None Location: sink 50
+Action: put Object: slice of potato Location: sink, in front of the apple 192
+Action: pick up Object: knife Location: sink 155
+Action: turn Direction: None Preposition: around Location: fridge 200
+Action: cut Object: potato Location: second shelf in the fridge 194
+Action: turn Direction: None Preposition: around Location: sink 199
+Action: put Object: knife Location: sink, to the right of the apple 190
+Action: turn Direction: None Preposition: around Location: fridge 200
+Action: pick up Object: slice of potato Location: fridge 196
+Action: turn Direction: None Preposition: around Location: sink 199
+Action: put Object: slice of potato Location: sink, in front of the apple 192
+Action: move Direction: closest to Preposition: window Landmark: arm chair 201
+Action: pick up Object: remote From: arm chair 202
+Action: move Direction: center of the room Preposition: coffee table 203
+Action: place Object: remote On: coffee table 204
+Action: move Direction: ahead of you Preposition: TV stand 205
+Action: pick up Object: remote From: stand 206
+Action: move Direction: center of the room Preposition: coffee table 203
+Action: place Object: remote On: coffee table 204
+Action: move Direction: to the arm chair Preposition: closest to the window 201
+Action: pick up Object: remote From: arm chair 202
+Action: move Direction: to the coffee table Preposition: in the center of the room 203
+Action: place Object: remote On: coffee table 204
+Action: move Direction: to the TV stand Preposition: ahead of you 205
+Action: pick up Object: remote From: stand 206
+Action: move Direction: to the coffee table Preposition: in the center of the room 203
+Action: place Object: remote On: coffee table 204
+Action: move Direction: to the arm chair Preposition: closest to the window 201
+Action: pick up Object: remote From: the arm chair 202
+Action: move Direction: to the coffee table Preposition: in the center of the room 203
+Action: place Object: remote On: the coffee table 204
+Action: move Direction: to the TV stand Preposition: ahead of you 205
+Action: pick up Object: remote From: the stand 206
+Action: move Direction: to the coffee table Preposition: in the center of the room 203
+Action: place Object: remote On: the coffee table 204
+Action: move Direction: to the arm chair closest to the window Preposition: closest to the window 201
+Action: pick up Object: remote From: the arm chair 202
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 203
+Action: place Object: remote On: the coffee table 204
+Action: move Direction: to the TV stand ahead of you Preposition: ahead of you 205
+Action: pick up Object: remote From: the stand 206
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room 203
+Action: place Object: remote On: the coffee table 204
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 207
+Action: pick up Object: remote From: the armchair 208
+Action: turn Direction: back Preposition: to face Landmark: foot rest 209
+Action: place Object: remote On: the purple foot rest 210
+Action: turn Direction: again Preposition: towards Landmark: coffee table 211
+Action: pick up Object: remote From: the coffee table 212
+Action: walk Direction: around Preposition: to Landmark: purple foot rest 213
+Action: place Object: remote Next to: the first remote On: the purple foot rest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 207
+Action: pick up Object: remote From: armchair 208
+Action: turn Direction: back Preposition: face Landmark: footrest -1
+Action: place Object: remote On: purple footrest -1
+Action: turn Direction: again Preposition: towards Landmark: coffee table 211
+Action: pick up Object: remote From: coffee table 212
+Action: walk Direction: around Preposition: to Landmark: purple footrest -1
+Action: place Object: remote Next to: first remote On: purple footrest -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 207
+Action: pick up Object: remote Location: armchair 208
+Action: turn Direction: back Preposition: face Landmark: foot rest 209
+Action: place Object: remote Location: purple foot rest 210
+Action: turn Direction: again Preposition: towards Landmark: coffee table 211
+Action: pick up Object: remote Location: coffee table 212
+Action: walk Preposition: around Object: table Location: purple foot rest 213
+Action: place Object: remote Location: next to -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 207
+Action: pick up Object: remote Location: armchair 208
+Action: turn Direction: back Preposition: face Landmark: foot rest 209
+Action: place Object: remote Location: purple foot rest 210
+Action: turn Direction: again Preposition: towards Landmark: coffee table 211
+Action: pick up Object: remote Location: coffee table 212
+Action: walk Preposition: around Landmark: purple foot rest 213
+Action: place Object: remote Location: next to Preposition: on Landmark: first remote -1
+Action: turn Direction: left Preposition: towards Landmark: purple armchair 207
+Action: pick up Object: remote Location: armchair 208
+Action: turn Preposition: back to Landmark: foot rest 209
+Action: place Object: remote Location: purple foot rest 210
+Action: turn Preposition: again towards Landmark: coffee table 211
+Action: pick up Object: remote Location: coffee table 212
+Action: walk Preposition: around the table to Landmark: purple foot rest 213
+Action: place Object: remote Location: first remote on the foot rest -1
+Action: turn Direction: left Preposition: face Landmark: sink 214
+Action: open Object: bottom right cabinet From: the wall 215
+Action: hold Object: soap From: the bottom right cabinet -1
+Action: place Object: soap From: hand 216
+Action: step Direction: left Preposition: of Landmark: bath tub 217
+Action: pick up Object: bar of soap From: the edge 218
+Action: hold Object: soap From: hand -1
+Action: place Object: soap From: hand 216
+Action: turn Direction: left Preposition: face Landmark: sink 214
+Action: open Object: bottom right cabinet From: the wall 215
+Action: hold Object: soap 219
+Action: place Object: soap From: hand 216
+Action: step Direction: left Preposition: to Landmark: bath tub 217
+Action: pick up Object: bar of soap From: the edge 218
+Action: hold Object: soap 219
+Action: turn Direction: right Preposition: to Landmark: other soap -1
+Action: look up 220
+Action: take Object: purple spray bottle From: cabinet above the toilet 221
+Action: go backwards Direction: while facing towards the blue bin 222
+Action: put Object: spray bottle To: left side of the toilet tank 223
+Action: look up 220
+Action: take Object: purple spray bottle From: cabinet above the toilet that is first from the right -1
+Action: turn Preposition: face Landmark: blue bin -1
+Action: put Object: spray bottle To: center of the toilet tank 224
+Action: look up 220
+Action: take Object: purple spray bottle Location: cabinet above the toilet 221
+Action: go Direction: backwards Preposition: while facing towards Landmark: blue bin 222
+Action: put Object: spray bottle Location: left side of the toilet tank 223
+Action: look Preposition: up 220
+Action: take Object: purple spray bottle Location: cabinet above first from the right -1
+Action: put Object: purple spray bottle Location: blue bin -1
+Action: put Object: spray bottle Location: center of the toilet tank 224
+Action: move Direction: over Preposition: to Landmark: the toilet 225
+Action: pick up Object: empty toilet paper roll From: the floor 226
+Action: bring Object: empty toilet paper roll To: the sink 227
+Action: put Object: empty toilet paper roll On: the counter between the sinks 228
+Action: move Direction: over Preposition: to Landmark: the toilet 225
+Action: pick up Object: toilet paper From: the toilet tank lid 229
+Action: bring Object: toilet paper To: the counter -1
+Action: put Object: toilet paper On: the counter next to soap 230
+Action: move Direction: over Preposition: to Landmark: toilet 225
+Action: pick up Object: empty toilet paper roll Location: floor 226
+Action: bring Object: empty toilet paper roll Preposition: to Landmark: sink 227
+Action: put Object: empty toilet paper roll Preposition: on Landmark: counter between the sinks 228
+Action: move Direction: over Preposition: to Landmark: toilet 225
+Action: pick up Object: toilet paper Location: toilet tank lid 229
+Action: bring Object: toilet paper Preposition: over Landmark: counter -1
+Action: put Object: toilet paper Preposition: on Landmark: counter next to soap 230
+Action: turn Direction: right Preposition: to Landmark: cabinet above the toilet -1
+Action: take Object: roll of toilet paper Location: cabinet above the sink 231
+Action: turn Direction: None Preposition: around Landmark: garbage can -1
+Action: put Object: roll of toilet paper Location: back of the toilet 232
+Action: turn Direction: right Preposition: to Landmark: counter -1
+Action: pick up Object: empty toilet paper roll Location: counter 233
+Action: turn Direction: None Preposition: around Landmark: counter -1
+Action: put Object: empty toilet paper roll Location: back of the toilet 232
+Action: turn Direction: right 17
+Action: take Object: roll of toilet paper From: cabinet above the sink 231
+Action: turn Direction: around 19
+Action: put On: back of the toilet -1
+Action: turn Direction: right 17
+Action: pick up Object: empty toilet paper roll From: counter 233
+Action: turn Direction: around 19
+Action: turn Direction: left 31
+
+ 

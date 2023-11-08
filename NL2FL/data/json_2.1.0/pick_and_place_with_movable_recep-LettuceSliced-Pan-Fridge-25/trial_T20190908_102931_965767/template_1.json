@@ -1,0 +1,96 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "face",
+      "Landmark": "ground at the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "knife",
+      "From": "the ground"
+    }
+}, 
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "left"
+    }
+}, 
+{"sentence":
+{
+      "Action": "cut",
+      "Object": "cabbage",
+      "Into": "slices",
+      "Location": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "To": "the oven"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "knife",
+      "Into": "pan",
+      "Location": "the top right stove"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "To": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "slice of cabbage",
+      "From": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "To": "the oven"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "cabbage",
+      "Into": "pan",
+      "Location": "the top right stove"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "pan",
+      "From": "the top right stove"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "To": "the fridge"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "pan",
+      "Into": "fridge"
+    }
+} 
+]}

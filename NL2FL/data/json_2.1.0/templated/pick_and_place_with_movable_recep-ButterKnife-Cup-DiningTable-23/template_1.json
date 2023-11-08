@@ -1,0 +1,65 @@
+{"sentences":[
+{"sentence":[
+{
+     "Action": "look",
+     "Direction": "down"
+    }, 
+{
+     "Action": "walk",
+     "Distance": "two steps",
+     "Direction": "left",
+     "Landmark": "table"
+    }
+]}, 
+{"sentence":
+{
+     "Action": "grab",
+     "Object": "knife in the very back",
+     "Preposition": "between the lettuce and egg"
+    }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "right"
+    }, 
+{
+     "Action": "walk",
+     "Distance": "three steps",
+     "Direction": "right",
+     "Landmark": "fridge"
+    }
+]}, 
+{"sentence":
+{
+     "Action": "open",
+     "Object": "fridge",
+     "Preposition": "on the wine glass in the back"
+    }
+}, 
+{"sentence":[
+{
+     "Action": "grab",
+     "Object": "wine glass with the knife in it"
+    }, 
+{
+     "Action": "close",
+     "Object": "fridge"
+    }
+]}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Distance": "four steps",
+     "Landmark": "table"
+    }
+}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "wine glass on the table on the left side of the apple",
+     "Preposition": "on the left side of the apple"
+    }
+} 
+]}

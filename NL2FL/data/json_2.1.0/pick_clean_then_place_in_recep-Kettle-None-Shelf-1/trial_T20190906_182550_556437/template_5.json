@@ -1,0 +1,48 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "and take a step",
+"Location": "counter near the tea pot"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "tea pot",
+"Location": "counter"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "and walk",
+"Location": "in front of the sink so you are facing it"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "tea pot",
+"Location": "sink"
+"Preposition": "and run the water and wash it"
+}
+}, 
+{"sentence":
+{
+"Action": "walk",
+"Direction": "back",
+"Preposition": "over to the counter where you were before",
+"Location": "in front of the brown shelves"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "tea pot",
+"Location": "right of the middle shelf"
+}
+} 
+]}

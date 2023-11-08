@@ -1,0 +1,67 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Location": "counter top",
+"Action": "turn",
+"Direction": "left",
+"Location": "counter top"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "spoon",
+"Location": "counter top"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Location": "sink",
+"Action": "turn",
+"Direction": "right",
+"Location": "front of sink"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "spoon",
+"Location": "sink",
+"Action": "turn on",
+"Object": "water",
+"Location": "sink",
+"Action": "fill",
+"Object": "spoon",
+"Location": "sink",
+"Action": "turn off",
+"Object": "water",
+"Location": "sink",
+"Action": "drain",
+"Object": "water",
+"Location": "sink",
+"Action": "pick up",
+"}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right"
+}
+}, 
+{"sentence":
+{
+"Action": "open",
+"Object": "drawer",
+"Location": "sink",
+"Action": "put",
+"Object": "spoon",
+"Location": "drawer",
+"Action": "close",
+"Object": "drawer"
+}
+} 
+]}

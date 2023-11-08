@@ -1,0 +1,42 @@
+{"sentences":[
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "around",
+         "Preposition": "face"
+      }, 
+{
+         "Action": "walk",
+         "To": "the toilet"
+      }, 
+]}
+]}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "spray bottle",
+         "From": "the back of the toilet"
+      }
+}, 
+{"sentence":[
+{
+         "Action": "turn",
+         "Direction": "right"
+      }, 
+{
+         "Action": "take",
+         "Number": "two"
+      }, 
+{
+         "Action": "turn",
+         "Direction": "left"
+      }
+]}, 
+{"sentence":
+{
+         "Action": "put",
+         "Object": "spray bottle",
+         "Into": "the trash can"
+      }
+} 
+]}

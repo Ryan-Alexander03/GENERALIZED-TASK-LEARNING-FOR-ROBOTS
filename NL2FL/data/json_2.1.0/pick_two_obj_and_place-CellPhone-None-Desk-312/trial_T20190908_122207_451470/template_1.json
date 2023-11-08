@@ -1,0 +1,52 @@
+{"sentences":[
+{"sentence":
+{
+          "Action": "go",
+          "Direction": "to the desk"
+        }
+}, 
+{"sentence":
+{
+          "Action": "pick up",
+          "Object": "phone"
+        }
+}, 
+{"sentence":
+{
+          "Action": "go",
+          "Direction": "to the right side of the desk"
+        }
+}, 
+{"sentence":
+{
+          "Action": "put down",
+          "Object": "phone",
+          "On": "the desk"
+        }
+}, 
+{"sentence":
+{
+          "Action": "go",
+          "Direction": "to the bed"
+        }
+}, 
+{"sentence":
+{
+          "Action": "pick up",
+          "Object": "phone"
+        }
+}, 
+{"sentence":
+{
+          "Action": "go",
+          "Direction": "to the right side of the desk"
+        }
+}, 
+{"sentence":
+{
+          "Action": "put down",
+          "Object": "phone",
+          "On": "the desk"
+        }
+} 
+]}

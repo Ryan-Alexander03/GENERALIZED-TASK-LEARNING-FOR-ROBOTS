@@ -1,0 +1,45 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "walk",
+"Direction": "around",
+"Landmark": "island",
+"Object": "coffee maker"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "coffee mug"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "around",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "mug",
+"Location": "fridge"
+"Action": "take out",
+"Object": "mug"
+}
+}, 
+{"sentence":
+{
+"Action": "go back",
+"Landmark": "coffee maker"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "mug",
+"Location": "coffee maker"
+}
+} 
+]}

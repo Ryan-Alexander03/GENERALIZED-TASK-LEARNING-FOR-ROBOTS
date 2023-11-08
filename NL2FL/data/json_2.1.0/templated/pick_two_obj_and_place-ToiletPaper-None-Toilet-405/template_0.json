@@ -1,0 +1,86 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": null
+    }, 
+{
+      "Action": "go",
+      "Direction": null,
+      "Preposition": "to",
+      "Landmark": "sink"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "cabinet above the toilet"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "take",
+      "Object": "roll of toilet paper",
+      "Location": "cabinet above the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": null,
+      "Preposition": "around",
+      "Landmark": "garbage can"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "roll of toilet paper",
+      "Location": "back of the toilet"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "wall"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "counter"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "empty toilet paper roll",
+      "Location": "counter"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "toilet"
+    }, 
+{
+      "Action": "turn",
+      "Direction": null,
+      "Preposition": "around",
+      "Landmark": "counter"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "empty toilet paper roll",
+      "Location": "back of the toilet"
+    }
+} 
+]}

@@ -1,0 +1,56 @@
+{"sentences":[
+{"sentence":
+{
+         "Action": "walk",
+          "Direction": "behind you",
+            "Preposition": "to",
+             "Landmark": "kitchen counter"
+        }
+}, 
+{"sentence":
+{
+         "Action": "grab",
+          "Object": "middle sponge",
+           "From": "counter"
+        }
+}, 
+{"sentence":
+{
+         "Action": "walk",
+          "Direction": "left",
+            "Preposition": "to",
+             "Landmark": "kitchen sink"
+        }
+}, 
+{"sentence":[
+{
+         "Action": "put",
+          "Object": "sponge",
+           "Into": "sink"
+        }, 
+{
+         "Action": "wash",
+          "Object": "sponge"
+        }, 
+{
+         "Action": "take",
+          "Object": "sponge",
+           "From": "sink"
+        }
+]}, 
+{"sentence":
+{
+         "Action": "walk",
+          "Direction": "left",
+            "Preposition": "to",
+             "Landmark": "kitchen counter"
+        }
+}, 
+{"sentence":
+{
+         "Action": "put",
+          "Object": "sponge",
+           "Into": "bottom drawer"
+        }
+} 
+]}

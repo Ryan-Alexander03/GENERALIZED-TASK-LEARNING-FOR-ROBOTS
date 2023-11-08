@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "to",
+      "Landmark": "chair"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "spoon",
+      "From": "in front of you"
+     }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "spoon",
+      "From": "in front of you"
+     }
+} 
+]}

@@ -1,0 +1,184 @@
+{"sentences":[
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "face",
+     "Landmark": null
+     }, 
+{
+     "Action": "walk",
+     "Direction": "straight",
+     "Preposition": "past",
+     "Landmark": "island"
+     }, 
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "walk",
+     "Direction": null,
+     "Preposition": "near",
+     "Landmark": "black stools"
+     }, 
+{
+     "Action": "face",
+     "Direction": null,
+     "Preposition": "counter",
+     "Landmark": "island counter"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "take",
+     "Object": "lettuce closest to the hand",
+     "Location": "island counter"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "walk",
+     "Direction": "straight",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "walk",
+     "Direction": null,
+     "Preposition": "towards",
+     "Landmark": "refrigerator"
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "open",
+     "Object": "refrigerator",
+     "Location": null
+     }, 
+{
+     "Action": "put",
+     "Object": "lettuce",
+     "Location": "top rack"
+     }, 
+{
+     "Action": "close",
+     "Object": "refrigerator",
+     "Location": null
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "go",
+     "Object": "island",
+     "Location": null
+     }
+]}, 
+{"sentence":
+{
+     "Action": "take",
+     "Object": "lettuce on the island counter",
+     "Location": "island counter"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "go",
+     "Object": "refrigerator",
+     "Location": null
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "open",
+     "Object": "refrigerator",
+     "Location": null
+     }, 
+{
+     "Action": "put",
+     "Object": "lettuce",
+     "Location": "top rack on the right side above the tomato"
+     }, 
+{
+     "Action": "close",
+     "Object": "refrigerator",
+     "Location": null
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "go",
+     "Object": "counter to the right of the stove",
+     "Location": null
+     }
+]}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "knife to the right of the pot on the counter",
+     "Location": "counter"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "go",
+     "Object": "refrigerator",
+     "Location": null
+     }
+]}, 
+{"sentence":[
+{
+     "Action": "open",
+     "Object": "refrigerator",
+     "Location": null
+     }, 
+{
+     "Action": "cut",
+     "Object": "both lettuce",
+     "Location": "refrigerator"
+     }, 
+{
+     "Action": "close",
+     "Object": "refrigerator",
+     "Location": null
+     }
+]} 
+]}

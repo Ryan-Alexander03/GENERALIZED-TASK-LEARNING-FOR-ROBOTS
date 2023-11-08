@@ -1,0 +1,107 @@
+{"sentences":[
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "around",
+   "Preposition": "move",
+   "Landmark": "kitchen sink"
+ }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "sharp knife",
+   "From": "the counter in front of the sink"
+ }
+}, 
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "around",
+   "Preposition": "carry",
+   "Landmark": "round table"
+ }
+}, 
+{"sentence":
+{
+   "Action": "use",
+   "Object": "knife",
+   "Preposition": "slice",
+   "Landmark": "potato on the table"
+ }
+}, 
+{"sentence":[
+{
+   "Action": "turn",
+   "Direction": "left"
+ }, 
+{
+   "Action": "head",
+   "Direction": "right",
+   "Preposition": "to the fridge"
+ }
+]}, 
+{"sentence":
+{
+   "Action": "place",
+   "Object": "knife",
+   "Preposition": "on the top shelf",
+   "Landmark": "next to the tomato"
+ }
+}, 
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "right",
+   "Preposition": "return",
+   "Landmark": "the sliced potato on the table"
+ }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "slice of potato",
+   "From": "the table"
+ }
+}, 
+{"sentence":
+{
+   "Action": "turn",
+   "Direction": "left",
+   "Preposition": "to carry",
+   "Landmark": "the fridge"
+ }
+}, 
+{"sentence":[
+{
+   "Action": "place",
+   "Object": "potato slice",
+   "Preposition": "on the shelf next to",
+   "Landmark": "the knife in the fridge"
+ }, 
+{
+   "Action": "close",
+   "Object": "the door"
+ }, 
+{
+   "Action": "open",
+   "Object": "the door",
+   "Preposition": "to remove",
+   "Landmark": "it after a few seconds"
+ }
+]}, 
+{"sentence":
+{
+   "Action": "carry",
+   "Object": "the potato slice",
+   "Preposition": "to the kitchen sink"
+ }
+}, 
+{"sentence":
+{
+   "Action": "place",
+   "Object": "the slice of potato",
+   "Preposition": "in the sink"
+ }
+} 
+]}

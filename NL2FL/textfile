@@ -1,0 +1,59 @@
+cross_room
+{'m_name': 'cross_room'}
+{'m_name': 'cross_room'}
+
+
+turn_right to counter
+{'m_name': 'turn_right', 'm_args': ['to', 'counter']}
+{'m_name': 'turn_right', 'm_args': ['to', 'counter']}
+
+
+pick_up candlestick next to soap dispenser
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'back_soap_dispenser']}
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'next_to_soap_dispenser']}
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'the_back_the_soap_dispenser']}
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'next_to_soap_dispenser']}
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'back_the_soap_dispenser']}
+{'m_name': 'pick_up', 'm_args': ['candlestick', 'next_to_soap_dispenser']}
+
+
+go_other end counter
+{'m_name': 'go_other', 'm_args': ['end', 'counter']}
+{'m_name': 'go_other', 'm_args': ['end', 'counter']}
+
+
+put candlestick bottom end drawer
+{'m_name': 'put', 'm_args': ['candlestick', 'bottom_end_drawer']}
+{'m_name': 'put', 'm_args': ['candlestick', 'first_candlestick_drawer']}
+{'m_name': 'put', 'm_args': ['candlestick', 'the_bottom_end_drawer']}
+{'m_name': 'put', 'm_args': ['candlestick', 'next_to_first_candlestick_the_drawer']}
+{'m_name': 'put', 'm_args': ['candlestick', 'bottom_end_drawer']}
+{'m_name': 'put', 'm_args': ['candlestick', 'first_candlestick_the_drawer']}
+
+
+turn_around
+{'m_name': 'turn_around'}
+{'m_name': 'turn_around'}
+{'m_name': 'turn_around'}
+{'m_name': 'turn_around'}
+
+
+walk toilet
+{'m_name': 'walk', 'm_args': 'toilet'}
+{'m_name': 'walk', 'm_args': 'counter'}
+{'m_name': 'walk', 'm_args': 'toilet'}
+{'m_name': 'walk', 'm_args': 'toilet'}
+{'m_name': 'walk', 'm_args': ['to', 'counter']}
+
+
+turn
+{'m_name': 'turn'}
+{'m_name': 'turn', 'm_args': ['right', 'to_counter']}
+{'m_name': 'turn', 'm_args': ['other', 'end_to_counter']}
+{'m_name': 'turn', 'm_args': ['to', 'counter']}
+
+
+walk_back to counter
+{'m_name': 'walk_back'}
+{'m_name': 'walk_back'}
+

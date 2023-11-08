@@ -1,0 +1,130 @@
+{"sentences":[
+{"sentence":[
+{
+    "Action": "turn",
+    "Direction": "right"
+}, 
+{
+    "Action": "move",
+    "Direction": "forward"
+}, 
+{
+    "Action": "then turn",
+    "Direction": "left",
+    "Preposition": "face",
+    "Landmark": "kitchen island"
+}
+]}, 
+{"sentence":[
+{
+    "Action": "pick up",
+    "Object": "a knife",
+    "From": "the kitchen island"
+}, 
+{
+    "Action": "to the right",
+    "Preposition": "of",
+    "Landmark": "the loaf of bread"
+}
+]}, 
+{"sentence":[
+{
+    "Action": "go",
+    "Direction": "behind"
+}, 
+{
+    "Action": "adjacent",
+    "Preposition": "to",
+    "Landmark": "the fridge"
+}
+]}, 
+{"sentence":
+{
+    "Action": "slice",
+    "Object": "the tomato",
+    "From": "the counter"
+}
+}, 
+{"sentence":
+{
+    "Action": "go",
+    "Direction": "left",
+    "Preposition": "to"
+}
+}, 
+{"sentence":[
+{
+    "Action": "put",
+    "Object": "the knife",
+    "Into": "the fridge"
+}, 
+{
+    "Action": "on",
+    "Preposition": "bottom",
+    "Landmark": "shelf"
+}
+]}, 
+{"sentence":[
+{
+    "Action": "return",
+    "To": "the counter"
+}, 
+{
+    "Action": "adjacent",
+    "Preposition": "to",
+    "Landmark": "the fridge"
+}
+]}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "a slice of tomato",
+    "From": "the counter"
+}
+}, 
+{"sentence":
+{
+    "Action": "go",
+    "Direction": "left",
+    "Preposition": "to"
+}
+}, 
+{"sentence":
+{
+    "Action": "chill",
+    "Object": "the tomato slice",
+    "Into": "the fridge"
+}
+}, 
+{"sentence":[
+{
+    "Action": "turn",
+    "Direction": "left"
+}, 
+{
+    "Action": "move",
+    "Direction": "forward"
+}, 
+{
+    "Action": "turn",
+    "Direction": "left"
+}, 
+{
+    "Action": "move",
+    "Direction": "forward"
+}, 
+{
+    "Action": "then turn",
+    "Direction": "right",
+    "Preposition": "to face",
+    "Landmark": "the trash bin"
+}
+]}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "the tomato slice",
+    "Into": "the trash bin"
+}
+} 
+]}

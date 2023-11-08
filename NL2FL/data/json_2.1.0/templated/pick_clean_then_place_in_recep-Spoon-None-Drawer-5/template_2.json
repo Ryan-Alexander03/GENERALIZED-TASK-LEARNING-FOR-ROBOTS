@@ -1,0 +1,44 @@
+{"sentences":[
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "right",
+    "Preposition": "twice",
+    "Landmark": "counter top"
+ }
+}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "spoon",
+    "From": "the counter top"
+ }
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "left",
+    "Preposition": "twice",
+    "Landmark": "sink"
+ }
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "spoon",
+    "Into": "the sink"
+ }
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "right"
+ }
+}, 
+{"sentence":
+{
+    "Action": "open",
+    "Object": "drawer"
+ }
+} 
+]}

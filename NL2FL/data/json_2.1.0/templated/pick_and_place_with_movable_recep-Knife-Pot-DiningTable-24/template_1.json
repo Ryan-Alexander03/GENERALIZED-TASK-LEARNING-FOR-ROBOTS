@@ -1,0 +1,49 @@
+{"sentences":[
+{"sentence":
+{
+         "Action": "turn",
+         "Direction": "right",
+         "Preposition": "passed",
+         "Landmark": "refrigerator"
+      }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "yellow-handled knife",
+         "From": "the counter"
+      }
+}, 
+{"sentence":
+{
+         "Action": "walk",
+         "To": "the kitchen"
+      }
+}, 
+{"sentence":
+{
+         "Action": "place",
+         "Object": "knife",
+         "Into": "the bowl on the stove"
+      }
+}, 
+{"sentence":
+{
+         "Action": "pick up",
+         "Object": "bowl with the knife in it"
+      }
+}, 
+{"sentence":
+{
+         "Action": "walk",
+         "To": "the white table with the tomato on it"
+      }
+}, 
+{"sentence":
+{
+         "Action": "set",
+         "Object": "bowl and knife",
+         "Next to": "the tomato"
+      }
+} 
+]}

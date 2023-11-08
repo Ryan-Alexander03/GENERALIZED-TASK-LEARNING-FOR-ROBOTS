@@ -1,0 +1,42 @@
+{"sentences":[
+{"sentence":[
+{
+            "Action": "move",
+            "Direction": "forward",
+            "Preposition": "across",
+            "Landmark": "the room"
+        }, 
+{
+            "Action": "stop",
+            "At": "the dresser",
+            "Preposition": "on the left"
+        }, 
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "to face",
+            "Landmark": "the dresser"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "clock",
+            "From": "the right back corner of the dresser"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Preposition": "around",
+            "At": "the desk"
+        }
+}, 
+{"sentence":
+{
+            "Action": "put",
+            "Object": "clock",
+            "On": "the desk in front of the chair"
+        }
+} 
+]}

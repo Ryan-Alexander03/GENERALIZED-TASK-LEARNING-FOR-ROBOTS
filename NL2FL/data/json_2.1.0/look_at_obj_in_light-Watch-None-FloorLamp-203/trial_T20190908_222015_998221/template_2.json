@@ -1,0 +1,39 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "past",
+        "Landmark": "black table"
+      }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "watch",
+       "From": "the black table"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "across",
+        "Landmark": "room"
+      }, 
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "forward",
+        "Landmark": "lamp in the corner"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "turn on",
+       "Object": "lamp",
+       "Preposition": "to examine",
+       "Landmark": "watch"
+      }
+} 
+]}

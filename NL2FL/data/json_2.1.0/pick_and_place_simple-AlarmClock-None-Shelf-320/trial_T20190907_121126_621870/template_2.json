@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "right",
+    "Preposition": "face",
+    "Landmark": "clock on the white table"
+}
+}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "clock next to the CD on the table",
+    "From": "table"
+}
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "right",
+    "Preposition": "walk",
+    "Landmark": "wooden dresser"
+}
+}, 
+{"sentence":
+{
+    "Action": "place",
+    "Object": "clock to the right of the chess board on the wooden dresser",
+    "From": "hand"
+}
+} 
+]}

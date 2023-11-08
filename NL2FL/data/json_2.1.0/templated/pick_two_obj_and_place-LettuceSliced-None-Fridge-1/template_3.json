@@ -1,0 +1,219 @@
+{"sentences":[
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "left"
+
+}, 
+{
+
+"Action": "walk",
+"Direction": "straight",
+"Preposition": "past",
+"Landmark": "island"
+
+}, 
+{
+
+"Action": "turn",
+"Direction": "left"
+
+}, 
+{
+
+"Action": "walk",
+"Preposition": "to",
+"Landmark": "black stools",
+"Location": "near the island"
+
+}, 
+{
+
+"Action": "face",
+"Preposition": "the",
+"Landmark": "island counter"
+
+}
+]}, 
+{"sentence":
+{
+
+"Action": "take",
+"Object": "the lettuce closest to the hand on the island counter"
+
+}
+}, 
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "right"
+
+}, 
+{
+
+"Action": "walk",
+"Direction": "straight"
+
+}, 
+{
+
+"Action": "turn",
+"Direction": "left"
+
+}, 
+{
+
+"Action": "walk",
+"Preposition": "towards",
+"Landmark": "the refrigerator"
+
+}
+]}, 
+{"sentence":[
+{
+
+"Action": "open",
+"Object": "the refrigerator"
+
+}, 
+{
+
+"Action": "put",
+"Object": "the lettuce",
+"Preposition": "on",
+"Location": "the top rack"
+
+}, 
+{
+
+"Action": "close",
+"Object": "the refrigerator"
+
+}
+]}, 
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "around"
+
+}, 
+{
+
+"Action": "go",
+"Preposition": "to",
+"Landmark": "the island"
+
+}
+]}, 
+{"sentence":
+{
+
+"Action": "take",
+"Object": "the lettuce",
+"Preposition": "on",
+"Location": "the island counter"
+
+}
+}, 
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "around"
+
+}, 
+{
+
+"Action": "go",
+"Preposition": "to",
+"Landmark": "the refrigerator"
+
+}
+]}, 
+{"sentence":[
+{
+
+"Action": "open",
+"Object": "the refrigerator"
+
+}, 
+{
+
+"Action": "put",
+"Object": "the lettuce",
+"Preposition": "on",
+"Location": "the top rack on the right side above the tomato"
+
+}, 
+{
+
+"Action": "close",
+"Object": "the refrigerator"
+
+}
+]}, 
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "left"
+
+}, 
+{
+
+"Action": "go",
+"Preposition": "to",
+"Landmark": "the counter to the right of the stove"
+
+}
+]}, 
+{"sentence":
+{
+
+"Action": "pick up",
+"Object": "the knife",
+"Preposition": "to the right of",
+"Location": "the pot on the counter"
+
+}
+}, 
+{"sentence":[
+{
+
+"Action": "turn",
+"Direction": "around"
+
+}, 
+{
+
+"Action": "go",
+"Preposition": "to",
+"Landmark": "the refrigerator"
+
+}
+]}, 
+{"sentence":[
+{
+
+"Action": "open",
+"Object": "the refrigerator"
+
+}, 
+{
+
+"Action": "cut",
+"Object": "both lettuce",
+"Location": "in the refrigerator"
+
+}, 
+{
+
+"Action": "close",
+"Object": "the refrigerator"
+
+}
+]} 
+]}

@@ -1,0 +1,97 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "head",
+      "Landmark": "counter"
+    }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "bread knife",
+   "Location": "counter beside the pan"
+ }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "then head",
+      "Landmark": "left side of the round table"
+    }
+}, 
+{"sentence":
+{
+   "Action": "slice",
+   "Object": "potato",
+   "Location": "round table"
+ }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "head",
+      "Landmark": "fridge"
+    }
+}, 
+{"sentence":
+{
+   "Action": "open",
+   "Object": "fridge",
+   "Location": "put in the knife"
+   "Action2": "close"
+ }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "then head",
+      "Landmark": "left side of the round table"
+    }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "slice potato",
+   "Location": "table"
+ }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "head",
+      "Landmark": "fridge"
+    }
+}, 
+{"sentence":
+{
+   "Action": "pick up",
+   "Object": "apple",
+   "Location": "table"
+   "Action2": "open",
+   "Object2": "fridge",
+   "Location2": "put in and out the slice potato",
+   "Action3": "close"
+ }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "head",
+      "Landmark": "sink"
+    }
+}, 
+{"sentence":
+{
+   "Action": "put in",
+   "Object": "slice potato",
+   "Location": "sink"
+ }
+} 
+]}

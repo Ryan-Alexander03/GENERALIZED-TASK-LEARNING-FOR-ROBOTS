@@ -1,0 +1,46 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "go",
+        "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "loaf of bread",
+        "From": "counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "",
+        "Preposition": "take",
+        "Landmark": "fridge"
+     }
+}, 
+{"sentence":
+{
+        "Action": "cool",
+        "Object": "loaf of bread",
+        "From": "fridge"
+     }
+}, 
+{"sentence":
+{
+        "Action": "take",
+        "Object": "cooled bread",
+        "From": "counter by the toaster"
+     }
+}, 
+{"sentence":
+{
+        "Action": "set",
+        "Object": "cooled bread",
+        "From": "counter in front of the toaster"
+     }
+} 
+]}

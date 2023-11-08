@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+   "Action": "go over",
+   "Direction": "left",
+   "Preposition": "face",
+   "Landmark": "bedroom dresser"
+}
+}, 
+{"sentence":
+{
+   "Action": "grab",
+   "Object": "box of tissues",
+   "From": "bottom right drawer"
+}
+}, 
+{"sentence":
+{
+   "Action": "move",
+   "Direction": "center",
+   "Preposition": "face",
+   "Landmark": "dresser"
+}
+}, 
+{"sentence":
+{
+   "Action": "place",
+   "Object": "box of tissues",
+   "On": "top of the dresser"
+}
+} 
+]}

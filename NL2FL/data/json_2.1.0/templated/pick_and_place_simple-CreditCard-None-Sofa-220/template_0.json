@@ -1,0 +1,29 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "and then straight"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "credit card",
+            "From": "the end table"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "around"
+        }
+}, 
+{"sentence":
+{
+            "Action": "set",
+            "Object": "credit card",
+            "To": "the couch"
+        }
+} 
+]}

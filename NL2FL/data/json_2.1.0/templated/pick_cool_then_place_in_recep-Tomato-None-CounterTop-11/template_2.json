@@ -1,0 +1,45 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "move",
+            "Direction": "right",
+            "Preposition": "side",
+            "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "tomato"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "right",
+            "Preposition": "to",
+            "Landmark": "fridge"
+        }
+}, 
+{"sentence":
+{
+            "Action": "drop",
+            "Object": "tomato",
+            "Into": "fridge"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "to",
+            "Landmark": "coffee maker"
+        }
+}, 
+{"sentence":
+{
+            "Action": "move",
+            "Direction": "left"
+        }
+} 
+]}

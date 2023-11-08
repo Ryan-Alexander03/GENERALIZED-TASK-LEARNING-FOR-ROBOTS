@@ -1,0 +1,209 @@
+[
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "fridge"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "PickupObject",
+        "m_args": [
+            "plate"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Fridge"
+            },
+            {
+                "s_name": "PickupObject",
+                "s_args": "Plate"
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Fridge"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "microwave"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "RotateLeft"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "HeatObject",
+        "m_args": [
+            "plate"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Plate",
+                    "Microwave"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "ToggleObjectOn",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "ToggleObjectOff",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "OpenObject",
+                "s_args": "Microwave"
+            },
+            {
+                "s_name": "PickupObject",
+                "s_args": "Plate"
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Microwave"
+            }
+        ]
+    },
+    {
+        "m_name": "GotoLocation",
+        "m_args": [
+            "cabinet"
+        ],
+        "subtasks": [
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "LookDown"
+            },
+            {
+                "s_name": "RotateRight"
+            },
+            {
+                "s_name": "MoveAhead"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            },
+            {
+                "s_name": "LookUp"
+            }
+        ]
+    },
+    {
+        "m_name": "PutObject",
+        "m_args": [
+            "plate",
+            "cabinet"
+        ],
+        "subtasks": [
+            {
+                "s_name": "OpenObject",
+                "s_args": "Cabinet"
+            },
+            {
+                "s_name": "PutObject",
+                "s_args": [
+                    "Plate",
+                    "Cabinet"
+                ]
+            },
+            {
+                "s_name": "CloseObject",
+                "s_args": "Cabinet"
+            }
+        ]
+    }
+]

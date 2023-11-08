@@ -1,0 +1,69 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "across",
+       "Landmark": null
+     }, 
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "face",
+       "Landmark": "counter"
+     }
+]}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "potato",
+       "Location": "left side of the sink"
+     }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "take",
+       "Location": null
+     }, 
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "across",
+       "Landmark": null
+     }
+]}, 
+{"sentence":[
+{
+       "Action": "put",
+       "Object": "potato",
+       "Location": "microwave"
+     }, 
+{
+       "Action": "open",
+       "Location": "microwave"
+     }
+]}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "across",
+       "Landmark": null
+     }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "across",
+       "Landmark": null
+     }
+]}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "potato",
+       "Location": "green trash bin on the floor"
+     }
+} 
+]}

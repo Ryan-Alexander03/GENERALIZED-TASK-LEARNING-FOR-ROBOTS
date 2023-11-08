@@ -1,0 +1,41 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "in front of",
+      "Landmark": "end of the bed"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "book",
+      "From": "left corner of the bed"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to the right end of",
+      "Landmark": "night stand"
+     }, 
+{
+      "Action": "across the room",
+      "From": "right end of the night stand"
+     }
+]}, 
+{"sentence":[
+{
+      "Action": "turn on",
+      "Object": "lamp",
+      "Preposition": "in the front"
+     }, 
+{
+      "Action": "right corner of",
+      "Object": "night stand",
+      "From": "lamp"
+     }
+]} 
+]}

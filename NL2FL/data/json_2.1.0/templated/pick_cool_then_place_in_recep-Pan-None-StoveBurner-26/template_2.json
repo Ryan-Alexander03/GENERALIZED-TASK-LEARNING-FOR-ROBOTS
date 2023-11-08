@@ -1,0 +1,60 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "fridge"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "and",
+      "Landmark": "stove"
+    }
+]}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "black pan",
+       "From": "fridge"
+      }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around"
+    }, 
+{
+      "Action": "walk",
+      "To": "fridge"
+    }
+]}, 
+{"sentence":[
+{
+       "Action": "chill",
+       "Object": "pan",
+       "In": "fridge"
+      }, 
+{
+      "Action": "remove"
+    }
+]}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around"
+    }, 
+{
+      "Action": "walk",
+      "To": "stove"
+    }
+]}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "pan",
+       "On": "front left burner"
+      }
+} 
+]}

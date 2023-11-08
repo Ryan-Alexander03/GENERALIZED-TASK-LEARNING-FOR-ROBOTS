@@ -1,0 +1,49 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "move",
+"Direction": "right",
+"Landmark": "stove"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "silver pot",
+"Location": "back left burner"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "around",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "pot",
+"Location": "top right shelf"
+"Action2": "close",
+"Landmark2": "door"
+"Action3": "take"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left"
+"Action2": "move"
+"Landmark2": "stove"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "pot",
+"Location": "back left burner"
+"Landmark": "stove"
+}
+} 
+]}

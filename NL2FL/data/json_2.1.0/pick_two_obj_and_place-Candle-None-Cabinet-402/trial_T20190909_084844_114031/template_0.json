@@ -1,0 +1,82 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "to the right",
+      "Preposition": "edge of",
+      "Landmark": "yellow candles"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "yellow candle",
+      "Location": "behind other candle on edge of tub"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": null
+    }, 
+{
+      "Action": "go",
+      "Direction": "to the left",
+      "Preposition": "far sink"
+    }, 
+{
+      "Action": "look",
+      "Object": "cabinet under sink"
+    }
+]}, 
+{"sentence":[
+{
+      "Action": "open",
+      "Object": "right cabinet under sink"
+    }, 
+{
+      "Action": "place",
+      "Object": "candle",
+      "Location": "in cabinet"
+    }, 
+{
+      "Action": "close",
+      "Object": "cabinet"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "forward",
+      "Preposition": "to sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "yellow candle",
+      "Location": "to the right of sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "look",
+      "Object": "cabinet under sink"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "open",
+      "Object": "right cabinet under sink"
+    }, 
+{
+      "Action": "place",
+      "Object": "candle",
+      "Location": "to the right of candle in cabinet"
+    }, 
+{
+      "Action": "close",
+      "Object": "cabinet"
+    }
+]} 
+]}

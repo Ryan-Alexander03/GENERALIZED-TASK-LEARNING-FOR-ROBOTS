@@ -1,0 +1,96 @@
+{"sentences":[
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "left",
+          "Preposition": "face",
+          "Landmark": "ground"
+        }
+}, 
+{"sentence":
+{
+          "Action": "grab",
+          "Object": "knife",
+          "From": "the ground"
+        }
+}, 
+{"sentence":
+{
+          "Action": "move",
+          "Direction": "left"
+        }
+}, 
+{"sentence":
+{
+          "Action": "cut",
+          "Object": "cabbage",
+          "Location": "the sink"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "around",
+          "Preposition": "go",
+          "Landmark": "oven"
+        }
+}, 
+{"sentence":
+{
+          "Action": "put",
+          "Object": "knife",
+          "Location": "the pan in the top right stove"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "right",
+          "Preposition": "go",
+          "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+          "Action": "pick up",
+          "Object": "slice of cabbage",
+          "From": "the sink"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "around",
+          "Preposition": "go",
+          "Landmark": "oven"
+        }
+}, 
+{"sentence":
+{
+          "Action": "put",
+          "Object": "cabbage",
+          "Location": "the pan in the top right stove"
+        }
+}, 
+{"sentence":
+{
+          "Action": "open",
+          "Object": "the dresser"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "around",
+          "Preposition": "go",
+          "Landmark": "fridge"
+        }
+}, 
+{"sentence":
+{
+          "Action": "use",
+          "Object": "fork",
+          "To": "cut"
+        }
+} 
+]}

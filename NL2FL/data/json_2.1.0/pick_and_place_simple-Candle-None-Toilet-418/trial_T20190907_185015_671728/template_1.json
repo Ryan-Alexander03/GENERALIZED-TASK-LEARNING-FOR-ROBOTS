@@ -1,0 +1,33 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "look",
+      "Direction": "on",
+      "Preposition": "table"
+    }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "candle",
+      "From": "the table"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right"
+    }, 
+{
+      "Action": "walk",
+      "To": "the toilet on the right"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "candle",
+      "On": "the toilet"
+    }
+} 
+]}

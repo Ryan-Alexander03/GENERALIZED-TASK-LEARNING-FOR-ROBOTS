@@ -1,0 +1,74 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+       "Direction": "left",
+        "Preposition": "towards",
+        "Landmark": "purple armchair"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "remote",
+        "From": "armchair"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+       "Direction": "around",
+        "Preposition": "walk"
+     }, 
+{
+      "Action": "turn",
+       "Direction": "back",
+        "Preposition": "face",
+        "Landmark": "footrest"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "place",
+       "Object": "remote",
+        "On": "purple footrest"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+       "Direction": "left",
+        "Preposition": "towards",
+        "Landmark": "couch"
+     }, 
+{
+      "Action": "turn",
+       "Direction": "again",
+        "Preposition": "towards",
+        "Landmark": "coffee table"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "remote",
+        "From": "coffee table"
+     }
+}, 
+{"sentence":
+{
+      "Action": "walk",
+       "Direction": "around",
+        "Preposition": "to",
+        "Landmark": "purple footrest"
+     }
+}, 
+{"sentence":
+{
+      "Action": "place",
+       "Object": "remote",
+        "Next to": "first remote",
+        "On": "purple footrest"
+     }
+} 
+]}

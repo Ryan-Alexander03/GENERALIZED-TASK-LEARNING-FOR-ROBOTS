@@ -1,0 +1,96 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "right"
+      }, 
+{
+       "Action": "walk",
+       "Direction": "straight"
+      }, 
+{
+       "Action": "turn",
+       "Direction": "right"
+      }, 
+{
+       "Action": "walk",
+       "To": "the microwave"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "grab",
+       "Object": "white cup",
+       "From": "the microwave"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "step",
+       "Direction": "back"
+      }, 
+{
+       "Action": "face",
+       "Object": "microwave",
+       "Preposition": "on",
+       "Location": "the counter"
+      }
+]}, 
+{"sentence":[
+{
+       "Action": "open",
+       "Object": "microwave"
+      }, 
+{
+       "Action": "put",
+       "Object": "cup",
+       "Into": "the microwave"
+      }, 
+{
+       "Action": "close",
+       "Object": "microwave"
+      }, 
+{
+       "Action": "heat",
+       "Object": "cup"
+      }, 
+{
+       "Action": "open",
+       "Object": "microwave"
+      }, 
+{
+       "Action": "take",
+       "Object": "cup",
+       "Out of": "the microwave"
+      }, 
+{
+       "Action": "close",
+       "Object": "microwave"
+      }
+]}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "around"
+      }, 
+{
+       "Action": "walk",
+       "Direction": "straight"
+      }, 
+{
+       "Action": "turn",
+       "Direction": "left"
+      }, 
+{
+       "Action": "walk",
+       "To": "the shelf at the end"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "cup",
+       "On": "the second shelf"
+      }
+} 
+]}

@@ -1,0 +1,50 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "then",
+     "Location": null,
+     "Object": "counter near the tea pot"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "tea pot",
+      "Location": "off of the counter"
+     }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": "to position myself in front of the sink so I am facing it"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "tea pot",
+      "Location": "in the sink"
+      ,"Sub-Actions": [
+        {
+         "Action": "run",
+         "Object": "water"
+        }
+}, 
+{"sentence":
+{
+     "Action": "walk",
+     "Direction": "back over to the counter",
+     "Preposition": "except move myself slightly to the left so I am in front of the brown shelves"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "tea pot",
+      "Location": "towards the right of the middle shelf"
+     }
+} 
+]}

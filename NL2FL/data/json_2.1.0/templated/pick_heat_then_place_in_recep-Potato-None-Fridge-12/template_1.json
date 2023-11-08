@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "over",
+        "Landmark": "kitchen counter"
+    }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "potato",
+        "From": "the kitchen counter"
+    }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "over",
+        "Landmark": "kitchen sink"
+    }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "potato",
+        "Into": "the microwave above the kitchen sink"
+    }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "around",
+        "Preposition": "over",
+        "Landmark": "fridge"
+    }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "potato",
+        "Into": "the fridge to the right of the lettuce"
+    }
+} 
+]}

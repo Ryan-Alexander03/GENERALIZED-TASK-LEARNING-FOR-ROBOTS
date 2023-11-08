@@ -1,0 +1,42 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Location": "counter top"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "spoon",
+       "Location": "counter top"
+      }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+      "Action": "put",
+       "Object": "spoon",
+       "Location": "sink"
+      }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right"
+     }
+}, 
+{"sentence":
+{
+      "Action": "open",
+       "Object": "drawer"
+      }
+} 
+]}

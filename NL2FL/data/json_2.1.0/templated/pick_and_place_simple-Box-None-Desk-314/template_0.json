@@ -1,0 +1,38 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around"
+    }, 
+{
+      "Action": "move",
+      "Direction": "to face",
+      "Preposition": "the box on the floor",
+      "Landmark": "to the left"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "the box on the floor"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around"
+    }, 
+{
+      "Action": "bring",
+      "Object": "the box",
+      "To": "the desk"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "the box",
+      "On": "the right side of the desk"
+    }
+} 
+]}

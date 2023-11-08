@@ -1,0 +1,91 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "across",
+        "Landmark": "counter to the right of the sink"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "knife on the counter",
+        "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "take a step",
+        "Direction": "left",
+        "Preposition": "to face",
+        "Landmark": "potato on the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "cut",
+        "Object": "potato on the counter into slices",
+        "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "step forward",
+        "Landmark": "fridge"
+     }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "knife in the fridge",
+        "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "step forward",
+        "Landmark": "potato on the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "slice of potato on the counter",
+        "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "step forward",
+        "Landmark": "fridge"
+     }
+}, 
+{"sentence":
+{
+        "Action": "cool",
+        "Object": "potato slice in the fridge and remove it",
+        "From": "the fridge"
+     }
+}, 
+{"sentence":
+{
+        "Action": "look",
+        "Object": "potato slice on the counter",
+        "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "slice of potato on the counter",
+        "From": "the counter"
+     }
+} 
+]}

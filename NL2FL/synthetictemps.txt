@@ -1,0 +1,193 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "broom",
+      "From": "the closet"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "dirty dishes",
+      "Into": "the sink"
+    }
+}, 
+{"sentence":
+{
+      "Action": "fold",
+      "Object": "laundry",
+      "Into": "the dresser"
+    }
+}, 
+{"sentence":
+{
+      "Action": "water",
+      "Object": "plants",
+      "Location": "the living room"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "open",
+      "Object": "refrigerator"
+    }, 
+{
+      "Action": "take out",
+      "Object": "eggs",
+      "From": "the refrigerator"
+    }, 
+{
+      "Action": "crack",
+      "Object": "eggs",
+      "Into": "a bowl"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "turn on",
+      "Object": "bedside lamp",
+      "Location": "your bedroom"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "remote control",
+      "From": "the coffee table"
+    }
+}, 
+{"sentence":
+{
+      "Action": "hang",
+      "Object": "wet towels",
+      "On": "the rack"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "mail",
+      "On": "the table near the entrance"
+    }
+}, 
+{"sentence":
+{
+      "Action": "adjust",
+      "Object": "thermostat"
+    }
+}, 
+{"sentence":
+{
+      "Action": "close",
+      "Object": "curtains"
+    }
+}, 
+{"sentence":
+{
+      "Action": "empty",
+      "Object": "trash bin"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "take",
+      "Object": "mug"
+    }, 
+{
+      "Action": "pour",
+      "Object": "hot water"
+    }, 
+{
+      "Action": "put",
+      "Object": "clean clothes"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "sit",
+      "Object": "couch"
+    }
+}, 
+{"sentence":
+{
+      "Action": "hang",
+      "Object": "coat"
+    }
+}, 
+{"sentence":
+{
+      "Action": "wipe",
+      "Object": "damp cloth"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn off",
+      "Object": "lights"
+    }
+}, 
+{"sentence":
+{
+      "Action": "plug in",
+      "Object": "phone"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "shoes"
+    }
+}, 
+{"sentence":
+{
+      "Action": "check",
+      "Object": "expiration date"
+    }
+}, 
+{"sentence":
+{
+      "Action": "open",
+      "Object": "curtains"
+    }
+}, 
+{"sentence":
+{
+      "Action": "use",
+      "Object": "feather duster"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "set",
+      "Object": "table"
+    }, 
+{
+      "Action": "set",
+      "Object": "utensils"
+    }, 
+{
+      "Action": "add",
+      "Object": "napkins"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "spray",
+      "Object": "air freshener"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn off",
+      "Object": "computer"
+    }
+}, 
+{"sentence":
+{
+  "Action": "retrieve",
+  "Object": "broom"
+  "From": "closet"
+}
+}, 
+{"sentence":

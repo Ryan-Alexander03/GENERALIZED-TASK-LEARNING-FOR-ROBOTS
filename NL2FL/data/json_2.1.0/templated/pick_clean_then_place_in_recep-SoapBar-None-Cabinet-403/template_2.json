@@ -1,0 +1,62 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "face",
+      "Landmark": "counter in between the sinks"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "pink soap",
+      "From": "the counter"
+     }
+}, 
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "right",
+      "Preposition": "face",
+      "Landmark": "sink to the right"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "place",
+      "Object": "soap",
+      "Into": "the sink"
+     }, 
+{
+      "Action": "turn on",
+      "On": "the water"
+     }, 
+{
+      "Action": "turn off",
+      "Off": "the water"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "look",
+      "Direction": "slightly lower",
+      "To": "the cabinet below the sink"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "open",
+      "Door": "right cabinet door"
+     }, 
+{
+      "Action": "place",
+      "Object": "soap",
+      "Inside": "the cabinet"
+     }, 
+{
+      "Action": "close",
+      "Door": "cabinet door"
+     }
+]} 
+]}

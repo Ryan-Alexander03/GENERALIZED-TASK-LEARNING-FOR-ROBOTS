@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "walk",
+            "Direction": "forward",
+            "Preposition": "right",
+            "Landmark": "kitchen counter"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "spatula",
+            "From": "the counter"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "walk",
+            "Landmark": "kitchen sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "wash",
+            "Object": "spatula",
+            "From": "the sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "walk",
+            "Direction": "over",
+            "Preposition": "left",
+            "Landmark": "counter"
+        }
+}, 
+{"sentence":
+{
+            "Action": "put down",
+            "Object": "spatula",
+            "From": "the hand"
+        }
+} 
+]}

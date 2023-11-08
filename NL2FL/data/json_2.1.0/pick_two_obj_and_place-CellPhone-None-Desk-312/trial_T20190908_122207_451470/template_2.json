@@ -1,0 +1,62 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "go",
+       "Direction": null,
+       "Preposition": null,
+       "Landmark": "desk"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "phone",
+       "Location": null
+     }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "right",
+      "Preposition": null,
+      "Landmark": "desk"
+    }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "phone",
+       "Location": "desk"
+     }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": null,
+      "Preposition": null,
+      "Landmark": "bed"
+    }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "phone",
+       "Location": null
+     }
+}, 
+{"sentence":
+{
+      "Action": "go",
+      "Direction": "right",
+      "Preposition": null,
+      "Landmark": "desk"
+    }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "phone",
+       "Location": "desk"
+     }
+} 
+]}

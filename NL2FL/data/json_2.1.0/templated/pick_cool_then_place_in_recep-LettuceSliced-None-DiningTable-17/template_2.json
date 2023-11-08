@@ -1,0 +1,100 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "move",
+        "Landmark": "white table"
+    }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "sharp knife",
+        "From": "white table"
+    }
+}, 
+{"sentence":
+{
+        "Action": "use",
+        "Object": "knife",
+        "Preposition": "slice",
+        "Landmark": "head of lettuce"
+    }
+}, 
+{"sentence":[
+{
+        "Action": "carry",
+        "Object": "knife",
+        "To": "fridge"
+    }, 
+{
+        "Action": "left",
+        "Preposition": "to"
+    }
+]}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "knife",
+        "On": "top shelf of the frige"
+    }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "move back",
+        "Landmark": "table"
+    }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "piece of lettuce",
+        "From": "table"
+    }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "carry",
+        "Object": "slice of lettuce",
+        "To": "fridge"
+    }
+}, 
+{"sentence":[
+{
+        "Action": "place",
+        "Object": "lettuce",
+        "On": "top shelf of the fridge"
+    }, 
+{
+        "Action": "close",
+        "Object": "door"
+    }, 
+{
+        "Action": "remove",
+        "Object": "lettuce",
+        "After": "a couple of seconds"
+    }
+]}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "carry",
+        "Object": "lettuce",
+        "To": "table"
+    }
+}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "cold lettuce slice",
+        "On": "table",
+        "In Front Of": "rest of the head of lettuce"
+    }
+} 
+]}

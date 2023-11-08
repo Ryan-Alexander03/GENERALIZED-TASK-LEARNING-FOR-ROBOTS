@@ -1,0 +1,82 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "go straight",
+       "Direction": "left"
+     }, 
+{
+       "Action": "move forward"
+     }, 
+{
+       "Action": "turn right"
+     }, 
+{
+       "Action": "move forward"
+     }, 
+{
+       "Action": "turn right"
+     }, 
+{
+       "Action": "left",
+       "Preposition": "to go to the sink"
+     }
+]}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "glass",
+       "From": "in the sink"
+     }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "around"
+     }, 
+{
+       "Action": "go forward",
+       "Direction": "left",
+       "Preposition": "to the fridge"
+     }
+]}, 
+{"sentence":
+{
+       "Action": "chill",
+       "Object": "glass",
+       "From": "inside of the fridge"
+     }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "around"
+     }, 
+{
+       "Action": "turn",
+       "Direction": "left"
+     }, 
+{
+       "Action": "turn",
+       "Direction": "right"
+     }, 
+{
+       "Action": "go straight",
+       "To": "the shelf in the corner of the room"
+     }, 
+{
+       "Action": "across",
+       "From": "the trash can"
+     }
+]}, 
+{"sentence":[
+{
+       "Action": "place",
+       "Object": "glass",
+       "On": "the middle shelf"
+     }, 
+{
+       "Action": "move",
+       "Direction": "left"
+     }
+]} 
+]}

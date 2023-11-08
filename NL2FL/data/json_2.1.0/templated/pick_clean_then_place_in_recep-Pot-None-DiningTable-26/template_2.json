@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "around",
+       "Preposition": "to",
+       "Landmark": "stove"
+     }
+}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "pan",
+       "Location": "stove"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "to",
+       "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "fill",
+       "Object": "pan",
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "around",
+       "Preposition": "to",
+       "Landmark": "table"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "pan",
+       "Location": "center of the table"
+     }
+} 
+]}

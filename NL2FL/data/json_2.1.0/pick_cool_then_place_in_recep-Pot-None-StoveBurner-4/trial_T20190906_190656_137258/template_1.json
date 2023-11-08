@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "a few feet to the right",
+      "Preposition": "to",
+      "Landmark": "the stove"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "silver pot",
+      "From": "the back left burner"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "across",
+      "Landmark": "the fridge"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "the pot",
+      "On": "the top right shelf in the fridge"
+      }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "back",
+      "Landmark": "the stove"
+    }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "the pot",
+      "On": "the back left burner on the stove"
+    }
+} 
+]}

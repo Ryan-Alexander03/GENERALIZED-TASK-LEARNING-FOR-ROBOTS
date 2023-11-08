@@ -1,0 +1,80 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "to",
+     "Landmark": "vanity counter"
+     }
+}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "tissue box",
+     "Location": "the counter"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": "across to",
+     "Landmark": "toilet"
+     }, 
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "across to",
+     "Landmark": "silver shelves"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "tissue box",
+     "Location": "top shelf"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": null,
+     "Landmark": null
+     }, 
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "to",
+     "Landmark": "vanity counter"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "another tissue box",
+     "Location": "the counter"
+     }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": "across to",
+     "Landmark": "toilet"
+     }, 
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "across to",
+     "Landmark": "silver shelves"
+     }
+]}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "tissue box",
+     "Location": "top shelf"
+     }
+} 
+]}

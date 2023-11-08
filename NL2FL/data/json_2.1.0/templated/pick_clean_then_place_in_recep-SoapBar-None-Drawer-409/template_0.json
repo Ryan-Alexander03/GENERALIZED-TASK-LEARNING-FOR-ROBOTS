@@ -1,0 +1,58 @@
+{"sentences":[
+{"sentence":[
+{
+"Action": "back up",
+"Direction": "up",
+"Preposition": "to"
+ }, 
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "to",
+"Landmark": "left"
+ }
+]}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "bar of soap",
+"From": "counter"
+ }
+}, 
+{"sentence":[
+{
+"Action": "move",
+"Direction": "left"
+ }, 
+{
+"Action": "move",
+"Direction": "closer",
+"Preposition": "to"
+ }
+]}, 
+{"sentence":
+{
+"Action": "rinse",
+"Object": "soap",
+"From": "basin"
+ }
+}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "top"
+ }, 
+{
+"Action": "right",
+"Direction": "drawer",
+"Preposition": "on"
+ }
+]}, 
+{"sentence":
+{
+"Action": "Place",
+"Object": "soap",
+"From": "INSIDE"
+ }
+} 
+]}

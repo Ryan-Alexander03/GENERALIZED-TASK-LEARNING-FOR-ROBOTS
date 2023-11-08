@@ -1,0 +1,64 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "face",
+            "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "open",
+            "Object": "bottom right cabinet",
+            "From": "the wall"
+        }
+}, 
+{"sentence":
+{
+            "Action": "hold",
+            "Object": "soap"
+        }
+}, 
+{"sentence":
+{
+            "Action": "place",
+            "Object": "soap",
+            "From": "hand"
+        }
+}, 
+{"sentence":
+{
+            "Action": "step",
+            "Direction": "left",
+            "Preposition": "to",
+            "Landmark": "bath tub"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "bar of soap",
+            "From": "the edge"
+        }
+}, 
+{"sentence":
+{
+            "Action": "hold",
+            "Object": "soap"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "place",
+            "Object": "soap",
+            "From": "hand"
+        }, 
+{
+            "Action": "turn",
+            "Direction": "right",
+            "Preposition": "to",
+            "Landmark": "other soap"
+        }
+]} 
+]}

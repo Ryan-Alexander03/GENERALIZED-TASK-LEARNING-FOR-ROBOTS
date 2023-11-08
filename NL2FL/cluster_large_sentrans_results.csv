@@ -1,0 +1,927 @@
+template;cluster;task
+Action: walk Direction: straight forward Preposition: face Landmark: basketball ;0;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: pick up Object: basketball From: beanbag chair ;1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn Direction: right Preposition: walk to Landmark: white dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn on Object: light From: top of dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: walk straight forward Direction: straight forward Preposition: face Landmark: basketball ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: pick up Object: basketball Location: off of the beanbag chair ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn right Direction: right Preposition: walk to Landmark: white dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn on Object: light Location: on top of the dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: walk Direction: straight forward Preposition: face Landmark: basketball ;0;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: pick up Object: basketball From: beanbag chair ;1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn Direction: right Preposition: walk Landmark: white dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn Object: light From: top of the dresser ;-1;look_at_obj_in_light-BasketBall-None-DeskLamp-301
+Action: turn Direction: right Preposition: face Landmark: small brown table ;2;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: pick up Object: box Location: small brown table ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: carry Object: box Location: small brown table ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: hold Object: box Location: small brown table ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: turn Direction: right Preposition: face Landmark: small brown table ;2;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: pick up Object: box From: the small brown table ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: carry Object: box Preposition: to the left ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: hold Object: box ;-1;look_at_obj_in_light-Box-None-FloorLamp-212
+Action: turn Direction: right Preposition: head Landmark: tv stand ;-1;look_at_obj_in_light-KeyChain-None-FloorLamp-223
+Action: pick up Object: keys From: the tv stand ;-1;look_at_obj_in_light-KeyChain-None-FloorLamp-223
+Action: move Direction: right Preposition: towards Landmark: lamp stand ;-1;look_at_obj_in_light-KeyChain-None-FloorLamp-223
+Action: turn on Object: lamp From: off ;-1;look_at_obj_in_light-KeyChain-None-FloorLamp-223
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box ;3;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: pick up Object: tissue box Location: night stand ;4;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk ;5;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn on Object: lamp ;6;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box ;3;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: pick up Object: tissue box Location: night stand ;4;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk ;5;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn on Object: lamp Location: None ;-1;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn Direction: right Preposition: walk slightly forward Landmark: night stand with the tissue box ;3;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: pick up Object: tissue box From: night stand ;-1;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn Direction: left Preposition: walk to Landmark: lamp on the left side of the desk ;5;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: turn on Object: lamp ;6;look_at_obj_in_light-TissueBox-None-DeskLamp-328
+Action: move Direction: left Preposition: under Landmark: window ;-1;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: pick up Object: water pot Location: floor ;-1;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: move Direction: opposite Preposition: to Landmark: end table ;7;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: turn on Object: lamp ;6;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: move Direction: left Preposition: under Landmark: plant ;8;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: pick up Object: water pot From: floor ;9;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: move Direction: opposite Preposition: on Landmark: end table ;-1;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: turn on Object: lamp ;6;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: move Direction: left Preposition: under Landmark: plant ;8;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: pick up Object: water pot From: floor ;9;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: move Direction: opposite Preposition: to Landmark: end table ;7;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: turn on Object: lamp ;6;look_at_obj_in_light-WateringCan-None-DeskLamp-210
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock ;10;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: pick up Object: alarm clock ;11;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: take two steps Direction: right Preposition: in front of Landmark: book with a phone to the left of it ;-1;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: put Object: alarm clock Preposition: on Landmark: left CD ;-1;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: take a step Direction: left Landmark: alarm clock ;-1;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: pick up Object: alarm clock ;11;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: take two steps Direction: right Landmark: book with a phone to the left of it ;-1;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: put Object: alarm clock Location: left CD ;12;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: take a step Direction: left Preposition: in front of Landmark: alarm clock ;10;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: pick up Object: alarm clock ;11;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: take two steps Direction: right Preposition: in front of Landmark: book ;-1;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: put Object: alarm clock Location: left CD ;12;pick_and_place_simple-AlarmClock-None-Desk-307
+Action: move Direction: to face Preposition: the box on the floor Landmark: to the left ;-1;pick_and_place_simple-Box-None-Desk-314
+Action: pick up Object: the box on the floor ;-1;pick_and_place_simple-Box-None-Desk-314
+Action: bring Object: the box To: the desk ;-1;pick_and_place_simple-Box-None-Desk-314
+Action: put Object: the box On: the right side of the desk ;-1;pick_and_place_simple-Box-None-Desk-314
+Action: turn Direction: right Preposition: to face Landmark: table ;-1;pick_and_place_simple-CellPhone-None-Safe-302
+Action: pick up Object: cell phone From: the table ;-1;pick_and_place_simple-CellPhone-None-Safe-302
+Action: turn Direction: right ;13;pick_and_place_simple-CellPhone-None-Safe-302
+Action: open Object: cupboard Preposition: to the left of Landmark: bed ;-1;pick_and_place_simple-CellPhone-None-Safe-302
+Action: turn Direction: left Preposition: and then straight ;-1;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: pick up Object: credit card From: the end table ;14;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: around ;15;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: set Object: credit card To: the couch ;16;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight ;17;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: pick up Object: credit card From: the end table ;14;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: around Preposition: go Landmark: couch ;18;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: set down Object: credit card To: the couch ;-1;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: left Preposition: go Landmark: couch Next Action: straight ;17;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: pick up Object: credit card From: the end table ;14;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: around Preposition: go Landmark: couch ;18;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: set Object: credit card To: the couch ;16;pick_and_place_simple-CreditCard-None-Sofa-220
+Action: turn Direction: around Preposition: cross Landmark: the end of the black table where the keys are ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: pick up Object: keys From: the table ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: go Direction: right Preposition: left Landmark: the couch ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: put down Object: keys On: the couch ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: turn Direction: around Preposition: cross Landmark: black table where the keys are ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: pick up Object: keys From: table ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: go Direction: right, then left Preposition: turn to face Landmark: couch ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: put Object: keys On: couch ;-1;pick_and_place_simple-KeyChain-None-Sofa-217
+Action: turn around Direction: around Preposition: to Landmark: black table ;19;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: knife Location: next to lettuce ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn around Direction: around Preposition: to Landmark: refrigerator ;20;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: cut Object: yellow apple Location: None ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn around Direction: around Preposition: to Landmark: stove ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: knife Location: standing up on pan, top left burner ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: pan with knife in it ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn left Direction: left Preposition: to Landmark: black table ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: pan with knife Location: below potato ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn around Direction: around Preposition: to Landmark: refrigerator ;20;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: yellow apple piece, left Location: None ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn around Direction: around Preposition: to Landmark: black table ;19;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: apple slice Location: on pan, to the left of knife ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: around Preposition: to Landmark: black table ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: knife From: next to lettuce ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: around Preposition: to Landmark: refrigerator ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: cut Object: yellow apple Into: three pieces ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: around ;15;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: knife On: pan on stove's top left burner ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: pan with knife in it From: stove ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: left ;21;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: pan with knife On: table below potato ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: around ;15;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: pick up Object: yellow apple piece to the left From: refrigerator ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: turn Direction: around ;15;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: put Object: apple slice On: pan to the left of knife on it ;-1;pick_and_place_with_movable_recep-AppleSliced-Pan-DiningTable-18
+Action: walk Distance: two steps Direction: left Location: table ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: grab Object: knife Preposition: between Location: very back ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Distance: three steps Direction: right Location: fridge ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: open Object: fridge Preposition: on Location: wine glass in the back ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: close Location: fridge ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: turn Direction: right Distance: four steps Location: table ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: place Object: wine glass Preposition: on Location: table on the left side of the apple ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Distance: two steps Direction: left Landmark: table ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: grab Object: knife in the very back Preposition: between the lettuce and egg ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Distance: three steps Direction: right Landmark: fridge ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: open Object: fridge Preposition: on the wine glass in the back ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: close Object: fridge ;22;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: turn Direction: right Distance: four steps Landmark: table ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: place Object: wine glass on the table on the left side of the apple Preposition: on the left side of the apple ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Distance: two steps Direction: forward Location: None Next Action: turn Next Direction: left Next Location: table ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: grab Object: knife Location: very back Prepositions: ['between'] ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Distance: three steps Direction: forward Next Action: turn Next Direction: right Next Location: fridge ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: open Object: fridge ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: close Object: fridge ;22;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: turn Direction: right ;13;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: place Object: wine glass Location: table, left side of apple ;-1;pick_and_place_with_movable_recep-ButterKnife-Cup-DiningTable-23
+Action: walk Direction: right Preposition: turn Landmark: table ;23;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: fork Location: table ;24;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: turn Direction: right Preposition: walk Landmark: coffee maker ;25;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: fork Location: mug on the coffee maker ;26;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: mug Location: coffee maker ;27;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: step Direction: left Preposition: face Landmark: sink ;28;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: mug and fork Location: sink ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: walk Direction: right Preposition: turn Landmark: table ;23;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: fork From: the table ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: turn Direction: right Preposition: walk Landmark: coffee maker ;25;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: fork Into: mug on the coffee maker ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: mug From: the coffee maker ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: step Direction: left Preposition: face Landmark: sink ;28;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: mug, fork Into: the sink ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: walk Direction: right Preposition: then turn Landmark: table ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: fork Location: table ;24;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: turn Direction: right Preposition: walk forward Landmark: coffee maker ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: fork Location: mug on the coffee maker ;26;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: pick up Object: mug Location: coffee maker ;27;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: step Direction: left Preposition: face Landmark: sink ;28;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: place Object: ['mug', 'fork'] Location: sink ;-1;pick_and_place_with_movable_recep-Fork-Mug-SinkBasin-18
+Action: turn Direction: right Preposition: passed Landmark: refrigerator Location: counter ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: yellow-handled knife Location: counter ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk Direction: back Preposition: in front of Landmark: stove Location: kitchen ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: place Object: knife Location: bowl on stove ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: bowl with knife in it ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk Direction: over Preposition: with Landmark: tomato on white table Location: white table ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: set Object: bowl and knife Location: table next to tomato ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: turn Direction: right Preposition: passed Landmark: refrigerator ;29;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: yellow-handled knife From: the counter ;30;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk To: the kitchen ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: place Object: knife Into: the bowl on the stove ;31;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: bowl with the knife in it ;32;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk To: the white table with the tomato on it ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: set Object: bowl and knife Next to: the tomato ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: turn Direction: right Preposition: passed Landmark: refrigerator ;29;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: yellow-handled knife From: the counter ;30;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk To: the kitchen With: knife Preposition: in front of ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: place Object: knife Into: the bowl on the stove ;31;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: pick up Object: bowl with the knife in it ;32;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: walk With: the bowl and knife To: the white table with the tomato on it ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: set Object: bowl and knife On: the table next to the tomato ;-1;pick_and_place_with_movable_recep-Knife-Pot-DiningTable-24
+Action: turn Direction: left Preposition: to Landmark: pot on the counter to the right of the stove top ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: pick up Object: pot Location: counter ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: put Object: pot Location: sink basin ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: turn Direction: left Preposition: to Landmark: pot on the counter ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: pick up Object: pot From: the counter ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: put Object: pot Into: the sink basin ;-1;pick_and_place_with_movable_recep-Knife-Pot-SinkBasin-1
+Action: take Direction: right Location: None ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: pick up Object: pen Location: in front of you, under the mug ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: put Object: pencil Location: in the mug that was above it ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: pick up Object: mug with the pencil in it Location: None ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: turn Direction: right Location: None ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: put Object: mug Preposition: to the right of Location: phone ;-1;pick_and_place_with_movable_recep-Pen-Mug-Dresser-301
+Action: move Direction: right Preposition: to the left of Location: the sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: spatula Location: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: left Preposition: to the left of Location: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: spatula Preposition: in Location: the pan on the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: pan Location: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: right Preposition: to the sink Location: None ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: pan Preposition: in Location: the sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: right Preposition: to the left of Landmark: the sink ;34;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: spatula From: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: left Preposition: to the left of Landmark: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: spatula Into: pan on the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: pan From: the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: right Preposition: to the sink Landmark: the sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: pan Into: the sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: right Preposition: to the left of Landmark: sink ;34;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: spatula Location: table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: left Preposition: None Landmark: None ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: spatula Location: pan on the table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: pick up Object: pan Location: table ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: move Direction: right Preposition: to the sink Landmark: sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: place Object: pan Location: sink ;-1;pick_and_place_with_movable_recep-Spatula-Pan-SinkBasin-4
+Action: go forward Direction: to the large white table Preposition: on the other side of the room ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: pick up Object: knife that is on the table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: face the small black table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: use Object: knife to slice the pear From: the table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: go to the section of counter that is on the left of the sink ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: stick Object: knife directly in front of the salt shaker ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: left Preposition: return to the small black table ;35;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: pick up Object: slice of the pear ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: go to the sink ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: place Object: pear in the sink From: the counter ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: left Preposition: return to the small black table ;35;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: place Object: pear slice back on the small table From: the sink ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: go forward Direction: left Preposition: to Landmark: large white table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: pick up Object: knife From: table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: to Landmark: small black table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: use Object: knife From: table Preposition: to ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: to Landmark: section of counter ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: directly in front of Object: salt shaker ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: left Preposition: to Landmark: small black table ;36;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: pick up Object: slice of pear ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: place Object: pear In: sink ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: turn Direction: left Preposition: to Landmark: small black table ;36;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: place Object: pear slice On: small black table ;-1;pick_clean_then_place_in_recep-AppleSliced-None-SideTable-21
+Action: walk Direction: behind you Preposition: to Landmark: kitchen counter ;-1;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: grab Object: middle sponge From: counter ;37;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: walk Direction: left Preposition: to Landmark: kitchen sink ;38;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: take Object: sponge From: sink ;39;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: walk Direction: left Preposition: to Landmark: kitchen counter ;40;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: put Object: sponge Into: bottom drawer ;41;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: walk Direction: behind Preposition: to Landmark: kitchen counter ;-1;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: grab Object: middle sponge From: counter ;37;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: walk Direction: left Preposition: to Landmark: kitchen sink ;38;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: take Object: sponge From: sink ;39;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: walk Direction: left Preposition: to Landmark: kitchen counter ;40;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: put Object: sponge Into: bottom drawer ;41;pick_clean_then_place_in_recep-DishSponge-None-Drawer-430
+Action: veer Direction: left Preposition: to Landmark: stove ;42;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: pick up Object: leftmost kettle From: stove ;43;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: rinse off Object: kettle From: sink ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: take a step Direction: right ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: near Preposition: corner Landmark: counter ;44;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: veer Direction: left Preposition: to Landmark: stove ;42;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: pick up Object: leftmost kettle From: stove ;43;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: rinse Object: kettle From: sink ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: take Direction: right Preposition: step ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: near Preposition: corner Landmark: counter ;44;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: veer Direction: left Preposition: None Landmark: stove ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: pick up Object: leftmost kettle Location: stove ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: turn Direction: right Preposition: None Landmark: sink ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: rinse Object: kettle Location: sink ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: take Direction: right Preposition: None Landmark: None ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: place Object: kettle Location: near the corner of the counter ;-1;pick_clean_then_place_in_recep-Kettle-None-Cabinet-2
+Action: turn Direction: around Preposition: to Landmark: stove ;45;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: take Object: pan nearest to you Location: stove ;-1;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: to your right Preposition: to Landmark: sink ;46;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: fill Object: pan Location: sink ;47;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: around Preposition: to Landmark: table ;48;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: place Object: pan Location: center of the table ;49;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: around Preposition: to Landmark: stove ;45;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: take Object: pan nearest to you From: the stove ;-1;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: to your right Preposition: to Landmark: sink ;46;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: fill Object: pan in the sink With: water ;-1;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: around Preposition: to Landmark: table ;48;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: place Object: pan on the center of the table ;-1;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: around Preposition: to Landmark: stove ;45;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: take Object: pan Location: stove ;-1;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: right Preposition: to Landmark: sink ;33;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: fill Object: pan Location: sink ;47;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: around Preposition: to Landmark: table ;48;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: place Object: pan Location: center of the table ;49;pick_clean_then_place_in_recep-Pot-None-DiningTable-26
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks ;50;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: pick up Object: pink soap From: the counter ;51;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: move Direction: right Preposition: face Landmark: sink to the right ;52;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: turn Off: the water Object: soap ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: look Direction: slightly lower Landmark: cabinet below the sink ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: close Object: cabinet door ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: turn Direction: left Preposition: face Landmark: counter in between the sinks ;50;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: pick up Object: pink soap From: the counter ;51;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: move Direction: right Preposition: face Landmark: sink to the right ;52;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: turn off Off: the water ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: look Direction: slightly lower To: the cabinet below the sink ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: close Door: cabinet door ;-1;pick_clean_then_place_in_recep-SoapBar-None-Cabinet-403
+Action: look down Object: gray bin From: next to the toilet ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: pick up Object: bar of soap From: inside the gray bin ;53;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity ;54;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: rinse For: a few seconds Object: bar of soap Back To: pick it back up ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: turn Direction: around Preposition: to Landmark: left sink on the vanity counter ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle ;55;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: look down Direction: down Preposition: at Landmark: gray bin ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: pick up Object: bar of soap From: inside the gray bin ;53;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: turn Direction: left Preposition: to Landmark: middle of the vanity ;54;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: rinse For: a few seconds Object: bar of soap Back: pick it back up ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: turn Direction: around Preposition: to Landmark: left sink ;-1;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: put Object: rinsed bar of soap To: right of the left sink Preposition: next to Landmark: candle ;55;pick_clean_then_place_in_recep-SoapBar-None-CounterTop-416
+Action: turn Direction: around Preposition: to Landmark: left ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: pick up Object: bar of soap From: counter ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: move Direction: closer Preposition: to ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: rinse Object: soap From: basin ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: right Direction: drawer Preposition: on ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: Place Object: soap From: INSIDE ;-1;pick_clean_then_place_in_recep-SoapBar-None-Drawer-409
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter ;56;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: pick up Object: spatula Location: counter ;57;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink ;58;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: wash Object: spatula Location: sink Action2: pick up ;59;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: left Preposition: over Landmark: counter ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: put down Object: spatula Location: counter Preposition: to the right ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: forward and right Preposition: just left of Landmark: kitchen counter ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: pick up Object: spatula From: the counter ;60;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn left Direction: left Preposition: walk to Landmark: kitchen sink ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: wash Object: spatula Location: under water in the sink ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: over to Preposition: just left of Landmark: counter ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: put down Object: spatula Location: just to the right of the sink ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter ;56;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: pick up Object: spatula From: the counter ;60;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink ;58;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: wash Object: spatula From: the sink ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: over Preposition: left Landmark: counter ;61;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: put down Object: spatula From: the hand ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter ;56;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: pick up Object: spatula Location: counter ;57;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink ;58;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: wash Object: spatula Preposition: under water Location: sink Action2: pick up ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: over Preposition: left Landmark: counter ;61;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: put down Object: spatula Preposition: just to the right Location: counter ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: forward Preposition: right Landmark: kitchen counter Location: just left of the fridge ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: pick up Object: spatula Location: counter ;57;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn Direction: left Preposition: walk Landmark: kitchen sink ;58;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: wash Object: spatula Location: sink Action2: pick up ;59;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: walk Direction: over Preposition: just left Landmark: counter ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: put down Object: spatula Location: counter Preposition: just to the right ;-1;pick_clean_then_place_in_recep-Spatula-None-CounterTop-19
+Action: turn Direction: right Preposition: twice Landmark: counter top ;62;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: pick up Object: spoon From: counter top ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: left Preposition: twice Landmark: sink ;63;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: put Object: spoon To: sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: right ;13;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: open Object: drawer ;64;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: right Location: counter top ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: pick up Object: spoon Location: counter top ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: left Location: sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: put Object: spoon Location: sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: right ;13;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: open Object: drawer ;64;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: right Preposition: twice Landmark: counter top ;62;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: pick up Object: spoon From: the counter top ;65;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: left Preposition: twice Landmark: sink ;63;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: put Object: spoon Into: the sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: right ;13;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: open Object: drawer ;64;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: to the right Preposition: twice Landmark: counter top ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: pick up Object: spoon From: the counter top ;65;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: to the left Preposition: twice Landmark: sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: put Object: spoon To: the sink ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: turn Direction: to the right ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: open Object: the drawer Preposition: it ;-1;pick_clean_then_place_in_recep-Spoon-None-Drawer-5
+Action: walk Direction: right Preposition: to Landmark: kitchen counter ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: grab Object: apple Location: counter ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: go Direction: left Preposition: to Landmark: fridge ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: take out Object: apple Location: fridge ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: walk Direction: behind Preposition: to Landmark: kitchen sink ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: put Object: apple Location: microwave above sink ;-1;pick_cool_then_place_in_recep-Apple-None-Microwave-12
+Action: turn Direction: right Preposition: walk to Landmark: counter by the coffee maker and toaster ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: pick up Object: knife From: the counter ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: left Preposition: walk to Landmark: microwave ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: open Object: microwave From: the microwave ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator ;66;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: open Object: refrigerator From: the refrigerator ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: walk Direction: back Preposition: to Landmark: microwave ;67;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: take Object: piece of apple From: out of the microwave ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: around Preposition: walk to Landmark: refrigerator ;66;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: set Object: apple From: inside the refrigerator ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: around Preposition: walk across the room ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: put Object: apple From: out of the refrigerator ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: right Preposition: walk Landmark: counter ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: pick up Object: knife From: counter ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: left Preposition: walk Landmark: microwave ;68;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: open Object: microwave From: microwave ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: around Preposition: walk Landmark: refrigerator ;69;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: open Object: refrigerator From: refrigerator ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: walk Direction: back Preposition: to Landmark: microwave ;67;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: take Object: piece From: microwave ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: around Preposition: walk Landmark: refrigerator ;69;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: set Object: apple From: refrigerator ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: left Preposition: walk Landmark: wall ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: put Object: apple From: hand ;-1;pick_cool_then_place_in_recep-AppleSliced-None-GarbageCan-14
+Action: turn Direction: left Preposition: move Landmark: white table ;70;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: sharp knife Location: white table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: use Object: knife Preposition: slice Location: head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: which Preposition: is Location: left ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: knife Preposition: on Location: top shelf of the fridge ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right Preposition: move back Location: table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: piece of lettuce Location: table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: left Preposition: carry Location: slice of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: remove Object: lettuce Preposition: after a couple seconds ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right Preposition: carry Location: lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: cold lettuce slice Preposition: on Location: table in front of the rest of the head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: left Preposition: move Landmark: white table ;70;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: sharp knife From: the white table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: use Object: knife To: slice the head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: left Preposition: to ;71;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: knife On: the top shelf of the fridge ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right Preposition: move back ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: a piece of lettuce From: the table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: left ;21;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: remove Object: the lettuce After: a couple seconds ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right ;13;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: the cold lettuce slice On: the table in front of the rest of the head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: left Preposition: move Landmark: white table ;70;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: sharp knife From: white table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: use Object: knife Preposition: slice Landmark: head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: left Preposition: to ;71;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: knife On: top shelf of the frige ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right Preposition: move back Landmark: table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: pick up Object: piece of lettuce From: table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: left Preposition: carry Object: slice of lettuce To: fridge ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: remove Object: lettuce After: a couple of seconds ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: turn Direction: right Preposition: carry Object: lettuce To: table ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: place Object: cold lettuce slice On: table In Front Of: rest of the head of lettuce ;-1;pick_cool_then_place_in_recep-LettuceSliced-None-DiningTable-17
+Action: walk Direction: around Preposition: to Landmark: coffee maker ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: pick up Object: coffee mug ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: turn Direction: around Preposition: to Landmark: fridge ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: take out Object: mug Location: fridge ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: go back to Landmark: coffee maker ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: put Object: mug Location: coffee maker ;-1;pick_cool_then_place_in_recep-Mug-None-CoffeeMachine-30
+Action: turn Direction: right Preposition: and Landmark: stove ;72;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: pick up Object: black pan Location: fridge ;73;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk Direction: back Location: fridge ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: remove Object: pan Location: stove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk Direction: back Location: stove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: place Object: pan Location: front left burner ;74;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: turn Direction: right Preposition: and Location: stove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: pick up Object: black pan Location: fridge ;73;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk Location: fridge ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: remove Object: pan ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk Location: stove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: place Object: pan Location: front left burner ;74;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: turn Direction: right Preposition: and Landmark: stove ;72;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: pick up Object: black pan From: fridge ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk To: fridge ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: remove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: walk To: stove ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: place Object: pan On: front left burner ;-1;pick_cool_then_place_in_recep-Pan-None-StoveBurner-26
+Action: turn Direction: around Preposition: move Landmark: kitchen sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: sharp knife From: the counter in front of the sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: around Preposition: carry Landmark: round table ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: use Object: knife Preposition: slice Landmark: potato on the table ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: head Direction: right Preposition: to the fridge ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: knife Preposition: on the top shelf Landmark: next to the tomato ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: right Preposition: return Landmark: the sliced potato on the table ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: slice of potato From: the table ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: left Preposition: to carry Landmark: the fridge ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: open Object: the door Preposition: to remove Landmark: it after a few seconds ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: carry Object: the potato slice Preposition: to the kitchen sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: the slice of potato Preposition: in the sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: around Preposition: to Landmark: kitchen sink ;75;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: sharp knife From: counter in front of the sink ;76;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: around Preposition: to Landmark: round table ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: use Object: knife To: slice the potato on the table ;77;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: head Direction: right To: fridge ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: knife To: fridge on the top shelf next to the tomato ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: right ;13;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: slice of potato From: table ;78;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: left To: fridge ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: open Object: door ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: carry Object: potato slice To: kitchen sink ;79;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: slice of potato Into: sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: around Preposition: to Landmark: kitchen sink ;75;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: sharp knife From: counter in front of the sink ;76;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: around Preposition: to Landmark: round table Object: knife ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: use Object: knife To: slice the potato on the table ;77;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: head Direction: right Preposition: to Landmark: fridge ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: knife In: fridge On: top shelf Next to: tomato ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: right Preposition: to Landmark: table Object: sliced potato ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: pick up Object: slice of potato From: table ;78;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: turn Direction: left Preposition: to Landmark: fridge Object: potato slice ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: open Object: door To: remove ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: carry Object: potato slice To: kitchen sink ;79;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: place Object: slice of potato In: sink ;-1;pick_cool_then_place_in_recep-PotatoSliced-None-SinkBasin-19
+Action: move Direction: right Preposition: side Landmark: sink ;80;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: pick up Object: tomato ;81;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: turn Direction: right Preposition: to Landmark: fridge ;82;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: drop Object: tomato To: fridge ;-1;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: turn Direction: around Preposition: to Landmark: coffee maker ;83;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: drop Object: tomato To: front of coffee maker ;-1;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: move Direction: right Preposition: side Landmark: sink ;80;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: pick up Object: tomato ;81;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: turn Direction: right Preposition: to Landmark: fridge ;82;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: drop Object: tomato Into: fridge ;-1;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: turn Direction: around Preposition: to Landmark: coffee maker ;83;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: move Direction: left ;-1;pick_cool_then_place_in_recep-Tomato-None-CounterTop-11
+Action: then turn Direction: left Preposition: face Landmark: kitchen island ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: to the right Preposition: of Landmark: the loaf of bread ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: adjacent Preposition: to Landmark: the fridge ;84;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: slice Object: the tomato From: the counter ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go Direction: left Preposition: to ;85;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: on Preposition: bottom Landmark: shelf ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: adjacent Preposition: to Landmark: the fridge ;84;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: pick up Object: a slice of tomato From: the counter ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go Direction: left Preposition: to ;85;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: chill Object: the tomato slice Into: the fridge ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: then turn Direction: right Preposition: to face Landmark: the trash bin ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: put Object: the tomato slice Into: the trash bin ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: turn Direction: left Landmark: kitchen island ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: move Direction: right Landmark: loaf of bread ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: move Direction: adjacent Landmark: fridge ;86;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: slice Object: tomato Location: counter ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go Direction: left Landmark: fridge ;87;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: put Object: knife Location: bottom shelf ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: move Direction: adjacent Landmark: fridge ;86;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: pick up Object: slice of tomato Location: counter ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go Direction: left Landmark: fridge ;87;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: chill Object: tomato slice Location: fridge ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: turn Direction: right Landmark: trash bin ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: put Object: tomato slice Location: trash bin ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: turn Direction: left Preposition: face Landmark: kitchen island ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: pick up Object: loaf of bread From: right ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent ;88;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: slice On: counter Object: tomato ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go To: fridge Preposition: to Location: left ;89;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: put On: bottom shelf Object: knife ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: place Adjective: adjacent Preposition: to Object: fridge Location: adjacent ;88;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: pick up Object: slice From: counter ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: go To: fridge Preposition: to Location: left ;89;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: chill In: fridge Object: tomato slice ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: turn Direction: right Preposition: face Landmark: trash bin ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: put Into: trash bin Object: tomato slice ;-1;pick_cool_then_place_in_recep-TomatoSliced-None-GarbageCan-30
+Action: walk Direction: face Preposition: sink ;90;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: pick up Object: white egg From: ledge in front of sink ;91;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: face Preposition: microwave ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: remove Object: egg From: microwave ;92;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: face Preposition: sink ;90;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: place Object: egg Into: sink basin ;93;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: face Preposition: sink Location: None ;94;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: pick up Object: white egg Location: ledge in front of sink ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: face Preposition: microwave Location: None ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: remove Object: egg Location: microwave ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: face Preposition: sink Location: None ;94;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: place Object: egg Location: sink basin ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: to Preposition: face Landmark: sink ;95;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: pick up Object: white egg From: ledge in front of sink ;91;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: to Preposition: face Landmark: microwave ;-1;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: remove Object: egg From: microwave ;92;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: walk Direction: to Preposition: face Landmark: sink ;95;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: place Object: egg Into: sink basin ;93;pick_heat_then_place_in_recep-Egg-None-SinkBasin-20
+Action: turn Direction: left Preposition: up Landmark: fridge ;96;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: open Object: white mug From: the fridge ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: right Preposition: over Landmark: microwave ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: heat Object: mug From: the microwave ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: left Preposition: past Landmark: wooden shelf ;97;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: put Object: mug On: the top shelf ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: left Preposition: up Landmark: fridge ;96;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: open Object: white mug From: fridge ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: right Preposition: to Landmark: microwave ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: heat Object: mug From: microwave ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: left Preposition: past Landmark: wooden shelf ;97;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: put Object: mug On: top shelf ;-1;pick_heat_then_place_in_recep-Mug-None-Shelf-5
+Action: turn Direction: right Preposition: over Landmark: kitchen counter ;98;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: pick up Object: potato From: kitchen counter ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: turn Direction: around Preposition: over Landmark: kitchen sink ;99;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: place Object: potato From: kitchen sink Into: microwave ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: turn Direction: around Preposition: over Landmark: fridge ;100;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: place Object: potato From: kitchen sink Into: fridge Preposition: right ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: turn Direction: right Preposition: over Landmark: kitchen counter ;98;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: pick up Object: potato From: the kitchen counter ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: turn Direction: around Preposition: over Landmark: kitchen sink ;99;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: place Object: potato Into: the microwave above the kitchen sink ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: turn Direction: around Preposition: over Landmark: fridge ;100;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: place Object: potato Into: the fridge to the right of the lettuce ;-1;pick_heat_then_place_in_recep-Potato-None-Fridge-12
+Action: move Direction: left Preposition: to Landmark: table ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: pick up Object: potato From: the table ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: turn Direction: around Preposition: head Landmark: microwave ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: cook Object: potato In: the microwave ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: turn Direction: around Preposition: head Landmark: sink ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: place Object: potato In: the sink ;-1;pick_heat_then_place_in_recep-Potato-None-SinkBasin-30
+Action: move Direction: forward Landmark: sink ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: pick up Object: knife Location: sink ;101;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: turn Direction: around Landmark: table ;102;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: slice Object: potato Location: table ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: turn Direction: around Landmark: shelf under the sink ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: place Object: knife Location: shelf ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: turn Direction: around Landmark: table ;102;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: pick up Object: potato slice Location: table ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: turn Direction: left Landmark: oven ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: cook Object: potato Location: oven ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: move Direction: right Landmark: fridge ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: place Object: potato Location: fridge ;-1;pick_heat_then_place_in_recep-PotatoSliced-None-Fridge-20
+Action: turn Direction: left Preposition: walk Landmark: the small white table ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: pick up Object: tomato From: the table ;103;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: left Preposition: walk Landmark: the microwave ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: close Object: microwave door ;104;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: right Preposition: walk To: the end of the kitchen counter ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: put Object: heated tomato On: the counter in front and to the right of the plastic container ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: left Preposition: walk Landmark: small white table ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: pick up Object: tomato From: table ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: left Preposition: walk Landmark: microwave ;68;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: close Object: door ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: right Preposition: walk Landmark: end of the kitchen counter ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: put Object: heated tomato Into: counter Location: in front and to the right of the plastic container ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: left Preposition: walk up to Landmark: small white table ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: pick up Object: tomato From: the table ;103;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: left Preposition: walk over to Landmark: microwave ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: close Object: microwave door ;104;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: right Preposition: walk across the room to Landmark: end of the kitchen counter ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: put Object: heated tomato Into: the counter in front and to the right of the plastic container ;-1;pick_heat_then_place_in_recep-Tomato-None-CounterTop-26
+Action: turn Direction: right Preposition: face Landmark: counter next to the sink in front of you ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: take Object: candle From: sink in front of you ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: left Preposition: face Landmark: cabinets to your right ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: place Object: candle To: cabinet under the sink in front of you Preposition: close ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: left Preposition: face Landmark: toilet to your right ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: take Object: candle From: top of the toilet in front of you ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: right Preposition: face Landmark: cabinet under the sink to your left ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: put Object: candle To: cabinet in front of you Preposition: close ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: right Preposition: face Landmark: counter ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: take Object: candle From: sink ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: left Preposition: face Landmark: cabinets ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: place Object: candle To: cabinet ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: left ;21;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: take Object: candle From: toilet ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: right ;13;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: put Object: candle To: cabinet ;-1;pick_two_obj_and_place-Candle-None-Cabinet-414
+Action: turn Direction: right Preposition: over Landmark: bath tub ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: grab Object: sponge From: the bath tub ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: around Preposition: over Landmark: towel cart ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: place Object: sponge On: top of the towel cart ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: right Preposition: over Landmark: the toilet ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: grab Object: sponge From: the top of the toilet ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: around Preposition: over Landmark: the towel cart ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: place Object: sponge On: top of the towel rack ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: right Preposition: over Location: bath tub ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: grab Object: sponge Location: bath tub ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: around Preposition: over Location: towel cart ;105;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: place Object: sponge Location: towel cart ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: right Preposition: over Location: toilet ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: grab Object: sponge Location: top of the toilet ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: turn Direction: around Preposition: over Location: towel cart ;105;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: place Object: sponge Preposition: next to Location: towel rack ;-1;pick_two_obj_and_place-DishSponge-None-Cart-401
+Action: face Preposition: the island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: the lettuce closest to the hand From: the island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: walk towards Object: the refrigerator ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go To: the island ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: the lettuce on the island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go To: the refrigerator ;107;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go To: the counter to the right of the stove ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: pick up Object: the knife to the right of the pot on the counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go To: the refrigerator ;107;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: face Location: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce closest to the hand on the island counter ;108;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: walk Location: towards the refrigerator ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Location: island ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce on the island counter ;110;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Location: refrigerator ;111;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Location: counter to the right of the stove ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: pick up Object: knife to the right of the pot on the counter ;112;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Location: refrigerator ;111;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: face Preposition: the Landmark: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: the lettuce closest to the hand on the island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: walk Preposition: towards Landmark: the refrigerator ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: the island ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: the lettuce Preposition: on Location: the island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: the refrigerator ;113;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: the counter to the right of the stove ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: pick up Object: the knife Preposition: to the right of Location: the pot on the counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: the refrigerator ;113;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: the refrigerator ;106;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: face Direction: None Preposition: counter Landmark: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce closest to the hand Location: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: walk Direction: None Preposition: towards Landmark: refrigerator ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator Location: None ;114;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Object: island Location: None ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce on the island counter Location: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Object: refrigerator Location: None ;115;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator Location: None ;114;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Object: counter to the right of the stove Location: None ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: pick up Object: knife to the right of the pot on the counter Location: counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Object: refrigerator Location: None ;115;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator Location: None ;114;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: face Direction: island counter ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce closest to the hand on the island counter ;108;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: walk Preposition: towards Landmark: refrigerator ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: island ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: take Object: lettuce on the island counter ;110;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: refrigerator ;116;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: counter to the right of the stove ;-1;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: pick up Object: knife to the right of the pot on the counter ;112;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: go Preposition: to Landmark: refrigerator ;116;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: close Object: refrigerator ;109;pick_two_obj_and_place-LettuceSliced-None-Fridge-1
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet ;117;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: top pencil From: table ;118;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk To: room Preposition: face Landmark: table ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil On: table ;119;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: turn Direction: right Preposition: walk across Landmark: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: pencil laying From: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk across To: room Preposition: face Landmark: table ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil On: table ;119;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: take Direction: two steps Preposition: turn left Location: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: top pencil Location: table ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk Location: room Preposition: face Landmark: table ;120;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil Location: table ;121;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: turn Direction: right Preposition: walk Landmark: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: pencil Location: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk Location: room Preposition: face Landmark: table ;120;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil Location: table ;121;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: turn Direction: left Preposition: walk forward Landmark: cabinet ;117;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: top pencil From: table ;118;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk Preposition: across the room Landmark: table ;122;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil On: table ;119;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: turn Direction: right Preposition: walk forward Landmark: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: pick up Object: pencil From: cabinet ;-1;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: walk Preposition: across the room Landmark: table ;122;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: place Object: pencil On: table ;119;pick_two_obj_and_place-Pencil-None-Desk-314
+Action: go Direction: to the counter Location: counter ;123;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: corner of the counter on the left ;124;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: go Direction: across the room Location: room ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: counter ;125;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Location: sink ;126;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink, to the right of the apple ;127;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: left Location: counter ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: None ;128;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Location: sink ;126;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink, in front of the apple ;129;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: sink ;101;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: fridge ;130;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: second shelf in the fridge ;131;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: sink ;132;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink, to the right of the apple ;127;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: fridge ;130;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: fridge ;133;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: sink ;132;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink, in front of the apple ;129;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: go Direction: to the counter Location: counter ;123;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: corner of the counter on the left ;124;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: go Distance: across the room Location: room ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: counter ;125;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Location: room ;134;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink Direction: right Landmark: apple ;135;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: left Location: room ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: None ;128;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Location: room ;134;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple ;136;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: sink ;101;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: None ;137;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: second shelf in the fridge ;131;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: None ;137;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink Direction: right Landmark: apple ;135;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: None ;137;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: fridge ;133;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: around Location: None ;137;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink Direction: in front of Landmark: apple ;136;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: go Direction: to the counter Preposition: towards Location: counter ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: corner of the counter on the left ;124;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: go Direction: across the room Preposition: towards Location: counter ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: counter ;125;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Preposition: None Location: sink ;138;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink, to the right of the apple ;127;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: left Preposition: None Location: counter ;-1;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: None ;128;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: right Preposition: None Location: sink ;138;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink, in front of the apple ;129;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: knife Location: sink ;101;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: None Preposition: around Location: fridge ;139;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: cut Object: potato Location: second shelf in the fridge ;131;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: None Preposition: around Location: sink ;140;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: knife Location: sink, to the right of the apple ;127;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: None Preposition: around Location: fridge ;139;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: pick up Object: slice of potato Location: fridge ;133;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: turn Direction: None Preposition: around Location: sink ;140;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: put Object: slice of potato Location: sink, in front of the apple ;129;pick_two_obj_and_place-PotatoSliced-None-SinkBasin-13
+Action: move Direction: closest to Preposition: window Landmark: arm chair ;-1;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: arm chair ;141;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: center of the room Preposition: coffee table ;142;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: coffee table ;143;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: ahead of you Preposition: TV stand ;-1;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: stand ;144;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: center of the room Preposition: coffee table ;142;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: coffee table ;143;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the arm chair Preposition: closest to the window ;145;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: arm chair ;141;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table Preposition: in the center of the room ;146;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: coffee table ;143;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the TV stand Preposition: ahead of you ;147;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: stand ;144;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table Preposition: in the center of the room ;146;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: coffee table ;143;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the arm chair Preposition: closest to the window ;145;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: the arm chair ;148;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table Preposition: in the center of the room ;146;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: the coffee table ;149;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the TV stand Preposition: ahead of you ;147;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: the stand ;150;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table Preposition: in the center of the room ;146;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: the coffee table ;149;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the arm chair closest to the window Preposition: closest to the window ;-1;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: the arm chair ;148;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room ;151;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: the coffee table ;149;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the TV stand ahead of you Preposition: ahead of you ;-1;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: pick up Object: remote From: the stand ;150;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: move Direction: to the coffee table in the center of the room Preposition: in the center of the room ;151;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: place Object: remote On: the coffee table ;149;pick_two_obj_and_place-RemoteControl-None-CoffeeTable-202
+Action: turn Direction: left Preposition: towards Landmark: purple armchair ;152;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote From: the armchair ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: back Preposition: to face Landmark: foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote On: the purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: again Preposition: towards Landmark: coffee table ;153;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote From: the coffee table ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: walk Direction: around Preposition: to Landmark: purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Next to: the first remote On: the purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: left Preposition: towards Landmark: purple armchair ;152;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote From: armchair ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: back Preposition: face Landmark: footrest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote On: purple footrest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: again Preposition: towards Landmark: coffee table ;153;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote From: coffee table ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: walk Direction: around Preposition: to Landmark: purple footrest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Next to: first remote On: purple footrest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: left Preposition: towards Landmark: purple armchair ;152;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: armchair ;154;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: back Preposition: face Landmark: foot rest ;155;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: purple foot rest ;156;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: again Preposition: towards Landmark: coffee table ;153;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: coffee table ;157;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: walk Preposition: around Object: table Location: purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: next to ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: left Preposition: towards Landmark: purple armchair ;152;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: armchair ;154;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: back Preposition: face Landmark: foot rest ;155;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: purple foot rest ;156;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: again Preposition: towards Landmark: coffee table ;153;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: coffee table ;157;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: walk Preposition: around Landmark: purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: next to Preposition: on Landmark: first remote ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: left Preposition: towards Landmark: purple armchair ;152;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: armchair ;154;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Preposition: back to Landmark: foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: purple foot rest ;156;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Preposition: again towards Landmark: coffee table ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: pick up Object: remote Location: coffee table ;157;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: walk Preposition: around the table to Landmark: purple foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: place Object: remote Location: first remote on the foot rest ;-1;pick_two_obj_and_place-RemoteControl-None-Ottoman-203
+Action: turn Direction: left Preposition: face Landmark: sink ;158;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: open Object: bottom right cabinet From: the wall ;159;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: hold Object: soap From: the bottom right cabinet ;-1;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: place Object: soap From: hand ;160;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: step Direction: left Preposition: of Landmark: bath tub ;-1;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: pick up Object: bar of soap From: the edge ;161;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: hold Object: soap From: hand ;-1;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: place Object: soap From: hand ;160;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: turn Direction: left Preposition: face Landmark: sink ;158;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: open Object: bottom right cabinet From: the wall ;159;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: hold Object: soap ;162;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: place Object: soap From: hand ;160;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: step Direction: left Preposition: to Landmark: bath tub ;-1;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: pick up Object: bar of soap From: the edge ;161;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: hold Object: soap ;162;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: turn Direction: right Preposition: to Landmark: other soap ;-1;pick_two_obj_and_place-SoapBar-None-BathtubBasin-405
+Action: look up ;163;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: take Object: purple spray bottle From: cabinet above the toilet ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: go backwards Direction: while facing towards the blue bin ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: put Object: spray bottle To: left side of the toilet tank ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: look up ;163;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: take Object: purple spray bottle From: cabinet above the toilet that is first from the right ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: turn Preposition: face Landmark: blue bin ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: put Object: spray bottle To: center of the toilet tank ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: look up ;163;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: take Object: purple spray bottle Location: cabinet above the toilet ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: go Direction: backwards Preposition: while facing towards Landmark: blue bin ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: put Object: spray bottle Location: left side of the toilet tank ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: look Preposition: up ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: take Object: purple spray bottle Location: cabinet above first from the right ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: put Object: purple spray bottle Location: blue bin ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: put Object: spray bottle Location: center of the toilet tank ;-1;pick_two_obj_and_place-SprayBottle-None-Toilet-405
+Action: move Direction: over Preposition: to Landmark: the toilet ;164;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: pick up Object: empty toilet paper roll From: the floor ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: bring Object: empty toilet paper roll To: the sink ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: put Object: empty toilet paper roll On: the counter between the sinks ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: move Direction: over Preposition: to Landmark: the toilet ;164;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: pick up Object: toilet paper From: the toilet tank lid ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: bring Object: toilet paper To: the counter ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: put Object: toilet paper On: the counter next to soap ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: move Direction: over Preposition: to Landmark: toilet ;165;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: pick up Object: empty toilet paper roll Location: floor ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: bring Object: empty toilet paper roll Preposition: to Landmark: sink ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: put Object: empty toilet paper roll Preposition: on Landmark: counter between the sinks ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: move Direction: over Preposition: to Landmark: toilet ;165;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: pick up Object: toilet paper Location: toilet tank lid ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: bring Object: toilet paper Preposition: over Landmark: counter ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: put Object: toilet paper Preposition: on Landmark: counter next to soap ;-1;pick_two_obj_and_place-ToiletPaper-None-CounterTop-417
+Action: turn Direction: right Preposition: to Landmark: cabinet above the toilet ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: take Object: roll of toilet paper Location: cabinet above the sink ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: None Preposition: around Landmark: garbage can ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: put Object: roll of toilet paper Location: back of the toilet ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: right Preposition: to Landmark: counter ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: pick up Object: empty toilet paper roll Location: counter ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: None Preposition: around Landmark: counter ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: put Object: empty toilet paper roll Location: back of the toilet ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: right ;13;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: take Object: roll of toilet paper From: cabinet above the sink ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: around ;15;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: put On: back of the toilet ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: right ;13;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: pick up Object: empty toilet paper roll From: counter ;-1;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: around ;15;pick_two_obj_and_place-ToiletPaper-None-Toilet-405
+Action: turn Direction: left ;21;pick_two_obj_and_place-ToiletPaper-None-Toilet-405

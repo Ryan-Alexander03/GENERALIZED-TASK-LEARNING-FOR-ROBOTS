@@ -1,0 +1,45 @@
+{"sentences":[
+{"sentence":
+{
+          "Action": "take",
+          "Direction": "right",
+          "Location": null
+       }
+}, 
+{"sentence":
+{
+          "Action": "pick up",
+          "Object": "pen",
+          "Location": "in front of you, under the mug"
+       }
+}, 
+{"sentence":
+{
+          "Action": "put",
+          "Object": "pencil",
+          "Location": "in the mug that was above it"
+       }
+}, 
+{"sentence":
+{
+          "Action": "pick up",
+          "Object": "mug with the pencil in it",
+          "Location": null
+       }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "right",
+          "Location": null
+       }
+}, 
+{"sentence":
+{
+          "Action": "put",
+          "Object": "mug",
+          "Preposition": "to the right of",
+          "Location": "phone"
+       }
+} 
+]}

@@ -1,0 +1,69 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "over",
+      "Location": "bath tub"
+     }
+}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "sponge",
+      "Location": "bath tub"
+     }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "over",
+      "Location": "towel cart"
+     }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "sponge",
+      "Location": "towel cart"
+     }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Location": "end of the room"
+     }, 
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "over",
+      "Location": "toilet"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "grab",
+      "Object": "sponge",
+      "Location": "top of the toilet"
+     }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "over",
+      "Location": "towel cart"
+     }
+}, 
+{"sentence":
+{
+      "Action": "place",
+      "Object": "sponge",
+      "Preposition": "next to",
+      "Location": "towel rack"
+     }
+} 
+]}

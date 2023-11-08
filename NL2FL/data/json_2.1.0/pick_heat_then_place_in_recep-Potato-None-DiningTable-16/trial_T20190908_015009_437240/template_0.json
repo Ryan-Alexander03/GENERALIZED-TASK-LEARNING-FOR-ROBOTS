@@ -1,0 +1,44 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "move forward",
+            "Direction": "towards",
+            "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "potato",
+            "Location": "by the sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn around",
+            "Direction": "head",
+            "Landmark": "oven"
+        }
+}, 
+{"sentence":
+{
+            "Action": "place",
+            "Object": "potato",
+            "Location": "in the oven"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn around",
+            "Direction": "towards",
+            "Landmark": "table"
+        }
+}, 
+{"sentence":
+{
+            "Action": "place",
+            "Object": "potato",
+            "Location": "on the table"
+        }
+} 
+]}

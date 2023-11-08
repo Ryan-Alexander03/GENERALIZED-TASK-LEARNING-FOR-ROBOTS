@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "towards",
+      "Preposition": "beside",
+      "Landmark": "nightstand"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "cd sitting on the nightstand",
+      "From": "the nightstand"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "to",
+      "Landmark": "desk"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn on",
+      "Object": "light",
+      "From": ""
+    }
+} 
+]}

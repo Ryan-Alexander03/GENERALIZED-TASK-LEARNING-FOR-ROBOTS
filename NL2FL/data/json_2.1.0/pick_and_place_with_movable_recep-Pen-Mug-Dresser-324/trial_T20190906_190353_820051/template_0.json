@@ -1,0 +1,54 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "move to the front of",
+"Landmark": "dresser drawers"
+   }
+}, 
+{"sentence":
+{
+"Action": "grab",
+"Object": "pen",
+"Location": "top of the dresser"
+   }
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "move to the",
+"Landmark": "smaller brown cabinet"
+   }
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "pen",
+"Location": "cup on the cabinet"
+   }
+}, 
+{"sentence":
+{
+"Action": "grab",
+"Object": "black cup",
+"Location": "off of the cabinet"
+   }
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "around",
+"Preposition": "move to the front of",
+"Landmark": "dresser"
+   }
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "cup",
+"Location": "down on the dresser behind the cell phone"
+   }
+} 
+]}

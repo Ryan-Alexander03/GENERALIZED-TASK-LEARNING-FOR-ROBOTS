@@ -1,0 +1,59 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "closest to",
+      "Preposition": "window",
+      "Landmark": "arm chair"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "remote",
+       "From": "arm chair"
+     }
+}, 
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "center of the room",
+      "Preposition": "coffee table"
+     }
+}, 
+{"sentence":
+{
+      "Action": "place",
+       "Object": "remote",
+       "On": "coffee table"
+     }
+}, 
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "ahead of you",
+      "Preposition": "TV stand"
+     }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+       "Object": "remote",
+       "From": "stand"
+     }
+}, 
+{"sentence":
+{
+      "Action": "move",
+      "Direction": "center of the room",
+      "Preposition": "coffee table"
+     }
+}, 
+{"sentence":
+{
+      "Action": "place",
+       "Object": "remote",
+       "On": "coffee table"
+     }
+} 
+]}

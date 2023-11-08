@@ -1,0 +1,78 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "left"
+      }, 
+{
+       "Action": "go straight"
+      }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "blue bin next to the toilet"
+      }, 
+{
+       "Action": "look up"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "purple spray bottle",
+       "Location": "cabinet above the toilet"
+      }
+}, 
+{"sentence":
+{
+       "Action": "go",
+       "Direction": "backwards",
+       "Preposition": "while facing towards",
+       "Landmark": "blue bin"
+      }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "spray bottle",
+       "Location": "left side of the toilet tank"
+      }
+}, 
+{"sentence":[
+{
+       "Action": "go",
+       "Direction": "forward",
+       "Landmark": "blue bin"
+      }, 
+{
+       "Action": "turn",
+       "Direction": "right"
+      }, 
+{
+       "Action": "look",
+       "Preposition": "up"
+      }
+]}, 
+{"sentence":
+{
+       "Action": "take",
+       "Object": "purple spray bottle",
+       "Location": "cabinet above first from the right"
+      }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "purple spray bottle",
+       "Location": "blue bin"
+      }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "spray bottle",
+       "Location": "center of the toilet tank"
+      }
+} 
+]}

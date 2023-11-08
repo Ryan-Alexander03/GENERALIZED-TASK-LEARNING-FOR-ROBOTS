@@ -1,0 +1,52 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "go forward",
+            "Landmark": "stove"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "kettle",
+            "Location": "stove"
+        }
+}, 
+{"sentence":
+{
+            "Action": "go",
+            "Direction": "to the right",
+            "Preposition": "of the stove",
+            "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "clean",
+            "Object": "kettle",
+            "Location": "sink"
+        }
+}, 
+{"sentence":[
+{
+            "Action": "turn around",
+            "Direction": "towards",
+            "Preposition": "the wall"
+        }, 
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "to face",
+            "Landmark": "white table"
+        }
+]}, 
+{"sentence":
+{
+            "Action": "put",
+            "Object": "kettle",
+            "Location": "white table"
+        }
+} 
+]}

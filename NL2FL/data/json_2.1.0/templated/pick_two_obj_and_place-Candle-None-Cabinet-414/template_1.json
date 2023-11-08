@@ -1,0 +1,58 @@
+{"sentences":[
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "right",
+          "Preposition": "face",
+          "Landmark": "counter"
+        }
+}, 
+{"sentence":
+{
+          "Action": "take",
+          "Object": "candle",
+          "From": "sink"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "left",
+          "Preposition": "face",
+          "Landmark": "cabinets"
+        }
+}, 
+{"sentence":
+{
+          "Action": "place",
+          "Object": "candle",
+          "To": "cabinet"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "left"
+        }
+}, 
+{"sentence":
+{
+          "Action": "take",
+          "Object": "candle",
+          "From": "toilet"
+        }
+}, 
+{"sentence":
+{
+          "Action": "turn",
+          "Direction": "right"
+        }
+}, 
+{"sentence":
+{
+          "Action": "put",
+          "Object": "candle",
+          "To": "cabinet"
+        }
+} 
+]}

@@ -1,0 +1,84 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "walk",
+     "Direction": "next to",
+     "Landmark": "stove",
+     "Preposition": "to"
+     }
+}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "knife",
+     "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+     "Action": "go",
+     "Direction": "center",
+     "Landmark": "island"
+     }
+}, 
+{"sentence":
+{
+     "Action": "cut",
+     "Object": "loaf of bread",
+     "Location": "knife"
+     }
+}, 
+{"sentence":
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Landmark": "dishwasher"
+     }
+}, 
+{"sentence":
+{
+     "Action": "place",
+     "Object": "knife",
+     "Location": "cabinet to the left of the dishwasher"
+     }
+}, 
+{"sentence":
+{
+     "Action": "go back",
+     "Landmark": "island, loaf of bread"
+     }
+}, 
+{"sentence":
+{
+     "Action": "grab",
+     "Object": "slice of bread"
+     }
+}, 
+{"sentence":
+{
+     "Action": "take",
+     "Object": "bread",
+     "Location": "microwave"
+     }
+}, 
+{"sentence":
+{
+     "Action": "cook",
+     "Object": "slice of bread",
+     "Location": "microwave"
+     }
+}, 
+{"sentence":
+{
+     "Action": "go",
+     "Location": "toaster on the counter"
+     }
+}, 
+{"sentence":
+{
+     "Action": "take, put",
+     "Object": "slice of bread",
+     "Location": "counter, in front of the toaster"
+     }
+} 
+]}

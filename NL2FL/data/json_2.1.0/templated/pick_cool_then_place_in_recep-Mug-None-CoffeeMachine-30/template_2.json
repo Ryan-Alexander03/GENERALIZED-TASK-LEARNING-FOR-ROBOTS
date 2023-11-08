@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+  "Action": "walk",
+  "Direction": "around",
+  "Preposition": "to",
+  "Landmark": "coffee maker"
+}
+}, 
+{"sentence":
+{
+  "Action": "pick up",
+  "Object": "coffee mug"
+}
+}, 
+{"sentence":
+{
+  "Action": "turn",
+  "Direction": "around",
+  "Preposition": "to",
+  "Landmark": "fridge"
+}
+}, 
+{"sentence":
+{
+  "Action": "put",
+  "Object": "mug",
+  "Location": "fridge"
+   ,
+  "Action": "take out",
+  "Object": "mug"
+}
+}, 
+{"sentence":
+{
+  "Action": "go back to",
+  "Landmark": "coffee maker"
+}
+}, 
+{"sentence":
+{
+  "Action": "put",
+  "Object": "mug",
+  "Location": "coffee maker"
+}
+} 
+]}

@@ -1,0 +1,53 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "next to",
+       "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "green sponge",
+       "From": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": "to",
+       "Landmark": "stove"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "sponge",
+       "Into": "pan on the back of the stove"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "pan on the stove"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "around",
+       "Preposition": "to",
+       "Landmark": "table"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "pan",
+       "On": "table"
+     }
+} 
+]}

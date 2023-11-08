@@ -1,0 +1,45 @@
+{"sentences":[
+{"sentence":
+{
+     "Action": "go",
+     "Direction": "to the island",
+     "Preposition": "approach",
+     "Landmark": "fork"
+     }
+}, 
+{"sentence":
+{
+     "Action": "pick up",
+     "Object": "fork"
+     }
+}, 
+{"sentence":
+{
+     "Action": "take",
+     "Object": "fork",
+     "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+     "Action": "put",
+     "Object": "fork",
+     "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+     "Action": "go",
+     "Direction": "right",
+     "Preposition": "at",
+     "Landmark": "counter"
+     }
+}, 
+{"sentence":
+{
+     "Action": "put",
+     "Object": "knife",
+     "Location": "drawer all the way to the right"
+     }
+} 
+]}

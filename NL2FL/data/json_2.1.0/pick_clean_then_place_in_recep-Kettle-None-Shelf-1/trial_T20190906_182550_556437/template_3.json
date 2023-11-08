@@ -1,0 +1,46 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "and",
+       "Landmark": null
+      }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "tea pot",
+       "Location": "counter"
+      }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "around",
+       "Preposition": "and",
+       "Landmark": null
+      }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "tea pot",
+       "Location": "sink"
+      }
+}, 
+{"sentence":
+{
+       "Action": "walk",
+       "Location": "back over to the counter",
+       "Preposition": "except move yourself slightly to the left"
+      }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "tea pot",
+       "Location": "right of the middle shelf"
+      }
+} 
+]}

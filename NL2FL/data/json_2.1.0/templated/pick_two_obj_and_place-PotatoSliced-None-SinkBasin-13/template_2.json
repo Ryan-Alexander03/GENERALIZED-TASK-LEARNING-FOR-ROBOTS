@@ -1,0 +1,168 @@
+{"sentences":[
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": null,
+       "Location": null
+     }, 
+{
+       "Action": "go",
+       "Direction": "halfway across the room",
+       "Preposition": "across",
+       "Location": null
+     }, 
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": null,
+       "Location": null
+     }, 
+{
+       "Action": "go",
+       "Direction": "to the counter",
+       "Preposition": "towards",
+       "Location": "counter"
+     }
+]}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "knife",
+       "Location": "corner of the counter on the left"
+     }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": null,
+       "Preposition": "around",
+       "Location": null
+     }, 
+{
+       "Action": "go",
+       "Direction": "across the room",
+       "Preposition": "towards",
+       "Location": "counter"
+     }
+]}, 
+{"sentence":
+{
+       "Action": "cut",
+       "Object": "potato",
+       "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": null,
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "knife",
+       "Location": "sink, to the right of the apple"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": null,
+       "Location": "counter"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "slice of potato",
+       "Location": null
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "right",
+       "Preposition": null,
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "slice of potato",
+       "Location": "sink, in front of the apple"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "knife",
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": null,
+       "Preposition": "around",
+       "Location": "fridge"
+     }
+}, 
+{"sentence":
+{
+       "Action": "cut",
+       "Object": "potato",
+       "Location": "second shelf in the fridge"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": null,
+       "Preposition": "around",
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "knife",
+       "Location": "sink, to the right of the apple"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": null,
+       "Preposition": "around",
+       "Location": "fridge"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "slice of potato",
+       "Location": "fridge"
+     }
+}, 
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": null,
+       "Preposition": "around",
+       "Location": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "slice of potato",
+       "Location": "sink, in front of the apple"
+     }
+} 
+]}

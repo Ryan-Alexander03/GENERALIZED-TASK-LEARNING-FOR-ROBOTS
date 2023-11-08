@@ -1,0 +1,31 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "walk slightly forward",
+        "Landmark": "night stand with the tissue box"
+      }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "tissue box",
+        "Location": "night stand"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn",
+        "Direction": "left",
+        "Preposition": "walk to",
+        "Landmark": "lamp on the left side of the desk"
+      }
+}, 
+{"sentence":
+{
+        "Action": "turn on",
+        "Object": "lamp"
+      }
+} 
+]}

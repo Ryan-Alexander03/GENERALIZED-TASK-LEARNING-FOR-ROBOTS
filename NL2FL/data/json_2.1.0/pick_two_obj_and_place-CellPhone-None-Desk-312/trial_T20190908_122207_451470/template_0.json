@@ -1,0 +1,60 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "go",
+"Direction": "to",
+"Preposition": "the",
+"Landmark": "desk"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "phone"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "to",
+"Preposition": "the",
+"Landmark": "right side of the desk"
+}
+}, 
+{"sentence":
+{
+"Action": "put down",
+"Object": "phone",
+"Location": "desk"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "to",
+"Preposition": "the",
+"Landmark": "bed"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "phone"
+}
+}, 
+{"sentence":
+{
+"Action": "go",
+"Direction": "to",
+"Preposition": "the",
+"Landmark": "right side of the desk"
+}
+}, 
+{"sentence":
+{
+"Action": "put down",
+"Object": "phone",
+"Location": "desk"
+}
+} 
+]}

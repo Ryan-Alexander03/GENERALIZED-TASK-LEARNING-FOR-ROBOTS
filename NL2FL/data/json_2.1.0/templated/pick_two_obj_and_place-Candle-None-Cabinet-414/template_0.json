@@ -1,0 +1,64 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "face",
+"Landmark": "counter next to the sink in front of you"
+}
+}, 
+{"sentence":
+{
+"Action": "take",
+"Object": "candle",
+"From": "sink in front of you"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "face",
+"Landmark": "cabinets to your right"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "candle",
+"To": "cabinet under the sink in front of you",
+"Preposition": "close"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "face",
+"Landmark": "toilet to your right"
+}
+}, 
+{"sentence":
+{
+"Action": "take",
+"Object": "candle",
+"From": "top of the toilet in front of you"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "face",
+"Landmark": "cabinet under the sink to your left"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "candle",
+"To": "cabinet in front of you",
+"Preposition": "close"
+}
+} 
+]}

@@ -1,0 +1,26 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "twice",
+"Location": "wall",
+"Action2": "turn",
+"Preposition2": "right",
+"Location2": "desk"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Object": "desk lamp"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "box of tissue",
+"Location": "desk"
+}
+} 
+]}

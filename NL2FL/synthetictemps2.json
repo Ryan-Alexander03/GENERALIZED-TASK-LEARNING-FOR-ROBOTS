@@ -1,0 +1,1106 @@
+{"sentences":[
+{"sentence":
+{
+"action": "open",
+"object": "silver filing cabinet drawer",
+"location": "silver filing cabinet"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "dirty dishes",
+"Location": "sink"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"from": "the wall"
+}
+}, 
+{"sentence":
+{
+"Action": "water",
+"Object": "plants",
+"Location": "living room"
+}
+}, 
+{"sentence":[
+{
+"Action": "open",
+"Object": "refrigerator",
+"Location": null
+}, 
+{
+"Action": "take out",
+"Object": "eggs",
+"Location": null
+}, 
+{
+"Action": "crack",
+"Object": "eggs",
+"Location": "a bowl for breakfast"
+}
+]}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "on",
+"Preposition": "the",
+"Landmark": "bedside lamp"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "remote control",
+"From": "the coffee table"
+}
+}, 
+{"sentence":
+{
+"Pick up the yellow-handled knife against the wall to the right of the sink.": {
+"Action": "pick up",
+"Object": "yellow-handled knife",
+"Location": "the wall"
+}
+}, 
+{"sentence":
+{
+"action": "place",
+"object": "mail",
+"location": "table near the entrance"
+}
+}, 
+{"sentence":
+l}
+}, 
+{"sentence":
+{
+"Action": "close",
+"Object": "curtains",
+"Location": "in the bedroom"
+}
+}, 
+{"sentence":
+:}
+}, 
+{"sentence":[
+{
+"action": "take",
+"object": "mug",
+"from": "cupboard"
+}, 
+{
+"action": "pour",
+"object": "hot water"
+}, 
+{
+"action": "make",
+"object": "cup of tea",
+"location": "kitchen"
+}
+]}, 
+{"sentence":
+*}
+}, 
+{"sentence":
+{
+"action": "hang",
+"object": "coat",
+"location": "hook by the front door"
+}
+}, 
+{"sentence":
+{
+"Action": "wipe",
+"Object": "dining table",
+"Location": "with a damp cloth"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "yellow-handled knife",
+"From": "the wall"
+}
+}, 
+{"sentence":
+{
+"input2": [
+{
+"Action": "plug in",
+"Object": "phone",
+"To": "the nightstand next to your bed"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "shoes",
+"Location": "the shoe rack by the entrance"
+}
+}, 
+{"sentence":
+{
+"action": "check",
+"object": "expiration date",
+"location": "pantry"
+}
+}, 
+{"sentence":
+{
+"Action": "open",
+"Object": "curtains",
+"Location": "the morning"
+}
+}, 
+{"sentence":
+{
+"action": "use",
+"object": "feather duster",
+"location": "bookshelves in the study"
+}
+}, 
+{"sentence":[
+{
+"Action": "set",
+"Object": "table",
+"Location": "for dinner with plates"
+}, 
+{
+"Action": "set",
+"Object": "utensils",
+"Location": "on the table"
+}, 
+{
+"Action": "set",
+"Object": "and napkins",
+"Location": "on the table"
+}
+]}, 
+{"sentence":
+{
+"action": "spray",
+"object": "air freshener",
+"location": "bathroom"
+}
+}, 
+{"sentence":
+{
+"action": "turn off",
+"direction": "off",
+"preposition": "in",
+"landmark": "home office"
+}
+}, 
+{"sentence":
+t}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "soiled dishes",
+"Location": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "open",
+"Object": "red door",
+"Location": null
+}
+}, 
+{"sentence":
+{
+"Action": "hydrate",
+"Object": "plants",
+"Location": "windowsill",
+"Preposition": "on",
+"Landmark": "living room"
+}
+}, 
+{"sentence":[
+{
+"Pick up the yellow-handled knife against the wall to the right of the sink": {
+"Action": "pick up",
+"Object": "yellow-handled knife",
+"Location": "the wall"
+}, 
+{
+"Action": "take",
+"Object": "blue book",
+"Location": "the table in front of the lamp"
+}, 
+{
+"Action": "fracture",
+"Object": "the eggs",
+"Location": "a bowl for breakfast"
+}
+]}, 
+{"sentence":
+{
+"sentences": [
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"location": "the wall to the right of the sink"
+}
+}, 
+{"sentence":
+{
+"Action": "seize",
+"Object": "remote control",
+"Location": "coffee table",
+"Direction": "activate",
+"Landmark": "TV in the living room"
+}
+}, 
+{"sentence":
+{
+"action": "hang",
+"object": "damp towels",
+"from": "the rack in the bathroom"
+}
+}, 
+{"sentence":
+{
+"action": "deposit",
+"object": "mail",
+"location": "table near the entrance"
+}
+}, 
+{"sentence":
+{
+"action": "modify",
+"object": "thermostat",
+"location": "on the wall"
+}
+}, 
+{"sentence":
+{
+"Action": "conclude",
+"Object": "curtains",
+"Location": "the bedroom"
+}
+}, 
+{"sentence":
+{
+"action": "vacate",
+"object": "trash bin",
+"from": "the office"
+}
+}, 
+{"sentence":[
+{
+"action": "retrieve",
+"object": "mug",
+"location": "cupboard"
+}, 
+{
+"action": "dispense",
+"object": "hot water",
+"location": null
+}, 
+{
+"action": "brew",
+"object": "cup of tea",
+"location": "kitchen"
+}
+]}, 
+{"sentence":
+{
+"action": "recline",
+"object": "couch",
+"location": "living room"
+}
+}, 
+{"sentence":
+{
+"action": "Suspend",
+"object": "coat",
+"preposition": "on",
+"location": "the hook by the front door"
+}
+}, 
+{"sentence":
+{
+"Action": "sanitize",
+"Object": "dining table",
+"Location": "after completing your meal"
+}
+}, 
+{"sentence":
+{
+"action": "power down",
+"object": "lights",
+"location": "bathroom"
+}
+}, 
+{"sentence":
+{
+"action": "connect",
+"object": "phone",
+"location": "nightstand adjacent to your bed"
+}
+}, 
+{"sentence":
+{
+"Action": "position",
+"Object": "shoes",
+"From": "the shoe rack"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "red pencil",
+"location": "on the desk"
+}
+}, 
+{"sentence":
+"}
+}, 
+{"sentence":
+{
+"Action": "emplo",
+"Object": "feather duster",
+"To": "the bookshelves in the study"
+}
+}, 
+{"sentence":[
+{
+"action": "arrange",
+"object": "table",
+"location": None,
+"direction": None,
+"landmark": None
+}, 
+{
+"action": "arrange",
+"object": "utensils",
+"location": None,
+"direction": None,
+"landmark": None
+}, 
+{
+"action": "arrange",
+"object": "and napkins",
+"location": None,
+"direction": None,
+"landmark": None
+}
+]}, 
+{"sentence":
+{
+"action": "spritz",
+"object": "air freshener",
+"location": "bathroom",
+"direction": None,
+"preposition": "in"
+}
+}, 
+{"sentence":
+{
+"Action": "power off",
+"Object": "computer",
+"From": "the home office"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "yellow-handled knife",
+"From": "the wall"
+}
+}, 
+{"sentence":
+e}
+}, 
+{"sentence":
+{
+"action": "fold",
+"object": "blankets",
+"location": "ottoman in your bedroom"
+}
+}, 
+{"sentence":
+{
+"Action": "water",
+"Object": "potted flowers",
+"Location": "windowsill in the living room"
+}
+}, 
+{"sentence":[
+e}, 
+e}, 
+e}
+]}, 
+{"sentence":
+e}
+}, 
+{"sentence":
+{
+"action": "open",
+"object": "fridge",
+"location": "the fridge"
+}
+}, 
+{"sentence":
+)}
+}, 
+{"sentence":
+{
+"Action": "drop",
+"Object": "keys",
+"From": "the table near the entrance"
+}
+}, 
+{"sentence":
+{
+"action": "turn",
+"direction": "on",
+"object": "lamp",
+"preposition": "on",
+"landmark": "desk"
+}
+}, 
+{"sentence":
+.}
+}, 
+{"sentence":
+e}
+}, 
+{"sentence":[
+{
+  "action": "select",
+  "object": "mug",
+  "location": "cupboard"
+}, 
+{
+  "action": "pour",
+  "object": "juice"
+}, 
+{
+  "action": "enjoy",
+  "object": "refreshing drink",
+  "location": "kitchen"
+}
+]}, 
+{"sentence":
+{
+"action": "relax",
+"object": "hammock",
+"location": "backyard"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"from": "the wall"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "red-handled knife",
+"location": "counter beside the sink"
+}
+}, 
+{"sentence":
+{
+"action": "turn",
+"direction": "off",
+"preposition": "the",
+"landmark": "candle"
+}
+}, 
+{"sentence":
+l}
+}, 
+{"sentence":
+.}
+}, 
+{"sentence":
+{
+"Action": "check",
+"Object": "fruits in the basket",
+"Location": null,
+"Direction": null,
+"Preposition": null
+}
+}, 
+{"sentence":
+{
+"action": "open",
+"object": "windows",
+"location": "living room"
+}
+}, 
+{"sentence":
+{
+"action": "use",
+"object": "microfiber cloth",
+"to": "dust"
+}
+}, 
+{"sentence":[
+{
+"action": "set",
+"object": "picnic table",
+"location": "for lunch with plates"
+}, 
+{
+"action": "set",
+"object": "picnic table",
+"location": "for lunch with plates and utensils"
+}, 
+{
+"action": "set",
+"object": "picnic table",
+"location": "for lunch with plates, utensils, and napkins"
+}
+]}, 
+{"sentence":
+k}
+}, 
+{"sentence":
+.}
+}, 
+{"sentence":
+{
+"Action": "retrieve",
+"Object": "raine",
+"Location": "shed"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"from": "the wall"
+}
+}, 
+{"sentence":
+n}
+}, 
+{"sentence":
+f}
+}, 
+{"sentence":[
+{
+"action": "access",
+"object": "spice rack",
+"location": "spice rack"
+}, 
+{
+"action": "take out",
+"object": "herbs",
+"location": null
+}, 
+{
+"action": "season",
+"object": "soup",
+"location": "kitchen"
+}
+]}, 
+{"sentence":
+{
+"Action": "switch on",
+"Object": "desk lamp",
+"From": "desk"
+}
+}, 
+{"sentence":
+{
+"Action": "grab",
+"Object": "sketchpad",
+"Location": "the coffee table and draw in the art studio"
+}
+}, 
+{"sentence":
+
+}
+}, 
+{"sentence":
+y}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "yellow-handled knife",
+"From": "the wall"
+}
+}, 
+{"sentence":
+k}
+}, 
+{"sentence":
+.}
+}, 
+{"sentence":[
+{
+"Action": "select",
+"Object": "wine glass",
+"Location": null
+}, 
+{
+"Action": "pour",
+"Object": "red wine",
+"Location": null
+}, 
+{
+"Action": "enjoy",
+"Object": "a drink",
+"Location": "the dining room"
+}
+]}, 
+{"sentence":
+{
+"Action": "relax",
+"Direction": "backyard",
+"Preposition": "in",
+"Landmark": "hammock"
+}
+}, 
+{"sentence":
+{
+"Action": "hang",
+"Object": "hat",
+"From": "coat rack",
+"To": "foyer"
+}
+}, 
+{"sentence":
+{
+"action": "Wipe",
+"object": "coffee table",
+"location": "sitting room"
+}
+}, 
+{"sentence":
+{
+  "action": "turn",
+  "direction": "off",
+  "preposition": "the",
+  "landmark": "oil diffuser"
+}
+}, 
+{"sentence":
+{
+"action": "plug in",
+"object": "tablet",
+"location": "nightstand in the bedroom"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"location": "the wall to the right of the sink"
+}
+}, 
+{"sentence":
+{
+"action": "check",
+"object": "flowers",
+"location": "vase"
+}
+}, 
+{"sentence":
+n}
+}, 
+{"sentence":
+{
+"action": "use",
+"object": "feather duster",
+"preposition": "to",
+"location": "gallery"
+}
+}, 
+{"sentence":[
+{
+        "Action": "pick up",
+        "Object": "yellow-handled knife",
+        "From": "the wall"
+    }, 
+{
+    "Action": "set",
+    "Object": "utensils",
+    "On": "the patio table"
+}, 
+{
+    "Action": "set",
+    "Object": "utensils and napkins",
+    "On": "the patio table"
+}
+]}, 
+{"sentence":
+{
+    "Action": "spray",
+    "Object": "air freshener",
+    "Location": "guest bedroom"
+  }
+}, 
+{"sentence":
+{
+      "Action": "Grab",
+      "Object": "pink-handled screwdriver",
+      "Location": "toolbox on the workbench"
+   }
+}, 
+{"sentence":
+{
+"action": "retrieve",
+"object": "garden tool",
+"location": "storage"
+}
+}, 
+{"sentence":
+{
+  "Action": "position",
+  "Object": "DVDs",
+  "Preposition": "on",
+  "Location": "the rack"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"from": "the wall"
+}
+}, 
+{"sentence":
+{
+"action": "Moisten",
+"object": "suspended flora",
+"location": "veranda in the}
+}, 
+{"sentence":[
+{
+"action": "access",
+"object": "herb collection"
+}, 
+{
+"action": "extract",
+"object": "spices"
+}, 
+{
+"action": "flavor",
+"object": "stew",
+"location": "kitchen"
+}
+]}, 
+{"sentence":
+{
+"action": "activate",
+"object": "desktop light",
+"preposition": "on",
+"location": "office"
+}
+}, 
+{"sentence":
+8}
+}, 
+{"sentence":
+{
+"action": "suspend",
+"object": "damp swimwear",
+"location": {
+"preposition": "on",
+"landmark": "cord",
+"value": "courtyard"
+}
+}, 
+{"sentence":
+n}
+}, 
+{"sentence":
+{
+"Action": "fine-tune",
+"Object": "cooling settings",
+"Location": "living area"
+}
+}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "red-handled screwdriver",
+"from": "the toolbox on the workbench"
+}
+}, 
+{"sentence":
+
+}
+}, 
+{"sentence":[
+{
+        "Action": "opt",
+        "Object": "wine goblet",
+        "From": "cabinet"
+    }, 
+{
+        "Action": "pour",
+        "Object": "red wine",
+        "From": "bottle"
+    }, 
+{
+        "Action": "savor",
+        "Object": "a beverage",
+        "From": "dining space"
+    }
+]}, 
+{"sentence":
+
+}
+}, 
+{"sentence":
+n}
+}, 
+{"sentence":
+	}
+}, 
+{"sentence":
+{
+"action": "switch",
+"object": "aroma diffuser",
+"location": "master bath"
+}
+}, 
+{"sentence":
+s}
+}, 
+{"sentence":
+{
+"action": "place",
+"object": "footwear",
+"location": "shoe stand in the entryway"
+}
+}, 
+{"sentence":
+{
+"Action": "inspect",
+"Object": "bloom freshness in the vase",
+"Location": "dining space"
+}
+}, 
+{"sentence":
+{
+"Action": "expose",
+"Object": "blinds",
+"To": "the morning"
+}
+}, 
+{"sentence":
+{
+"Action": "utilize",
+"Object": "plume duster",
+"From": null,
+"Preposition": null,
+"Landmark": null
+}
+}, 
+{"sentence":[
+{
+"action": "arrange",
+"object": "patio table",
+"location": "for lunch",
+"landmark": "plates"
+}, 
+{
+"action": "arrange",
+"object": "patio table",
+"location": "for lunch with utensils",
+"landmark": "plates"
+}, 
+{
+"action": "arrange",
+"object": "patio table",
+"location": "for lunch with utensils and napkins",
+"landmark": "plates"
+}
+]}, 
+{"sentence":
+{
+"actions": [
+"aerosolize",
+"maintain"
+],
+"objects": [
+"air freshener"
+],
+"locations": [
+"guest chamber"
+]
+}
+}, 
+{"sentence":
+{
+"a": {
+"action": "close",
+"object": "fridge door",
+"location": null
+}
+}, 
+{"sentence":
+o}
+}, 
+{"sentence":
+{
+"action": "position",
+"object": "used DVDs",
+"location": "shelf"
+}
+}, 
+{"sentence":
+{
+"action": "stow",
+"object": "cloths",
+"from": "the cupboard in your bathroom"
+}
+}, 
+{"sentence":
+4}
+}, 
+{"sentence":[
+e}, 
+e}, 
+n}
+]}, 
+{"sentence":
+{
+"action": "flick",
+"object": "reading lamp",
+"location": "study"
+}
+}, 
+{"sentence":
+s}
+}, 
+{"sentence":
+:}
+}, 
+{"sentence":
+4}
+}, 
+{"sentence":
+{
+"action": "alter",
+"object": "air conditioning settings"
+}
+}, 
+{"sentence":
+:}
+}, 
+{"sentence":
+{
+"Action": "clear",
+"Object": "waste bin",
+"Location": "garage"
+}
+}, 
+{"sentence":[
+{
+"action": "choose",
+"object": "wine glass",
+"from": "cupboard"
+}, 
+{
+"action": "pour",
+"object": "red wine",
+"to": "glass"
+}, 
+{
+"action": "savor",
+"object": "drink",
+"location": "dining area"
+}
+]}, 
+{"sentence":
+{
+"action": "pick up",
+"object": "yellow-handled knife",
+"location": "the wall"
+}
+}, 
+{"sentence":
+{"Action": "hang", "Object": "coat rack", "Location": "entryway"}
+}, 
+{"sentence":
+m}
+}, 
+{"sentence":
+{
+    "Action": "switch off",
+    "Object": "oil diffuser",
+    "Location": "main bathroom"
+}
+}, 
+{"sentence":
+{
+"Action": "connect",
+"Object": "tablet",
+"Location": "bedside table in the bedroom"
+}
+}, 
+{"sentence":
+s}
+}, 
+{"sentence":
+{
+"action": "inspect",
+"direction": None,
+"preposition": "in",
+"landmark": "dining space"
+}
+}, 
+{"sentence":
+{
+"Action": "uncover",
+"Object": "blinds",
+"From": "morning"
+}
+}, 
+{"sentence":
+{
+"action": "utilize",
+"object": "duster",
+"location": "exhibition space"
+}
+}, 
+{"sentence":[
+{
+"Action": "arrange",
+"Object": "patio table",
+"Location": "for lunch with plates"
+}, 
+{
+"Action": "utensils",
+"Object": null,
+"Location": null
+}, 
+{
+"Action": "and",
+"Object": ["napkins"],
+"Location": null
+}
+]}, 
+{"sentence":
+{
+"action": "spritz",
+"direction": "",
+"preposition": "in",
+"landmark": "guest chamber"
+}
+}, 
+{"sentence":
+{
+"Action": "power down",
+"Object": "desktop computer",
+"Location": {"from": "study", "to": "shut down properly"}
+} 
+]}

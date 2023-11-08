@@ -1,0 +1,52 @@
+{"sentences":[
+{"sentence":
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "over",
+       "Landmark": "desk"
+     }
+}, 
+{"sentence":
+{
+       "Action": "grab",
+       "Object": "pen",
+       "From": "desk"
+     }
+}, 
+{"sentence":
+{
+       "Action": "move",
+       "Direction": "left",
+       "Preposition": "again",
+       "Landmark": "desk"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "pen",
+       "Into": "white cup"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "white cup",
+       "From": "desk"
+     }
+}, 
+{"sentence":
+{
+       "Action": "walk",
+       "Over": "brown cabinet"
+     }
+}, 
+{"sentence":
+{
+       "Action": "place",
+       "Object": "white cup",
+       "On": "top of brown cabinet"
+     }
+} 
+]}

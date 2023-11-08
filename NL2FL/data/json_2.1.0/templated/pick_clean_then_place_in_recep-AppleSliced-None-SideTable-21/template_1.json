@@ -1,0 +1,96 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "go forward",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "large white table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "knife",
+"From": "table"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "small black table"
+}
+}, 
+{"sentence":
+{
+"Action": "use",
+"Object": "knife",
+"From": "table",
+"Preposition": "to"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "section of counter"
+}
+}, 
+{"sentence":[
+{
+"Action": "stick",
+"Object": "knife",
+"To": "counter"
+}, 
+{
+"Action": "directly in front of",
+"Object": "salt shaker"
+}
+]}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "small black table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "slice of pear"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "pear",
+"In": "sink"
+}
+}, 
+{"sentence":
+{
+"Action": "turn",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "small black table"
+}
+}, 
+{"sentence":
+{
+"Action": "place",
+"Object": "pear slice",
+"On": "small black table"
+}
+} 
+]}

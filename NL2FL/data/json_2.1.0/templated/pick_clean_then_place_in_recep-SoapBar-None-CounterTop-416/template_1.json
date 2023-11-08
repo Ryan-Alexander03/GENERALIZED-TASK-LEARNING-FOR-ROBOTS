@@ -1,0 +1,59 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "look down",
+        "Direction": "down",
+        "Preposition": "at",
+        "Landmark": "gray bin"
+    }
+}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "bar of soap",
+      "From": "inside the gray bin"
+     }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "around"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "middle of the vanity"
+     }
+]}, 
+{"sentence":[
+{
+        "Action": "put",
+        "Object": "bar of soap",
+        "Into": "right sink"
+    }, 
+{
+      "Action": "rinse",
+      "For": "a few seconds",
+      "Object": "bar of soap",
+      "Back": "pick it back up"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "to",
+      "Landmark": "left sink"
+     }
+}, 
+{"sentence":
+{
+        "Action": "put",
+        "Object": "rinsed bar of soap",
+        "To": "right of the left sink",
+        "Preposition": "next to",
+        "Landmark": "candle"
+    }
+} 
+]}

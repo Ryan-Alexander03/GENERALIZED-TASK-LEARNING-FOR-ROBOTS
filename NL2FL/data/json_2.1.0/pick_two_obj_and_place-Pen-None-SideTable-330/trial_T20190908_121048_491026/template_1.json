@@ -1,0 +1,118 @@
+{"sentences":[
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "past",
+     "Landmark": "bed"
+    }, 
+{
+     "Action": "go",
+     "To": "the dresser",
+     "Preposition": "across",
+     "Landmark": "you"
+    }
+]}, 
+{"sentence":[
+{
+     "Action": "pick up",
+     "Object": "pen"
+    }, 
+{
+     "Action": "pick up",
+     "Object": "pen",
+     "From": "in front of the plant"
+    }, 
+{
+     "Action": "put",
+     "Object": "pen",
+     "To": "on the right side of the dresser"
+    }
+]}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": "past",
+     "Landmark": "bed"
+    }, 
+{
+     "Action": "make",
+     "Direction": "right",
+     "Preposition": "to",
+     "Landmark": "night stand on the left side of the bed"
+    }, 
+.}
+]}, 
+{"sentence":[
+{
+     "Action": "place",
+     "Object": "pen",
+     "To": "in front of the lamp"
+    }, 
+{
+     "Action": "put",
+     "Object": "pen",
+     "To": "near the edge of the night stand"
+    }
+]}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "around",
+     "Preposition": "just past",
+     "Landmark": "bed"
+    }, 
+{
+     "Action": "turn",
+     "Direction": "left",
+     "Preposition": "to",
+     "Landmark": "end of the bed"
+    }, 
+{
+     "Action": "make",
+     "Direction": "left",
+     "Preposition": "to",
+     "Landmark": "second dresser on your right"
+    }
+]}, 
+{"sentence":
+{
+     "Action": "grab",
+     "Object": "pen",
+     "From": "the dresser to the right of the bowl"
+    }
+}, 
+{"sentence":[
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "towards",
+     "Landmark": "door"
+    }, 
+{
+     "Action": "make",
+     "Direction": "right",
+     "Preposition": "to",
+     "Landmark": "end of the bed"
+    }, 
+{
+     "Action": "turn",
+     "Direction": "right",
+     "Preposition": "again",
+     "Landmark": "night stand"
+    }
+]}, 
+{"sentence":[
+{
+     "Action": "place",
+     "Object": "pen",
+     "To": "behind the other pen"
+    }, 
+{
+     "Action": "put",
+     "Object": "pen",
+     "To": "on the night stand"
+    }
+]} 
+]}

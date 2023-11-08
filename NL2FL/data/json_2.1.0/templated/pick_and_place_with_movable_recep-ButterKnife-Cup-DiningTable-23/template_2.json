@@ -1,0 +1,69 @@
+{"sentences":[
+{"sentence":[
+{
+   "Action": "look",
+  "Direction": "down",
+  "Location": null
+}, 
+{
+   "Action": "walk",
+  "Distance": "two steps",
+  "Direction": "forward",
+  "Location": null,
+   "Next Action": "turn",
+   "Next Direction": "left",
+   "Next Location": "table"
+}
+]}, 
+{"sentence":
+{
+   "Action": "grab",
+  "Object": "knife",
+  "Location": "very back",
+   "Prepositions": ["between"]
+}
+}, 
+{"sentence":[
+{
+   "Action": "turn",
+  "Direction": "right"
+}, 
+{
+   "Action": "walk",
+  "Distance": "three steps",
+  "Direction": "forward",
+   "Next Action": "turn",
+   "Next Direction": "right",
+   "Next Location": "fridge"
+}
+]}, 
+{"sentence":
+{
+   "Action": "open",
+  "Object": "fridge"
+}
+}, 
+{"sentence":[
+{
+   "Action": "grab",
+  "Object": "wine glass with knife in it"
+}, 
+{
+   "Action": "close",
+  "Object": "fridge"
+}
+]}, 
+{"sentence":
+{
+   "Action": "turn",
+  "Direction": "right"
+}
+}, 
+{"sentence":
+{
+   "Action": "place",
+  "Object": "wine glass",
+  "Location": "table, left side of apple"
+}
+} 
+]}

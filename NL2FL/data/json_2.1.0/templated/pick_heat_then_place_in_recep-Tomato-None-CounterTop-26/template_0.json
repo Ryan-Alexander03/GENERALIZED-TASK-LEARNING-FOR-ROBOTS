@@ -1,0 +1,80 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "around",
+      "Preposition": "take",
+      "Landmark": "a step forward"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "walk",
+      "Landmark": "the small white table"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "pick up",
+      "Object": "tomato",
+      "From": "the table"
+    }
+}, 
+{"sentence":[
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "take",
+      "Landmark": "a step forward"
+    }, 
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "walk",
+      "Landmark": "the microwave"
+    }
+]}, 
+{"sentence":[
+{
+      "Action": "open",
+      "Object": "microwave door"
+    }, 
+{
+      "Action": "place",
+      "Object": "tomato",
+      "Into": "inside the microwave"
+    }, 
+{
+      "Action": "close",
+      "Object": "microwave door"
+      }, 
+{
+      "Action": "open",
+      "Object": "microwave door",
+      "After": "a couple of seconds"
+    }, 
+{
+      "Action": "remove",
+      "Object": "tomato"
+    }, 
+{
+      "Action": "close",
+      "Object": "microwave door"
+    }
+]}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "walk",
+      "To": "the end of the kitchen counter"
+    }
+}, 
+{"sentence":
+{
+      "Action": "put",
+      "Object": "heated tomato",
+      "On": "the counter in front and to the right of the plastic container"
+    }
+} 
+]}

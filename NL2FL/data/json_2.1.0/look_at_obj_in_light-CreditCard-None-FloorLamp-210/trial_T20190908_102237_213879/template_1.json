@@ -1,0 +1,29 @@
+{"sentences":[
+{"sentence":
+{
+    "Action": "move",
+    "Direction": "forward",
+    "Landmark": "television stand"
+    }
+}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "card",
+    "Location": "stand"
+    }
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Landmark": "lamp stand"
+    }
+}, 
+{"sentence":
+{
+      "Action": "turn on",
+      "Object": "lamp"
+     }
+} 
+]}

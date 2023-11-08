@@ -1,0 +1,57 @@
+{"sentences":[
+{"sentence":[
+{
+                "Action": "walk",
+                "Direction": "right",
+                "Preposition": "around",
+                "Landmark": "kitchen island"
+            }, 
+{
+                "Action": "veer",
+                "Direction": "left",
+                "Preposition": "to",
+                "Landmark": "stove"
+            }
+]}, 
+{"sentence":
+{
+                "Action": "pick up",
+                "Object": "leftmost kettle",
+                "From": "stove"
+            }
+}, 
+{"sentence":
+{
+                "Action": "turn",
+                "Direction": "right",
+                "Preposition": "to",
+                "Landmark": "sink"
+            }
+}, 
+{"sentence":
+{
+                "Action": "rinse",
+                "Object": "kettle",
+                "From": "sink"
+            }
+}, 
+{"sentence":
+{
+                "Action": "take",
+                "Direction": "right",
+                "Preposition": "step"
+            }
+}, 
+{"sentence":[
+{
+                "Action": "place",
+                "Object": "kettle",
+                "To": "bottom right cabinet"
+            }, 
+{
+                "Action": "near",
+                "Preposition": "corner",
+                "Landmark": "counter"
+            }
+]} 
+]}

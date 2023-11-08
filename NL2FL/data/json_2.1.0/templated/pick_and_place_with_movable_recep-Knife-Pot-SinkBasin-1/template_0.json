@@ -1,0 +1,32 @@
+{"sentences":[
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "left",
+      "Preposition": "to",
+      "Landmark": "pot on the counter to the right of the stove top"
+     }
+}, 
+{"sentence":
+{
+       "Action": "pick up",
+       "Object": "pot",
+       "Location": "counter"
+      }
+}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Direction": "right",
+      "Preposition": "to",
+      "Landmark": "sink"
+     }
+}, 
+{"sentence":
+{
+       "Action": "put",
+       "Object": "pot",
+       "Location": "sink basin"
+      }
+} 
+]}

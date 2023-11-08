@@ -1,0 +1,48 @@
+{"sentences":[
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "right",
+    "Preposition": "go",
+    "Landmark": "brown desk"
+    }
+}, 
+{"sentence":
+{
+    "Action": "grab",
+    "Object": "blue pen",
+    "Location": "desk"
+    }
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "pen",
+    "Preposition": "in",
+    "Landmark": "white mug"
+    }
+}, 
+{"sentence":
+{
+    "Action": "grab",
+    "Object": "mug",
+    "Location": "desk"
+    }
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "go",
+    "Landmark": "brown drawer"
+    }
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "mug",
+    "Preposition": "on",
+    "Landmark": "top of the drawer"
+    }
+} 
+]}

@@ -1,0 +1,94 @@
+{"sentences":[
+{"sentence":
+{
+        "Action": "take",
+        "Direction": "two steps",
+        "Preposition": "turn left",
+        "Location": "cabinet"
+     }
+}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "top pencil",
+        "Location": "table"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "right"
+      }, 
+{
+        "Action": "walk",
+        "Location": "room"
+      }, 
+{
+        "Action": "turn",
+        "Direction": "right"
+      }, 
+{
+        "Action": "walk",
+        "Location": "room",
+        "Preposition": "face",
+        "Landmark": "table"
+      }
+]}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "pencil",
+        "Location": "table"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "right"
+      }, 
+{
+        "Action": "take",
+        "Direction": "step"
+      }, 
+{
+        "Action": "turn",
+        "Direction": "right",
+        "Preposition": "walk",
+        "Landmark": "cabinet"
+      }
+]}, 
+{"sentence":
+{
+        "Action": "pick up",
+        "Object": "pencil",
+        "Location": "cabinet"
+      }
+}, 
+{"sentence":[
+{
+        "Action": "turn",
+        "Direction": "right"
+      }, 
+{
+        "Action": "walk",
+        "Location": "room"
+      }, 
+{
+        "Action": "turn",
+        "Direction": "right"
+      }, 
+{
+        "Action": "walk",
+        "Location": "room",
+        "Preposition": "face",
+        "Landmark": "table"
+      }
+]}, 
+{"sentence":
+{
+        "Action": "place",
+        "Object": "pencil",
+        "Location": "table"
+      }
+} 
+]}

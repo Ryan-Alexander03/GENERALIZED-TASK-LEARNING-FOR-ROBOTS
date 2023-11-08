@@ -1,0 +1,76 @@
+{"sentences":[
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "take a few steps",
+            "Landmark": "counter on the right"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "knife with the yellow handle",
+            "From": "nowhere"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "walk",
+            "Landmark": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "cut",
+            "Object": "apple in the center of the sink",
+            "With": "knife"
+        }
+}, 
+{"sentence":
+{
+            "Action": "drop",
+            "Object": "knife in the sink",
+            "To": "left of the cut apple"
+        }
+}, 
+{"sentence":
+{
+            "Action": "pick up",
+            "Object": "slice of apple",
+            "From": "sink"
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "left",
+            "Preposition": "walk",
+            "Landmark": "microwave"
+        }
+}, 
+{"sentence":
+{
+            "Action": "heat",
+            "Object": "apple in the microwave",
+            "Preposition": ""
+        }
+}, 
+{"sentence":
+{
+            "Action": "turn",
+            "Direction": "around",
+            "Preposition": "walk",
+            "Landmark": "fridge"
+        }
+}, 
+{"sentence":
+{
+            "Action": "place",
+            "Object": "apple in the fridge",
+            "From": "hand"
+        }
+} 
+]}

@@ -1,0 +1,42 @@
+{"sentences":[
+{"sentence":[
+{
+      "Action": "walk",
+      "Direction": "forward",
+      "Preposition": "towards",
+      "Landmark": "desk"
+    }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "bed"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "take",
+      "Object": "pillow",
+      "From": "the bed"
+    }
+}, 
+{"sentence":[
+{
+       "Action": "turn",
+       "Direction": "right"
+     }, 
+{
+       "Action": "turn",
+       "Direction": "left",
+       "Preposition": "face",
+       "Landmark": "desk"
+     }
+]}, 
+{"sentence":
+{
+      "Action": "turn",
+      "Object": "lamp",
+      "From": "the right side of the desk"
+    }
+} 
+]}

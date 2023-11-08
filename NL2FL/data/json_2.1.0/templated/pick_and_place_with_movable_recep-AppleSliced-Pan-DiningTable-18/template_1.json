@@ -1,0 +1,115 @@
+{"sentences":[
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "to",
+    "Landmark": "black table"
+}
+}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "knife",
+    "Location": "next to lettuce"
+}
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "to",
+    "Landmark": "refrigerator"
+}
+}, 
+{"sentence":[
+{
+    "Action": "open",
+    "Object": "refrigerator",
+    "Location": null
+}, 
+{
+    "Action": "cut",
+    "Object": "yellow apple",
+    "Location": null
+    "Next Action": "close"
+}
+]}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "to",
+    "Landmark": "stove"
+    "Next Action": "go"
+}
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "knife",
+    "Location": "on the pan on the stove's top left burner"
+}
+}, 
+{"sentence":
+{
+    "Action": "pick up",
+    "Object": "pan with the knife in it",
+    "Location": null
+}
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "left",
+    "Preposition": "to",
+    "Landmark": "black table"
+    "Next Action": "walk"
+}
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "pan with the knife",
+    "Location": "below the potato"
+}
+}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "to",
+    "Landmark": "refrigerator"
+    "Next Action": "walk"
+}
+}, 
+{"sentence":[
+{
+    "Action": "open",
+    "Object": "refrigerator",
+    "Location": null
+}, 
+{
+    "Action": "pick up",
+    "Object": "yellow apple piece",
+    "Location": "to the left"
+    "Next Action": "close"
+}
+]}, 
+{"sentence":
+{
+    "Action": "turn",
+    "Direction": "around",
+    "Preposition": "to",
+    "Landmark": "black table"
+    "Next Action": "go"
+}
+}, 
+{"sentence":
+{
+    "Action": "put",
+    "Object": "apple slice",
+    "Location": "to the left of the knife on the pan"
+}
+} 
+]}

@@ -1,0 +1,47 @@
+{"sentences":[
+{"sentence":
+{
+"Action": "move",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "table"
+}
+}, 
+{"sentence":
+{
+"Action": "pick up",
+"Object": "mug",
+"From": "coffee maker"
+}
+}, 
+{"sentence":
+{
+"Action": "move",
+"Direction": "left",
+"Preposition": "to",
+"Landmark": "fridge"
+}
+}, 
+{"sentence":
+{
+"Action": "chill",
+"Object": "mug",
+"In": "fridge"
+}
+}, 
+{"sentence":
+{
+"Action": "move",
+"Direction": "right",
+"Preposition": "to",
+"Landmark": "table"
+}
+}, 
+{"sentence":
+{
+"Action": "put",
+"Object": "mug",
+"On": "coffee maker"
+}
+} 
+]}
