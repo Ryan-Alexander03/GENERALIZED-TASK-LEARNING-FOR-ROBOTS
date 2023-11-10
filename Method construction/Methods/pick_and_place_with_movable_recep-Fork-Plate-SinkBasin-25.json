@@ -1,135 +1,115 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "fork"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Fork"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "plate"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "fork",
-            "plate"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Cabinet"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Fork",
-                    "Plate"
-                ]
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "plate"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Plate"
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Cabinet"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "sinkbasin"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "plate",
-            "sinkbasin"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Plate",
-                    "SinkSinkBasin"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "put",
+    "m_args": [
+        "fork",
+        "plate_sink"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "fork"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Fork"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "plate"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "plate"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "fork",
+                "plate"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Cabinet"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Fork",
+                        "Plate"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "plate"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Plate"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Cabinet"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "plate",
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Plate",
+                        "SinkSinkBasin"
+                    ]
+                }
+            ]
+        }
+    ]
+}

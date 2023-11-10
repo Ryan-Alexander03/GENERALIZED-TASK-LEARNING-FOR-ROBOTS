@@ -1,210 +1,106 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "stoveburner"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "kettle"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Kettle"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "sinkbasin"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "CleanObject",
-        "m_args": [
-            "kettle"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Kettle",
-                    "SinkSinkBasin"
-                ]
-            },
-            {
-                "s_name": "ToggleObjectOn",
-                "s_args": "Faucet"
-            },
-            {
-                "s_name": "ToggleObjectOff",
-                "s_args": "Faucet"
-            },
-            {
-                "s_name": "PickupObject",
-                "s_args": "Kettle"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "diningtable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "LookUp"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "kettle",
-            "diningtable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Kettle",
-                    "DiningTable"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "put",
+    "m_args": [
+        "full_tea_pot",
+        "table"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "stoveburner"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "stoveburner"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "kettle"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Kettle"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "CleanObject",
+            "m_args": [
+                "kettle"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Kettle",
+                        "SinkSinkBasin"
+                    ]
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Kettle"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "kettle",
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Kettle",
+                        "DiningTable"
+                    ]
+                }
+            ]
+        }
+    ]
+}

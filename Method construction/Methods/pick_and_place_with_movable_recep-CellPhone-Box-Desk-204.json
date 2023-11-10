@@ -1,346 +1,107 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "coffeetable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "cellphone"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "CellPhone"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "box"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "cellphone",
-            "box"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "CellPhone",
-                    "Box"
-                ]
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "box"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Box"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "desk"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "box",
-            "desk"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Box",
-                    "Desk"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "move",
+    "m_args": [
+        "box_with_a_cell_phone_in_it",
+        "black_table"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "shelf"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "shelf"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "cellphone"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "CellPhone"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "box"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "box"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "cellphone",
+                "box"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "CellPhone",
+                        "Box"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "box"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Box"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "desk"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "desk"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "box",
+                "desk"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Box",
+                        "Desk"
+                    ]
+                }
+            ]
+        }
+    ]
+}

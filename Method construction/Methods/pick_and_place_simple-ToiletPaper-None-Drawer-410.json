@@ -1,81 +1,73 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "toiletpaperhanger"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "toiletpaper"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "ToiletPaper"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "drawer"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "toiletpaper",
-            "drawer"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Drawer"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "ToiletPaper",
-                    "Drawer"
-                ]
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Drawer"
-            }
-        ]
-    }
-]
+{
+    "m_name": "put",
+    "m_args": [
+        "empty_toilet_paper_roll",
+        "drawer"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "toiletpaper"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "ToiletPaper"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "drawer"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "toiletpaper",
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Drawer"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "ToiletPaper",
+                        "Drawer"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Drawer"
+                }
+            ]
+        }
+    ]
+}

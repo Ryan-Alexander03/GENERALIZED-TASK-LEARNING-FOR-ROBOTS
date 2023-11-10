@@ -1,172 +1,137 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "toilet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "spraybottle"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "SprayBottle"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "spraybottle",
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Cabinet"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "SprayBottle",
-                    "Cabinet"
-                ]
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Cabinet"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "toilet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "spraybottle"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "SprayBottle"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "spraybottle",
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Cabinet"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "SprayBottle",
-                    "Cabinet"
-                ]
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Cabinet"
-            }
-        ]
-    }
-]
+{
+    "m_name": "move_two",
+    "m_args": [
+        "into",
+        "cabinet"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "spraybottle"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "SprayBottle"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "cabinet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "cabinet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "spraybottle",
+                "cabinet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Cabinet"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "SprayBottle",
+                        "Cabinet"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Cabinet"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "toilet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "toilet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "spraybottle"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "SprayBottle"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "cabinet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "cabinet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "spraybottle",
+                "cabinet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Cabinet"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "SprayBottle",
+                        "Cabinet"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Cabinet"
+                }
+            ]
+        }
+    ]
+}

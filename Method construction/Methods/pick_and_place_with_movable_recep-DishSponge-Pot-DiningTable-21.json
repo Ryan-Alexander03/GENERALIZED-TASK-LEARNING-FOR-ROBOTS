@@ -1,169 +1,107 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "diningtable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "dishsponge"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "DishSponge"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "pot"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookUp"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "dishsponge",
-            "pot"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "DishSponge",
-                    "Pot"
-                ]
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "pot"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Pot"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "diningtable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "pot",
-            "diningtable"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Pot",
-                    "DiningTable"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "move",
+    "m_args": [
+        "pot_with_the_green_sponge_in_it",
+        "stove_table"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "dishsponge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "DishSponge"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "pot"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "pot"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "dishsponge",
+                "pot"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "DishSponge",
+                        "Pot"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pot"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pot"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "pot",
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pot",
+                        "DiningTable"
+                    ]
+                }
+            ]
+        }
+    ]
+}

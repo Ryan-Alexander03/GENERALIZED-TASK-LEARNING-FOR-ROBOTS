@@ -2,6 +2,8 @@ import json
 import re
 import template
 import formalSentence
+import progressbar
+import os
 
 def method(plan,fileName,param):
     highLvl = plan["high_pddl"]
@@ -84,39 +86,50 @@ def makeJSON(name,args,subtasks):
     
 
 if __name__ == '__main__':
-    splitsFile = '/mnt/Drive2/research/NL2FL/data/splits/train_split.json'
-    data = '/mnt/Drive2/research/NL2FL/data/json_2.1.0'
+    splitsFile = '/mnt/Drive2/GENERALIZED-TASK-LEARNING-FOR-ROBOTS/NL2FL/data/splits/train_split.json'
+    data = '/mnt/Drive2/GENERALIZED-TASK-LEARNING-FOR-ROBOTS/NL2FL/data/json_2.1.0'
     folder = 'methods'
+
     # load train/valid/tests splits
-    # with open(splitsFile) as f:
-    #     splits = json.load(f)
+    with open(splitsFile) as f:
+        splits = json.load(f)
 
-    # for k, d in splits.items():
-    #         print('methoding {}'.format(k))
+    for k, d in splits.items():
+            print('methoding {}'.format(k))
 
-    #         for task in progressbar.progressbar(d):
-    #             # load json file
-    #             json_path = os.path.join(data, k, task['task'], 'traj_data.json')
-    #             with open(json_path) as f:
-    #                 file = json.load(f) 
-    #                 plan = file['plan']
-    #                 taskName = task['task'].split('/', 1)[0]
-    #                 name = f"{taskName}.json"
-    #                 simpleMethod(plan,name)
+            for task in progressbar.progressbar(d):
+                # load json file
+                json_path = os.path.join(data, k, task['task'], 'traj_data.json')
+                with open(json_path) as f:
+                    # if templating fails, try other task descriptions. Hoping one will work
+                    try:
+                        temp = template.templating(json_path)
+                        formal = formalSentence.formalize(temp)
+                        param = formalSentence.paramterise(formal)
+                    except:
+                        try:
+                            temp = template.templating(json_path,1)
+                            formal = formalSentence.formalize(temp)
+                            param = formalSentence.paramterise(formal)
+                        except:
+                            temp = template.templating(json_path,2)
+                            formal = formalSentence.formalize(temp)
+                            param = formalSentence.paramterise(formal)
+                    file = json.load(f) 
+                    plan = file['plan']
+                    taskName = task['task'].split('/', 1)[0]
+                    name = f"{taskName}.json"
+                    method(plan,name,param)
 
-    temp = template.templating('traj_data.json')
-    #print(temp)
-    formal = formalSentence.formalize(temp)
-    #print(formal)
-    param = formalSentence.paramterise(formal)
-    #print(param)
+    
+  
 
-    with open('traj_data.json') as f:
-        file = json.load(f)
-        plan = file['plan']
-        taskName = file['task_type']
-        name = f"{taskName}.json"
-        method(plan,name,param) 
+    # with open('traj_data.json') as f:
+    #     file = json.load(f)
+    #     plan = file['plan']
+    #     taskName = file['task_type']
+    #     name = f"{taskName}.json"
+    #     method(plan,name,param) 
 
     # with open('traj_data.json') as f:
     #     #file = json.load(f)
@@ -127,3 +140,4 @@ if __name__ == '__main__':
     #     print(tasks)
     #     # simpleMethod(plan)
     
+    #template.testTemplating('traj_data.json')

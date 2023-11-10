@@ -1,149 +1,93 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "stoveburner"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookUp"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "pan"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Pan"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "pan",
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Pan",
-                    "CounterTop"
-                ]
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "tomato"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "Tomato"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "tomato",
-            "pan"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "Tomato",
-                    "Pan"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "move_from",
+    "m_args": [
+        "stove",
+        "to_counter_put_pan_stove"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "stoveburner"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "stoveburner"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pan"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pan"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "pan",
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pan",
+                        "CounterTop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "tomato"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Tomato"
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "tomato",
+                "pan"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Tomato",
+                        "Pan"
+                    ]
+                }
+            ]
+        }
+    ]
+}

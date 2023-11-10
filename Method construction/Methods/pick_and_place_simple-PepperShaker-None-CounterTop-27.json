@@ -1,114 +1,73 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "LookUp"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "peppershaker"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Cabinet"
-            },
-            {
-                "s_name": "PickupObject",
-                "s_args": "PepperShaker"
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Cabinet"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateLeft"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "peppershaker",
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "PepperShaker",
-                    "CounterTop"
-                ]
-            }
-        ]
-    }
-]
+{
+    "m_name": "move_to",
+    "m_args": [
+        "counter",
+        "seasoning_shaker"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "cabinet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "cabinet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "peppershaker"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Cabinet"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "PepperShaker"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Cabinet"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "peppershaker",
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "PepperShaker",
+                        "CounterTop"
+                    ]
+                }
+            ]
+        }
+    ]
+}

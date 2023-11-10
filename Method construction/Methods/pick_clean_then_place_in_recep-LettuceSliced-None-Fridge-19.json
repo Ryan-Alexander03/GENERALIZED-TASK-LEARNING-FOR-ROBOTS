@@ -1,299 +1,204 @@
-[
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookDown"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "butterknife"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "ButterKnife"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "lettuce"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "SliceObject",
-        "m_args": [
-            "lettuce"
-        ],
-        "subtasks": [
-            {
-                "s_name": "SliceObject",
-                "s_args": "Lettuce"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "butterknife",
-            "cabinet"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Cabinet"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "ButterKnife",
-                    "Cabinet"
-                ]
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Cabinet"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "countertop"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PickupObject",
-        "m_args": [
-            "lettuce"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PickupObject",
-                "s_args": "LettuceLettuceSliced"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "sinkbasin"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "CleanObject",
-        "m_args": [
-            "lettuce"
-        ],
-        "subtasks": [
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "LettuceLettuceSliced",
-                    "SinkSinkBasin"
-                ]
-            },
-            {
-                "s_name": "ToggleObjectOn",
-                "s_args": "Faucet"
-            },
-            {
-                "s_name": "ToggleObjectOff",
-                "s_args": "Faucet"
-            },
-            {
-                "s_name": "PickupObject",
-                "s_args": "LettuceLettuceSliced"
-            }
-        ]
-    },
-    {
-        "m_name": "GotoLocation",
-        "m_args": [
-            "fridge"
-        ],
-        "subtasks": [
-            {
-                "s_name": "LookUp"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "RotateRight"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "RotateLeft"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "MoveAhead"
-            },
-            {
-                "s_name": "LookDown"
-            }
-        ]
-    },
-    {
-        "m_name": "PutObject",
-        "m_args": [
-            "lettuce",
-            "fridge"
-        ],
-        "subtasks": [
-            {
-                "s_name": "OpenObject",
-                "s_args": "Fridge"
-            },
-            {
-                "s_name": "PutObject",
-                "s_args": [
-                    "LettuceLettuceSliced",
-                    "Fridge"
-                ]
-            },
-            {
-                "s_name": "CloseObject",
-                "s_args": "Fridge"
-            }
-        ]
-    }
-]
+{
+    "m_name": "clean",
+    "m_args": [
+        "slice_of_lettuce",
+        "fridge"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "butterknife"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "ButterKnife"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "lettuce"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "SliceObject",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "SliceObject",
+                    "s_args": "Lettuce"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "butterknife",
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "ButterKnife",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "LettuceLettuceSliced"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "CleanObject",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "LettuceLettuceSliced",
+                        "SinkSinkBasin"
+                    ]
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "LettuceLettuceSliced"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "lettuce",
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "LettuceLettuceSliced",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        }
+    ]
+}
