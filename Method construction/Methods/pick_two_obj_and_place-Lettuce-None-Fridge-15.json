@@ -1,0 +1,137 @@
+{
+    "m_name": "take",
+    "m_args": [
+        "heads_of_lettuce",
+        "refrigerator"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Lettuce"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "lettuce",
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Lettuce",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "lettuce"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Lettuce"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "lettuce",
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Lettuce",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        }
+    ]
+}

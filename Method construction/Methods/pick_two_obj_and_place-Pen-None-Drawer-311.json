@@ -1,0 +1,137 @@
+{
+    "m_name": "move_two",
+    "m_args": [
+        "pens",
+        "to_top_drawer_television_stand"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pen"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pen"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "drawer"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "pen",
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Drawer"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pen",
+                        "Drawer"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Drawer"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pen"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pen"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "drawer"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "pen",
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Drawer"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pen",
+                        "Drawer"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Drawer"
+                }
+            ]
+        }
+    ]
+}

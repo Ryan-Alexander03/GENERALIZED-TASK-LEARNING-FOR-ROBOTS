@@ -1,0 +1,122 @@
+{
+    "m_name": "place",
+    "m_args": [
+        "cooked_tomato",
+        "sink"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "tomato"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Tomato"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "microwave"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "microwave"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "HeatObject",
+            "m_args": [
+                "tomato"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Tomato",
+                        "Microwave"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Tomato"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "tomato",
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Tomato",
+                        "SinkSinkBasin"
+                    ]
+                }
+            ]
+        }
+    ]
+}

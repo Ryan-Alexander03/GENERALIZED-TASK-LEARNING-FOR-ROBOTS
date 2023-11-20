@@ -1,8 +1,8 @@
 {
-    "m_name": "wash",
+    "m_name": "put",
     "m_args": [
-        "knife",
-        "place_it_the_drawer"
+        "washed_knife",
+        "drawer"
     ],
     "subtasks": [
         {

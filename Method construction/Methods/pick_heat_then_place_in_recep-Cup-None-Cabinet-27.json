@@ -1,20 +1,20 @@
 {
-    "m_name": "put",
+    "m_name": "place",
     "m_args": [
-        "hot_wine_glass",
+        "warm_glass",
         "cabinet"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "countertop"
+                "fridge"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "countertop"
+                        "fridge"
                     ]
                 }
             ]
@@ -26,8 +26,16 @@
             ],
             "subtasks": [
                 {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
                     "s_name": "PickupObject",
                     "s_args": "Cup"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
                 }
             ]
         },

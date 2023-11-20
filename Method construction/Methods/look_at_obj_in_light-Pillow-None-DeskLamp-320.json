@@ -1,8 +1,8 @@
 {
-    "m_name": "examine",
+    "m_name": "grab",
     "m_args": [
-        "middle_pillow",
-        "bed_under_small_lamp"
+        "green_pillow",
+        "nowhere"
     ],
     "subtasks": [
         {

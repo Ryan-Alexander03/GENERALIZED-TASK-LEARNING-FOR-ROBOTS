@@ -1,0 +1,114 @@
+{
+    "m_name": "rinse_off",
+    "m_args": [
+        "tomato",
+        "fridge"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "tomato"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Tomato"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sinkbasin"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sinkbasin"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "CleanObject",
+            "m_args": [
+                "tomato"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Tomato",
+                        "SinkSinkBasin"
+                    ]
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Faucet"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Tomato"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "tomato",
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Tomato",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        }
+    ]
+}

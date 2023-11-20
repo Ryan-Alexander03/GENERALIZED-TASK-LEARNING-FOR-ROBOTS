@@ -1,0 +1,61 @@
+{
+    "m_name": "pick_up",
+    "m_args": [
+        "cushion",
+        "couch_turn_on_lamp"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sofa"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sofa"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pillow"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pillow"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "desklamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "desklamp"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "ToggleObject",
+            "m_args": [
+                "desklamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "DeskLamp"
+                }
+            ]
+        }
+    ]
+}

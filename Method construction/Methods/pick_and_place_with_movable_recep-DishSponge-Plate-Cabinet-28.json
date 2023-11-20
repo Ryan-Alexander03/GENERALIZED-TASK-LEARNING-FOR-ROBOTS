@@ -1,8 +1,8 @@
 {
-    "m_name": "put_away",
+    "m_name": "put",
     "m_args": [
-        "sponge",
-        "cabinet"
+        "plate_with_a_sponge",
+        "under_sink"
     ],
     "subtasks": [
         {
@@ -53,6 +53,10 @@
             ],
             "subtasks": [
                 {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
                     "s_name": "PutObject",
                     "s_args": [
                         "DishSponge",
@@ -70,6 +74,10 @@
                 {
                     "s_name": "PickupObject",
                     "s_args": "Plate"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
                 }
             ]
         },

@@ -1,0 +1,114 @@
+{
+    "m_name": "put",
+    "m_args": [
+        "chilled_pot",
+        "counter,_right_the_sink"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "stoveburner"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "stoveburner"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pot"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pot"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "CoolObject",
+            "m_args": [
+                "pot"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pot",
+                        "Fridge"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pot"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "pot",
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Pot",
+                        "CounterTop"
+                    ]
+                }
+            ]
+        }
+    ]
+}

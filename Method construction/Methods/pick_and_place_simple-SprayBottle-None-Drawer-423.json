@@ -1,0 +1,73 @@
+{
+    "m_name": "place",
+    "m_args": [
+        "spray_bottle",
+        "drawer"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "toilet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "toilet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "spraybottle"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "SprayBottle"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "drawer"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "spraybottle",
+                "drawer"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Drawer"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "SprayBottle",
+                        "Drawer"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Drawer"
+                }
+            ]
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
-    "m_name": "put",
+    "m_name": "place",
     "m_args": [
         "CD",
-        "night_stand"
+        "desk_night_stand"
     ],
     "subtasks": [
         {

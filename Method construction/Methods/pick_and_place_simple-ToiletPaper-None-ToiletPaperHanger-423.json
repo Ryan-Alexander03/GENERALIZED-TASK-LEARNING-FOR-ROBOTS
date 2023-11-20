@@ -1,0 +1,65 @@
+{
+    "m_name": "place",
+    "m_args": [
+        "full_roll_of_toilet_paper",
+        "empty_toilet_paper_holder"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "toilet"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "toilet"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "toiletpaper"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "ToiletPaper"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "toiletpaperhanger"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "toiletpaperhanger"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "toiletpaper",
+                "toiletpaperhanger"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "ToiletPaper",
+                        "ToiletPaperHanger"
+                    ]
+                }
+            ]
+        }
+    ]
+}

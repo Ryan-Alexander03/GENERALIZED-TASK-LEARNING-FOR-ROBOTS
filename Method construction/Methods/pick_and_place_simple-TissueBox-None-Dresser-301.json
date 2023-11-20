@@ -1,8 +1,8 @@
 {
-    "m_name": "move_bottom",
+    "m_name": "put",
     "m_args": [
-        "right",
-        "drawer_to_dresser_top"
+        "tissue_box",
+        "top_the_dresser"
     ],
     "subtasks": [
         {

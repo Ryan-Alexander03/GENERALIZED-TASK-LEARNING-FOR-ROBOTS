@@ -1,0 +1,61 @@
+{
+    "m_name": "look",
+    "m_args": [
+        "pillow",
+        "under_lamp_light"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "armchair"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "armchair"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pillow"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pillow"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "desklamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "desklamp"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "ToggleObject",
+            "m_args": [
+                "desklamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "DeskLamp"
+                }
+            ]
+        }
+    ]
+}

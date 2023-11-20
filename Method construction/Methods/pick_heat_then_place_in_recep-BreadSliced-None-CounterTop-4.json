@@ -1,8 +1,8 @@
 {
     "m_name": "put",
     "m_args": [
-        "knife",
-        "sink"
+        "heated_slice_of_bread",
+        "counter"
     ],
     "subtasks": [
         {
@@ -58,45 +58,17 @@
             ]
         },
         {
-            "m_name": "GotoLocation",
-            "m_args": [
-                "sinkbasin"
-            ],
-            "subtasks": [
-                {
-                    "s_name": "Navigate",
-                    "s_args": [
-                        "sinkbasin"
-                    ]
-                }
-            ]
-        },
-        {
             "m_name": "PutObject",
             "m_args": [
                 "butterknife",
-                "sinkbasin"
+                "diningtable"
             ],
             "subtasks": [
                 {
                     "s_name": "PutObject",
                     "s_args": [
                         "ButterKnife",
-                        "SinkSinkBasin"
-                    ]
-                }
-            ]
-        },
-        {
-            "m_name": "GotoLocation",
-            "m_args": [
-                "diningtable"
-            ],
-            "subtasks": [
-                {
-                    "s_name": "Navigate",
-                    "s_args": [
-                        "diningtable"
+                        "DiningTable"
                     ]
                 }
             ]

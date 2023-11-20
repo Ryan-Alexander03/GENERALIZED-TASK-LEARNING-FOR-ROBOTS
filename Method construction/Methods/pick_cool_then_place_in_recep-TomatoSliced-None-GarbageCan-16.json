@@ -1,7 +1,7 @@
 {
-    "m_name": "place",
+    "m_name": "throw_out",
     "m_args": [
-        "slice_of_chilled_tomato",
+        "paring_knife_and_chilled_slice_of_tomato",
         "trash"
     ],
     "subtasks": [
@@ -22,12 +22,12 @@
         {
             "m_name": "PickupObject",
             "m_args": [
-                "knife"
+                "butterknife"
             ],
             "subtasks": [
                 {
                     "s_name": "PickupObject",
-                    "s_args": "Knife"
+                    "s_args": "ButterKnife"
                 }
             ]
         },
@@ -60,13 +60,13 @@
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "fridge"
+                "garbagecan"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "fridge"
+                        "garbagecan"
                     ]
                 }
             ]
@@ -74,37 +74,29 @@
         {
             "m_name": "PutObject",
             "m_args": [
-                "knife",
-                "fridge"
+                "butterknife",
+                "garbagecan"
             ],
             "subtasks": [
                 {
-                    "s_name": "OpenObject",
-                    "s_args": "Fridge"
-                },
-                {
                     "s_name": "PutObject",
                     "s_args": [
-                        "Knife",
-                        "Fridge"
+                        "ButterKnife",
+                        "GarbageCan"
                     ]
-                },
-                {
-                    "s_name": "CloseObject",
-                    "s_args": "Fridge"
                 }
             ]
         },
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "countertop"
+                "diningtable"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "countertop"
+                        "diningtable"
                     ]
                 }
             ]

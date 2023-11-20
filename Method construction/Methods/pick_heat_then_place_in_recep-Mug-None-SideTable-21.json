@@ -1,0 +1,130 @@
+{
+    "m_name": "put",
+    "m_args": [
+        "heated_mug",
+        "small_black_shelving_unit"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "fridge"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "fridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "mug"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Fridge"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Mug"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Fridge"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "microwave"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "microwave"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "HeatObject",
+            "m_args": [
+                "mug"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Mug",
+                        "Microwave"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Mug"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sidetable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sidetable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "mug",
+                "sidetable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Mug",
+                        "SideTable"
+                    ]
+                }
+            ]
+        }
+    ]
+}

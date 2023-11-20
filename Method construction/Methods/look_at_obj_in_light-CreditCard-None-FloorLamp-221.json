@@ -1,0 +1,61 @@
+{
+    "m_name": "turn",
+    "m_args": [
+        "on_left",
+        "with_floor_lamp_hand"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "creditcard"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "CreditCard"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "floorlamp"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "ToggleObject",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "FloorLamp"
+                }
+            ]
+        }
+    ]
+}

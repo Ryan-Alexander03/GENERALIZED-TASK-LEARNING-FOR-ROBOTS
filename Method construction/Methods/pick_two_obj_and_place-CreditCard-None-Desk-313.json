@@ -1,20 +1,20 @@
 {
-    "m_name": "move_two",
+    "m_name": "place",
     "m_args": [
-        "to",
-        "black_desk"
+        "two_credit_cards",
+        "desk"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "sidetable"
+                "shelf"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "sidetable"
+                        "shelf"
                     ]
                 }
             ]

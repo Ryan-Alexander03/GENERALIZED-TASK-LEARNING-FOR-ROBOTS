@@ -1,0 +1,61 @@
+{
+    "m_name": "examine",
+    "m_args": [
+        "newspaper",
+        "under_floor_lamp"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "dresser"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "dresser"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "newspaper"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Newspaper"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "floorlamp"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "ToggleObject",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "FloorLamp"
+                }
+            ]
+        }
+    ]
+}

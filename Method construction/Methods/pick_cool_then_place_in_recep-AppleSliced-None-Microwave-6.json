@@ -1,20 +1,20 @@
 {
     "m_name": "cool",
     "m_args": [
-        "apple_piece",
+        "piece_of_apple",
         "microwave"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "knife"
+                "countertop"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "knife"
+                        "countertop"
                     ]
                 }
             ]
@@ -60,13 +60,13 @@
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "cabinet"
+                "fridge"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "cabinet"
+                        "fridge"
                     ]
                 }
             ]
@@ -75,36 +75,36 @@
             "m_name": "PutObject",
             "m_args": [
                 "knife",
-                "cabinet"
+                "fridge"
             ],
             "subtasks": [
                 {
                     "s_name": "OpenObject",
-                    "s_args": "Cabinet"
+                    "s_args": "Fridge"
                 },
                 {
                     "s_name": "PutObject",
                     "s_args": [
                         "Knife",
-                        "Cabinet"
+                        "Fridge"
                     ]
                 },
                 {
                     "s_name": "CloseObject",
-                    "s_args": "Cabinet"
+                    "s_args": "Fridge"
                 }
             ]
         },
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "sinkbasin"
+                "countertop"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "sinkbasin"
+                        "countertop"
                     ]
                 }
             ]

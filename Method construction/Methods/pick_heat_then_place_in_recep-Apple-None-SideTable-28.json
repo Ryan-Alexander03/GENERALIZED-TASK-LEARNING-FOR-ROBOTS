@@ -1,0 +1,122 @@
+{
+    "m_name": "place",
+    "m_args": [
+        "heated_apple",
+        "black_table"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "countertop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "countertop"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "apple"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Apple"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "microwave"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "microwave"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "HeatObject",
+            "m_args": [
+                "apple"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Apple",
+                        "Microwave"
+                    ]
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "ToggleObjectOff",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "OpenObject",
+                    "s_args": "Microwave"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Apple"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Microwave"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sidetable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sidetable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "apple",
+                "sidetable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Apple",
+                        "SideTable"
+                    ]
+                }
+            ]
+        }
+    ]
+}

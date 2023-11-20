@@ -1,20 +1,20 @@
 {
     "m_name": "put",
     "m_args": [
-        "chilled_green_cup",
+        "cold_cup",
         "microwave"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "sinkbasin"
+                "countertop"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "sinkbasin"
+                        "countertop"
                     ]
                 }
             ]

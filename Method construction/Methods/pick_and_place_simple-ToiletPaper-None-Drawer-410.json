@@ -1,8 +1,8 @@
 {
-    "m_name": "put",
+    "m_name": "move_to",
     "m_args": [
-        "empty_toilet_paper_roll",
-        "drawer"
+        "drawer",
+        "to"
     ],
     "subtasks": [
         {

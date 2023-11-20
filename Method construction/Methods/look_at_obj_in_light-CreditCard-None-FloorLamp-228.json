@@ -1,8 +1,8 @@
 {
-    "m_name": "examine",
+    "m_name": "pick_up",
     "m_args": [
         "credit_card",
-        "by_light_a_tall_lamp"
+        "nowhere"
     ],
     "subtasks": [
         {

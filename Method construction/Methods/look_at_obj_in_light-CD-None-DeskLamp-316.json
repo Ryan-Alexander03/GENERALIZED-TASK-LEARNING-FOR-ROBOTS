@@ -1,20 +1,20 @@
 {
-    "m_name": "carry_on",
+    "m_name": "move_a",
     "m_args": [
         "CD",
-        "while_lamp"
+        "while_turning_lamp"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "sidetable"
+                "drawer"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "sidetable"
+                        "drawer"
                     ]
                 }
             ]
@@ -26,8 +26,16 @@
             ],
             "subtasks": [
                 {
+                    "s_name": "OpenObject",
+                    "s_args": "Drawer"
+                },
+                {
                     "s_name": "PickupObject",
                     "s_args": "CD"
+                },
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Drawer"
                 }
             ]
         },

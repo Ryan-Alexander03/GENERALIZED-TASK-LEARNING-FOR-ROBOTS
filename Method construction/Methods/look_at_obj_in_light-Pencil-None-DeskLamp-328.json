@@ -2,35 +2,9 @@
     "m_name": "examine",
     "m_args": [
         "pencil",
-        "by_light_a_lamp"
+        "light_the_lamp"
     ],
     "subtasks": [
-        {
-            "m_name": "GotoLocation",
-            "m_args": [
-                "sidetable"
-            ],
-            "subtasks": [
-                {
-                    "s_name": "Navigate",
-                    "s_args": [
-                        "sidetable"
-                    ]
-                }
-            ]
-        },
-        {
-            "m_name": "PickupObject",
-            "m_args": [
-                "pencil"
-            ],
-            "subtasks": [
-                {
-                    "s_name": "PickupObject",
-                    "s_args": "Pencil"
-                }
-            ]
-        },
         {
             "m_name": "GotoLocation",
             "m_args": [
@@ -54,6 +28,18 @@
                 {
                     "s_name": "ToggleObjectOn",
                     "s_args": "DeskLamp"
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "pencil"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Pencil"
                 }
             ]
         }

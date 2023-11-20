@@ -1,0 +1,61 @@
+{
+    "m_name": "examine",
+    "m_args": [
+        "a_piece_of_a_vase",
+        "light_a_floor_lamp"
+    ],
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "diningtable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "diningtable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "vase"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Vase"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "floorlamp"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "ToggleObject",
+            "m_args": [
+                "floorlamp"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "ToggleObjectOn",
+                    "s_args": "FloorLamp"
+                }
+            ]
+        }
+    ]
+}

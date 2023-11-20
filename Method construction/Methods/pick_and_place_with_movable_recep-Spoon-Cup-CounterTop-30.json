@@ -1,20 +1,20 @@
 {
     "m_name": "place",
     "m_args": [
-        "chilled_orange_cup_with_spoon",
-        "counter_between_kettle_tomato"
+        "cup_with_a_spoon_in_it",
+        "kitchen_counter"
     ],
     "subtasks": [
         {
             "m_name": "GotoLocation",
             "m_args": [
-                "sinkbasin"
+                "countertop"
             ],
             "subtasks": [
                 {
                     "s_name": "Navigate",
                     "s_args": [
-                        "sinkbasin"
+                        "countertop"
                     ]
                 }
             ]
@@ -54,7 +54,7 @@
             "subtasks": [
                 {
                     "s_name": "OpenObject",
-                    "s_args": "Fridge"
+                    "s_args": "Microwave"
                 },
                 {
                     "s_name": "PutObject",
@@ -77,7 +77,7 @@
                 },
                 {
                     "s_name": "CloseObject",
-                    "s_args": "Fridge"
+                    "s_args": "Microwave"
                 }
             ]
         },

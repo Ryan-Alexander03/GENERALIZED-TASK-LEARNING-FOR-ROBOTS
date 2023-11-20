@@ -1,0 +1,66 @@
+{
+    "m_name": "move_center",
+    "m_args": "sofa",
+    "subtasks": [
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sidetable"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sidetable"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PickupObject",
+            "m_args": [
+                "laptop"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "CloseObject",
+                    "s_args": "Laptop"
+                },
+                {
+                    "s_name": "PickupObject",
+                    "s_args": "Laptop"
+                }
+            ]
+        },
+        {
+            "m_name": "GotoLocation",
+            "m_args": [
+                "sofa"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "Navigate",
+                    "s_args": [
+                        "sofa"
+                    ]
+                }
+            ]
+        },
+        {
+            "m_name": "PutObject",
+            "m_args": [
+                "laptop",
+                "sofa"
+            ],
+            "subtasks": [
+                {
+                    "s_name": "PutObject",
+                    "s_args": [
+                        "Laptop",
+                        "Sofa"
+                    ]
+                }
+            ]
+        }
+    ]
+}

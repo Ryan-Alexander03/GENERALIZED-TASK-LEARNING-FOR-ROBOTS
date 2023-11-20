@@ -1,7 +1,7 @@
 {
     "m_name": "put",
     "m_args": [
-        "chilled_tomato",
+        "tomato",
         "microwave"
     ],
     "subtasks": [

@@ -1,8 +1,8 @@
 {
-    "m_name": "put",
+    "m_name": "cool",
     "m_args": [
-        "chilled_mug",
-        "under_coffee_maker_on_table"
+        "cup",
+        "refrigerator"
     ],
     "subtasks": [
         {
